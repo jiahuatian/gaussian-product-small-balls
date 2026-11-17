@@ -1,0 +1,77 @@
+{
+  "case_id": "R222",
+  "widths": [
+    2,
+    2,
+    2
+  ],
+  "beta": 1,
+  "method": "gamma_tilt",
+  "n": 100000,
+  "seed": 17040000,
+  "log_t": 6,
+  "scaled_estimate": 0.5912138448678997,
+  "scaled_standard_error": 0.0031917098222471146,
+  "scaled_sample_variance": 1.0187011589428707,
+  "scaled_sum": 59121.384486789975,
+  "scaled_sum_squares": 136822.47822947663,
+  "rescaling_log_factor": 9.0,
+  "log_Z_estimate": -9.525577491374886,
+  "contribution_ess": 25546.519467163293,
+  "importance_weight_ess": 14156.3400067807,
+  "importance_weight_mean": 1.0054902888984256,
+  "maximum_contribution_fraction": 9.594661010414181e-05,
+  "nonzero_contributions": 100000,
+  "first_batch_proposal_metadata": {
+    "method": "gamma_tilt",
+    "face_count": 0,
+    "draws": 25000,
+    "ordinary_count": 1261,
+    "ordinary_probability": 0.05,
+    "shifted_count": 0,
+    "shifted_probability": 0.0,
+    "log_coordinate_shift": 4.0,
+    "ridge_count": 0,
+    "ridge_probability": 0.0,
+    "window_proposal_attempts": 0,
+    "simplex_dimension_each": 0,
+    "window_acceptance_probability": 1.0,
+    "face_probability": 0.0,
+    "design_log_t": 6.0,
+    "total_log_scale_center": 7.386294361119891,
+    "logistic_width": 3.0,
+    "tilted_shapes_a": [
+      0.13538588514205688
+    ],
+    "tilted_shapes_b": [
+      0.13538588514205688
+    ]
+  },
+  "face_samples": 0,
+  "ordinary_samples": 5087,
+  "runtime_seconds": 0.05753275699998994,
+  "job": {
+    "mode": "efficiency",
+    "name": "R222_gamma_tilt_L6_seed0",
+    "benchmark": {
+      "id": "R222",
+      "widths": [
+        2,
+        2,
+        2
+      ],
+      "beta": 1,
+      "lambda": 1.5,
+      "q": 0,
+      "kappa": "pi/6",
+      "coefficient_status": "proved calibration"
+    },
+    "n": 100000,
+    "seed": 17040000,
+    "batch_size": 25000,
+    "method": "gamma_tilt",
+    "log_t": 6
+  },
+  "estimator": "ordinary arithmetic mean of p/q times exact conditional kernel; NOT self-normalized",
+  "rescaling_note": "lambda,q rescale output only, and do not enter proposal density or conditional kernel."
+}

@@ -1,0 +1,9 @@
+Real d=(2,2,2,2): ratio t^(3/2) Z(t) / (A_pred L^2), A_pred = pi*sqrt(2)/64, against the Monte Carlo study.
+L=    10  quadrature 1.239827 (direct quadrature) | Monte Carlo 1.239240 +- 0.005631 (95%) | difference / half-width +0.10
+L=    20  quadrature 1.170570 (direct quadrature) | Monte Carlo 1.169387 +- 0.003717 (95%) | difference / half-width +0.32
+L=    40  quadrature 1.100399 (direct quadrature) | Monte Carlo 1.102015 +- 0.002950 (95%) | difference / half-width -0.55
+L=    80  quadrature 1.053991 (direct quadrature) | Monte Carlo 1.055589 +- 0.003293 (95%) | difference / half-width -0.49
+L=   160  quadrature 1.027942 (fitted polynomial) | Monte Carlo 1.028222 +- 0.002446 (95%) | difference / half-width -0.11
+L=   320  quadrature 1.014209 (fitted polynomial) | Monte Carlo 1.016580 +- 0.002377 (95%) | difference / half-width -1.00
+L=   640  quadrature 1.007165 (fitted polynomial) | Monte Carlo 1.006495 +- 0.002499 (95%) | difference / half-width +0.27
+L=  1280  quadrature 1.003599 (fitted polynomial) | Monte Carlo 1.003585 +- 0.002326 (95%) | difference / half-width +0.01

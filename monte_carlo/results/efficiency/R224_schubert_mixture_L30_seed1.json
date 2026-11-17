@@ -1,0 +1,77 @@
+{
+  "case_id": "R224",
+  "widths": [
+    2,
+    2,
+    4
+  ],
+  "beta": 1,
+  "method": "schubert_mixture",
+  "n": 100000,
+  "seed": 17550201,
+  "log_t": 30,
+  "scaled_estimate": 0.1100050796922654,
+  "scaled_standard_error": 0.015340591720202763,
+  "scaled_sample_variance": 23.533375432595353,
+  "scaled_sum": 11000.50796922654,
+  "scaled_sum_squares": 2354524.121639913,
+  "rescaling_log_factor": 60.0,
+  "log_Z_estimate": -62.20722873523535,
+  "contribution_ess": 51.39517343179012,
+  "importance_weight_ess": 5210.961028329315,
+  "importance_weight_mean": 1.0258473571760731,
+  "maximum_contribution_fraction": 0.0585524695417617,
+  "nonzero_contributions": 100000,
+  "first_batch_proposal_metadata": {
+    "method": "schubert_mixture",
+    "face_count": 22465,
+    "draws": 25000,
+    "ordinary_count": 1275,
+    "ordinary_probability": 0.05,
+    "shifted_count": 0,
+    "shifted_probability": 0.0,
+    "log_coordinate_shift": 4.0,
+    "ridge_count": 0,
+    "ridge_probability": 0.0,
+    "window_proposal_attempts": 25834,
+    "simplex_dimension_each": 0,
+    "window_acceptance_probability": 1.0,
+    "face_probability": 0.9,
+    "design_log_t": 30.0,
+    "total_log_scale_center": 31.38629436111989,
+    "logistic_width": 3.0,
+    "tilted_shapes_a": [
+      0.031861040634308224
+    ],
+    "tilted_shapes_b": [
+      0.031861040634308224
+    ]
+  },
+  "face_samples": 89741,
+  "ordinary_samples": 5137,
+  "runtime_seconds": 0.08304967500021121,
+  "job": {
+    "mode": "efficiency",
+    "name": "R224_schubert_mixture_L30_seed1",
+    "benchmark": {
+      "id": "R224",
+      "widths": [
+        2,
+        2,
+        4
+      ],
+      "beta": 1,
+      "lambda": 2.0,
+      "q": 0,
+      "kappa": "1/16",
+      "coefficient_status": "additional proved calibration"
+    },
+    "n": 100000,
+    "seed": 17550201,
+    "batch_size": 25000,
+    "method": "schubert_mixture",
+    "log_t": 30
+  },
+  "estimator": "ordinary arithmetic mean of p/q times exact conditional kernel; NOT self-normalized",
+  "rescaling_note": "lambda,q rescale output only, and do not enter proposal density or conditional kernel."
+}

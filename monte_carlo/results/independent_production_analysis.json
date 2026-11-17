@@ -1,0 +1,4509 @@
+{
+  "qualification": "Descriptive finite-range fits; no proven asymptotic remainder bound. SEs quantify sampling error only.",
+  "aggregation": "Equal-sized independent seeds. Working SE=max(between-seed SE, pooled within-seed SE); pointwise t(r-1) intervals. Fits use working SE without forcing chi-square/dof=1.",
+  "aggregates": [
+    {
+      "case_id": "C22222",
+      "method": "shifted_window_mixture",
+      "L": 10,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.04150597038989795,
+      "se_working": 0.00033863631025691214,
+      "se_within": 0.00033863631025691214,
+      "se_between": 0.00026783464065267853,
+      "ratio_to_leading": 0.4980716446787754,
+      "ci95_ratio_halfwidth": 0.009608971580440714,
+      "contribution_ess": 14910.93525704058,
+      "largest_single_seed_contribution_fraction": 0.005215921757546132,
+      "log_Z": -23.971577625300032,
+      "full_polynomial_scaled": 0.04163389697860409,
+      "full_polynomial_z": -0.3777698517004457,
+      "full_polynomial_ratio": 0.9969273453125975
+    },
+    {
+      "case_id": "C22222",
+      "method": "shifted_window_mixture",
+      "L": 20,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.058416618763257266,
+      "se_working": 0.000269571998495706,
+      "se_within": 0.000249216350375376,
+      "se_between": 0.000269571998495706,
+      "ratio_to_leading": 0.7009994251590872,
+      "ci95_ratio_halfwidth": 0.007649237822319359,
+      "contribution_ess": 53474.87102687611,
+      "largest_single_seed_contribution_fraction": 0.001991682993142147,
+      "log_Z": -50.85722576754976,
+      "full_polynomial_scaled": 0.05825207303208391,
+      "full_polynomial_z": 0.6103962284345869,
+      "full_polynomial_ratio": 1.0028247188916817
+    },
+    {
+      "case_id": "C22222",
+      "method": "shifted_window_mixture",
+      "L": 40,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.06986128752309748,
+      "se_working": 0.00020654040863776556,
+      "se_within": 0.00017799797347095562,
+      "se_between": 0.00020654040863776556,
+      "ratio_to_leading": 0.8383354502771697,
+      "ci95_ratio_halfwidth": 0.00586068551038493,
+      "contribution_ess": 143027.09469403906,
+      "largest_single_seed_contribution_fraction": 0.0007847574923893083,
+      "log_Z": -107.90572579327034,
+      "full_polynomial_scaled": 0.06983782796259556,
+      "full_polynomial_z": 0.11358339347074713,
+      "full_polynomial_ratio": 1.000335914807008
+    },
+    {
+      "case_id": "C22222",
+      "method": "shifted_window_mixture",
+      "L": 80,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.07629674339324255,
+      "se_working": 0.0001518008761629832,
+      "se_within": 0.0001518008761629832,
+      "se_between": 0.0001503851650022706,
+      "ratio_to_leading": 0.9155609207189106,
+      "ci95_ratio_halfwidth": 0.004307424398256277,
+      "contribution_ess": 224288.0856965815,
+      "largest_single_seed_contribution_fraction": 0.0004957096148232179,
+      "log_Z": -225.045018484516,
+      "full_polynomial_scaled": 0.0763517508191571,
+      "full_polynomial_z": -0.3623656681367894,
+      "full_polynomial_ratio": 0.9992795525272913
+    },
+    {
+      "case_id": "C22222",
+      "method": "shifted_window_mixture",
+      "L": 160,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.07967583387309651,
+      "se_working": 0.00014424189180034446,
+      "se_within": 0.00014424189180034446,
+      "se_between": 0.00014353104859104988,
+      "ratio_to_leading": 0.9561100064771582,
+      "ci95_ratio_halfwidth": 0.004092934505360602,
+      "contribution_ess": 264732.40680916136,
+      "largest_single_seed_contribution_fraction": 0.0003631218704308276,
+      "log_Z": -462.22909369186664,
+      "full_polynomial_scaled": 0.07978419653403124,
+      "full_polynomial_z": -0.7512565148876228,
+      "full_polynomial_ratio": 0.998641802942911
+    },
+    {
+      "case_id": "C22222",
+      "method": "shifted_window_mixture",
+      "L": 320,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.08175831601641695,
+      "se_working": 0.00014220828614890587,
+      "se_within": 0.00014220828614890587,
+      "se_between": 0.00014118709593571616,
+      "ratio_to_leading": 0.9810997921970034,
+      "ci95_ratio_halfwidth": 0.004035229946461789,
+      "contribution_ess": 283654.1365659878,
+      "largest_single_seed_contribution_fraction": 0.00033194634605505246,
+      "log_Z": -939.4307037662319,
+      "full_polynomial_scaled": 0.08154416133706228,
+      "full_polynomial_z": 1.5059226515846145,
+      "full_polynomial_ratio": 1.0026262417301646
+    },
+    {
+      "case_id": "C22222",
+      "method": "shifted_window_mixture",
+      "L": 640,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.08236760822999,
+      "se_working": 0.00015896489563967675,
+      "se_within": 0.00014109526575157495,
+      "se_between": 0.00015896489563967675,
+      "ratio_to_leading": 0.98841129875988,
+      "ci95_ratio_halfwidth": 0.0045107069685779485,
+      "contribution_ess": 291175.76976201095,
+      "largest_single_seed_contribution_fraction": 0.00029969700463645504,
+      "log_Z": -1896.6506903179425,
+      "full_polynomial_scaled": 0.08243509233463198,
+      "full_polynomial_z": -0.42452205797025366,
+      "full_polynomial_ratio": 0.9991813667853001
+    },
+    {
+      "case_id": "C22222",
+      "method": "shifted_window_mixture",
+      "L": 1280,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.08273148585034937,
+      "se_working": 0.0002500327200395355,
+      "se_within": 0.00014053268490611765,
+      "se_between": 0.0002500327200395355,
+      "ratio_to_leading": 0.9927778302041924,
+      "ci95_ratio_halfwidth": 0.007094801201966337,
+      "contribution_ess": 295380.2230118549,
+      "largest_single_seed_contribution_fraction": 0.00025970145790631317,
+      "log_Z": -3813.8736935980505,
+      "full_polynomial_scaled": 0.08288329844928814,
+      "full_polynomial_z": -0.6071709291278755,
+      "full_polynomial_ratio": 0.998168357174737
+    },
+    {
+      "case_id": "R222",
+      "method": "shifted_window_mixture",
+      "L": 10,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.6760564163825693,
+      "se_working": 0.0005485548744241686,
+      "se_within": 0.0005485548744241686,
+      "se_between": 0.0005438963178817886,
+      "ratio_to_leading": 0.9712882096991914,
+      "ci95_ratio_halfwidth": 0.001863577231989018,
+      "contribution_ess": 863277.5030265389,
+      "largest_single_seed_contribution_fraction": 1.7104495308398345e-05,
+      "log_Z": -15.391478750234214
+    },
+    {
+      "case_id": "R222",
+      "method": "shifted_window_mixture",
+      "L": 20,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.695558026255652,
+      "se_working": 0.0005812637338369525,
+      "se_within": 0.0005772407483069849,
+      "se_between": 0.0005812637338369525,
+      "ratio_to_leading": 0.9993061136505087,
+      "ci95_ratio_halfwidth": 0.0019746973560239747,
+      "contribution_ess": 841236.1297793267,
+      "largest_single_seed_contribution_fraction": 1.734031068913958e-05,
+      "log_Z": -30.363040840105782
+    },
+    {
+      "case_id": "R222",
+      "method": "shifted_window_mixture",
+      "L": 40,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.6964221939764678,
+      "se_working": 0.0005839866170250464,
+      "se_within": 0.0005839866170250464,
+      "se_between": 0.0005362430444072053,
+      "ratio_to_leading": 1.000547660802627,
+      "ci95_ratio_halfwidth": 0.001983947666888542,
+      "contribution_ess": 831137.9747790577,
+      "largest_single_seed_contribution_fraction": 1.8536046302657736e-05,
+      "log_Z": -60.36179920201455
+    },
+    {
+      "case_id": "R222",
+      "method": "shifted_window_mixture",
+      "L": 80,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.6961556309512065,
+      "se_working": 0.0006685824063236062,
+      "se_within": 0.000585741573867788,
+      "se_between": 0.0006685824063236062,
+      "ratio_to_leading": 1.0001646905100536,
+      "ci95_ratio_halfwidth": 0.002271340586374357,
+      "contribution_ess": 827852.1013540761,
+      "largest_single_seed_contribution_fraction": 2.6816508985254492e-05,
+      "log_Z": -120.36218203595567
+    },
+    {
+      "case_id": "R222",
+      "method": "shifted_window_mixture",
+      "L": 160,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.6962234028233955,
+      "se_working": 0.0005863412951244241,
+      "se_within": 0.0005863412951244241,
+      "se_between": 0.00031052170110320285,
+      "ratio_to_leading": 1.0002620581539532,
+      "ci95_ratio_halfwidth": 0.001991947093562619,
+      "contribution_ess": 826955.4262615925,
+      "largest_single_seed_contribution_fraction": 3.81494993206172e-05,
+      "log_Z": -240.36208468908302
+    },
+    {
+      "case_id": "R222",
+      "method": "shifted_window_mixture",
+      "L": 320,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.6963838030153167,
+      "se_working": 0.0005872324079736139,
+      "se_within": 0.0005872324079736139,
+      "se_between": 0.0005526530089458345,
+      "ratio_to_leading": 1.0004925046247968,
+      "ci95_ratio_halfwidth": 0.001994974425365342,
+      "contribution_ess": 825704.9830897691,
+      "largest_single_seed_contribution_fraction": 5.579962477419746e-05,
+      "log_Z": -480.3618543295215
+    },
+    {
+      "case_id": "R222",
+      "method": "shifted_window_mixture",
+      "L": 640,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.6965820460357685,
+      "se_working": 0.000587179126677378,
+      "se_within": 0.000587179126677378,
+      "se_between": 0.0005757989475727106,
+      "ratio_to_leading": 1.0007773197729917,
+      "ci95_ratio_halfwidth": 0.00199479341556088,
+      "contribution_ess": 826068.8461788892,
+      "largest_single_seed_contribution_fraction": 7.428600258196662e-05,
+      "log_Z": -960.3615696950893
+    },
+    {
+      "case_id": "R222",
+      "method": "shifted_window_mixture",
+      "L": 1280,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.695889155805195,
+      "se_working": 0.0008498043025863078,
+      "se_within": 0.0005872831818007198,
+      "se_between": 0.0008498043025863078,
+      "ratio_to_leading": 0.9997818464733328,
+      "ci95_ratio_halfwidth": 0.0028869964041584218,
+      "contribution_ess": 824930.233733029,
+      "largest_single_seed_contribution_fraction": 8.854662562761642e-05,
+      "log_Z": -1920.3625648902314
+    },
+    {
+      "case_id": "R2222",
+      "method": "shifted_window_mixture",
+      "L": 10,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.08602811212444882,
+      "se_working": 0.00016532330559388946,
+      "se_within": 0.00015165084344033342,
+      "se_between": 0.00016532330559388946,
+      "ratio_to_leading": 1.2392402079013478,
+      "ci95_ratio_halfwidth": 0.005631334474696242,
+      "contribution_ess": 277201.4828309868,
+      "largest_single_seed_contribution_fraction": 0.00023152866679792042,
+      "log_Z": -12.847910964987845
+    },
+    {
+      "case_id": "R2222",
+      "method": "shifted_window_mixture",
+      "L": 20,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.08117892249132827,
+      "se_working": 0.00010910855051182509,
+      "se_within": 0.00010910855051182509,
+      "se_between": 5.955267062762159e-05,
+      "ratio_to_leading": 1.1693873351519346,
+      "ci95_ratio_halfwidth": 0.0037165161909518884,
+      "contribution_ess": 433563.7829049412,
+      "largest_single_seed_contribution_fraction": 0.00015523007785606165,
+      "log_Z": -26.51963509363195
+    },
+    {
+      "case_id": "R2222",
+      "method": "shifted_window_mixture",
+      "L": 40,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.07650195210058913,
+      "se_working": 8.659564582124305e-05,
+      "se_within": 8.659564582124305e-05,
+      "se_between": 7.643330821261174e-05,
+      "ratio_to_leading": 1.1020152911044767,
+      "ci95_ratio_halfwidth": 0.002949669097892606,
+      "contribution_ess": 561391.7510399865,
+      "largest_single_seed_contribution_fraction": 0.00011935561790358531,
+      "log_Z": -55.19268011259258
+    },
+    {
+      "case_id": "R2222",
+      "method": "shifted_window_mixture",
+      "L": 80,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.07327901840753544,
+      "se_working": 9.667502729219489e-05,
+      "se_within": 7.62300984866208e-05,
+      "se_between": 9.667502729219489e-05,
+      "ratio_to_leading": 1.055588734468497,
+      "ci95_ratio_halfwidth": 0.003292998600996152,
+      "contribution_ess": 632044.4351829513,
+      "largest_single_seed_contribution_fraction": 0.00010079064107719642,
+      "log_Z": -113.8494276844519
+    },
+    {
+      "case_id": "R2222",
+      "method": "shifted_window_mixture",
+      "L": 160,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.0713792289054999,
+      "se_working": 7.181213691126973e-05,
+      "se_within": 7.181213691126973e-05,
+      "se_between": 5.782725462382392e-05,
+      "ratio_to_leading": 1.028222150693352,
+      "ci95_ratio_halfwidth": 0.002446104987057474,
+      "contribution_ess": 661303.5675259954,
+      "largest_single_seed_contribution_fraction": 9.45928412500978e-05,
+      "log_Z": -232.48940073317965
+    },
+    {
+      "case_id": "R2222",
+      "method": "shifted_window_mixture",
+      "L": 320,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.0705710170185909,
+      "se_working": 6.979572970383413e-05,
+      "se_within": 6.979572970383413e-05,
+      "se_between": 5.5812923439396856e-05,
+      "ratio_to_leading": 1.0165798091142113,
+      "ci95_ratio_halfwidth": 0.0023774210021742332,
+      "contribution_ess": 676522.639254066,
+      "largest_single_seed_contribution_fraction": 9.077973816125015e-05,
+      "log_Z": -471.1144937509994
+    },
+    {
+      "case_id": "R2222",
+      "method": "shifted_window_mixture",
+      "L": 640,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.06987094274484283,
+      "se_working": 7.336733294884082e-05,
+      "se_within": 6.870697716933009e-05,
+      "se_between": 7.336733294884082e-05,
+      "ratio_to_leading": 1.0064951964553757,
+      "ci95_ratio_halfwidth": 0.0024990789403051693,
+      "contribution_ess": 681681.8823957131,
+      "largest_single_seed_contribution_fraction": 8.678065661958265e-05,
+      "log_Z": -949.7381690609598
+    },
+    {
+      "case_id": "R2222",
+      "method": "shifted_window_mixture",
+      "L": 1280,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.06966894091991022,
+      "se_working": 6.828597600860346e-05,
+      "se_within": 6.828597600860346e-05,
+      "se_between": 6.294610037230804e-05,
+      "ratio_to_leading": 1.0035853478332901,
+      "ci95_ratio_halfwidth": 0.0023259949312902095,
+      "contribution_ess": 684607.0164018311,
+      "largest_single_seed_contribution_fraction": 0.00011871951009317157,
+      "log_Z": -1908.3547699576077
+    },
+    {
+      "case_id": "R22222",
+      "method": "shifted_window_mixture",
+      "L": 10,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.004679510095298201,
+      "se_working": 2.1972988829935857e-05,
+      "se_within": 2.1972988829935857e-05,
+      "se_between": 1.2033800260742018e-05,
+      "ratio_to_leading": 2.027620494239089,
+      "ci95_ratio_halfwidth": 0.0225132170300835,
+      "contribution_ess": 44349.131363059205,
+      "largest_single_seed_contribution_fraction": 0.0015450988584041973,
+      "log_Z": -11.154221483047621
+    },
+    {
+      "case_id": "R22222",
+      "method": "shifted_window_mixture",
+      "L": 20,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.0034138976098833027,
+      "se_working": 9.814041306536609e-06,
+      "se_within": 9.814041306536609e-06,
+      "se_between": 7.480416940276113e-06,
+      "ratio_to_leading": 1.4792336415703613,
+      "ci95_ratio_halfwidth": 0.01005532945865098,
+      "contribution_ess": 114102.2530584412,
+      "largest_single_seed_contribution_fraction": 0.0006832969461115346,
+      "log_Z": -23.69697155209051
+    },
+    {
+      "case_id": "R22222",
+      "method": "shifted_window_mixture",
+      "L": 40,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.0028723009311848553,
+      "se_working": 5.869801429155089e-06,
+      "se_within": 5.330645933542836e-06,
+      "se_between": 5.869801429155089e-06,
+      "ratio_to_leading": 1.2445611004331645,
+      "ci95_ratio_halfwidth": 0.0060141164463718795,
+      "contribution_ess": 253530.95609451004,
+      "largest_single_seed_contribution_fraction": 0.00033680370632079763,
+      "log_Z": -51.097124035776346
+    },
+    {
+      "case_id": "R22222",
+      "method": "shifted_window_mixture",
+      "L": 80,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.0025844021447768476,
+      "se_working": 3.5610700898082307e-06,
+      "se_within": 3.5610700898082307e-06,
+      "se_between": 2.9380041622038293e-06,
+      "ratio_to_leading": 1.119815247192252,
+      "ci95_ratio_halfwidth": 0.0036486226071333096,
+      "contribution_ess": 416904.7892686322,
+      "largest_single_seed_contribution_fraction": 0.00022010490475193902,
+      "log_Z": -108.43015453769155
+    },
+    {
+      "case_id": "R22222",
+      "method": "shifted_window_mixture",
+      "L": 160,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.0024428764007146256,
+      "se_working": 2.8868408671746236e-06,
+      "se_within": 2.8868408671746236e-06,
+      "se_between": 2.6495286001138893e-06,
+      "ratio_to_leading": 1.0584924819285708,
+      "ci95_ratio_halfwidth": 0.0029578167757256576,
+      "contribution_ess": 527285.9415937269,
+      "largest_single_seed_contribution_fraction": 0.00016604807418201372,
+      "log_Z": -225.71388382029113
+    },
+    {
+      "case_id": "R22222",
+      "method": "shifted_window_mixture",
+      "L": 320,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.002378416036611899,
+      "se_working": 3.798644553034084e-06,
+      "se_within": 2.613117426316382e-06,
+      "se_between": 3.798644553034084e-06,
+      "ratio_to_leading": 1.030561960857118,
+      "ci95_ratio_halfwidth": 0.0038920380793207965,
+      "contribution_ess": 585788.3559563439,
+      "largest_single_seed_contribution_fraction": 0.0001746596757946568,
+      "log_Z": -462.96803656052293
+    },
+    {
+      "case_id": "R22222",
+      "method": "shifted_window_mixture",
+      "L": 640,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.002343121517246786,
+      "se_working": 2.6003649563107447e-06,
+      "se_within": 2.4866015281361407e-06,
+      "se_between": 2.6003649563107447e-06,
+      "ratio_to_leading": 1.0152689303172489,
+      "ci95_ratio_halfwidth": 0.002664297564248036,
+      "contribution_ess": 614923.4820669618,
+      "largest_single_seed_contribution_fraction": 0.00013564064605529183,
+      "log_Z": -940.2103985514314
+    },
+    {
+      "case_id": "R22222",
+      "method": "shifted_window_mixture",
+      "L": 1280,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.002327110453257289,
+      "se_working": 2.430826779618279e-06,
+      "se_within": 2.430826779618279e-06,
+      "se_between": 2.0181988018690653e-06,
+      "ratio_to_leading": 1.0083313747145168,
+      "ci95_ratio_halfwidth": 0.0024905911196535673,
+      "contribution_ess": 628487.2906780721,
+      "largest_single_seed_contribution_fraction": 0.0001484695469161077,
+      "log_Z": -1897.4446665021874
+    },
+    {
+      "case_id": "R223",
+      "method": "ridge_mixture",
+      "L": 10,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.11771847645618592,
+      "se_working": 0.00010316714111883089,
+      "se_within": 0.00010316714111883089,
+      "se_between": 9.088508389291664e-05,
+      "ratio_to_leading": 0.9417478116494874,
+      "ci95_ratio_halfwidth": 0.0019516121908566611,
+      "contribution_ess": 788608.614039319,
+      "largest_single_seed_contribution_fraction": 1.6837816887227578e-05,
+      "log_Z": -19.836874204804886
+    },
+    {
+      "case_id": "R223",
+      "method": "ridge_mixture",
+      "L": 40,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.12328970335902714,
+      "se_working": 7.770221994635266e-05,
+      "se_within": 7.770221994635266e-05,
+      "se_between": 7.132556711308085e-05,
+      "ratio_to_leading": 0.9863176268722171,
+      "ci95_ratio_halfwidth": 0.0014698924295019364,
+      "contribution_ess": 1114574.6649573885,
+      "largest_single_seed_contribution_fraction": 1.0620755393023125e-05,
+      "log_Z": -78.40433892703308
+    },
+    {
+      "case_id": "R223",
+      "method": "ridge_mixture",
+      "L": 160,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.12461905450120551,
+      "se_working": 6.653837127482004e-05,
+      "se_within": 6.653837127482004e-05,
+      "se_between": 4.821808432332486e-05,
+      "ratio_to_leading": 0.9969524360096441,
+      "ci95_ratio_halfwidth": 0.0012587059710233931,
+      "contribution_ess": 1273747.2985109845,
+      "largest_single_seed_contribution_fraction": 1.182315688472909e-05,
+      "log_Z": -317.007319943716
+    },
+    {
+      "case_id": "R223",
+      "method": "ridge_mixture",
+      "L": 640,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.12492773771376091,
+      "se_working": 6.76679043999307e-05,
+      "se_within": 6.31211946819432e-05,
+      "se_between": 6.76679043999307e-05,
+      "ratio_to_leading": 0.9994219017100873,
+      "ci95_ratio_halfwidth": 0.0012800733423883057,
+      "contribution_ess": 1323995.9156772704,
+      "largest_single_seed_contribution_fraction": 8.63334843868643e-06,
+      "log_Z": -1275.6185516307792
+    },
+    {
+      "case_id": "R223",
+      "method": "ridge_mixture",
+      "L": 1280,
+      "replicates": 8,
+      "n_total": 2000000,
+      "mean": 0.12492052463598356,
+      "se_working": 8.358273159696657e-05,
+      "se_within": 6.25860898048115e-05,
+      "se_between": 8.358273159696657e-05,
+      "ratio_to_leading": 0.9993641970878685,
+      "ci95_ratio_halfwidth": 0.001581134033188461,
+      "contribution_ess": 1331542.253254862,
+      "largest_single_seed_contribution_fraction": 8.579195411058186e-06,
+      "log_Z": -2554.9254621898867
+    }
+  ],
+  "intercept_fits": [
+    {
+      "coefficients": [
+        1.003586046642982,
+        -0.027442698072784853
+      ],
+      "standard_errors": [
+        0.0004022164154233694,
+        0.0009007256571585507
+      ],
+      "covariance": [
+        [
+          1.617780448360245e-07,
+          -2.313628265325088e-07
+        ],
+        [
+          -2.313628265325088e-07,
+          8.113067094637031e-07
+        ]
+      ],
+      "chi_square": 213.80139812344322,
+      "degrees_of_freedom": 6,
+      "lack_of_fit_p": 2.1810825728755207e-43,
+      "design_condition_number": 2.129392455421342,
+      "case_id": "R222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.003586046642982,
+      "intercept_ratio_se": 0.0004022164154233694,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        0.9994389269735313,
+        0.022060263211131994,
+        -0.04999787851188342
+      ],
+      "standard_errors": [
+        0.0004955416206332898,
+        0.003570601365963973,
+        0.0034896682071037083
+      ],
+      "covariance": [
+        [
+          2.455614977798673e-07,
+          -1.2314615354903415e-06,
+          1.0100974255576665e-06
+        ],
+        [
+          -1.2314615354903418e-06,
+          1.2749194114623792e-05,
+          -1.2057239177035987e-05
+        ],
+        [
+          1.0100974255576661e-06,
+          -1.2057239177035983e-05,
+          1.2177784195670411e-05
+        ]
+      ],
+      "chi_square": 8.526956113054066,
+      "degrees_of_freedom": 5,
+      "lack_of_fit_p": 0.12948616671136906,
+      "design_condition_number": 10.733681159588505,
+      "case_id": "R222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 0.9994389269735313,
+      "intercept_ratio_se": 0.0004955416206332898,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0005189591978034,
+        -0.005268755515689241,
+        0.03542281180959546,
+        -0.05938538713870943
+      ],
+      "standard_errors": [
+        0.0006255802583279396,
+        0.010300295709979842,
+        0.030399709758309267,
+        0.020994498166705792
+      ],
+      "covariance": [
+        [
+          3.9135065960965157e-07,
+          -4.920494736788784e-06,
+          1.2540689351439907e-05,
+          -8.016192129564316e-06
+        ],
+        [
+          -4.920494736788776e-06,
+          0.00010609609171302913,
+          -0.0003038260916166086,
+          0.00020284085965510072
+        ],
+        [
+          1.2540689351439869e-05,
+          -0.00030382609161660817,
+          0.0009241423533894436,
+          -0.0006340076250208031
+        ],
+        [
+          -8.016192129564299e-06,
+          0.00020284085965510044,
+          -0.0006340076250208028,
+          0.0004407689532718129
+        ]
+      ],
+      "chi_square": 0.5258839426193662,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 0.970932747539535,
+      "design_condition_number": 90.51394938257205,
+      "case_id": "R222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "degree": 3,
+      "intercept_ratio": 1.0005189591978034,
+      "intercept_ratio_se": 0.0006255802583279396,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0005356416845632,
+        -0.001009778683163568
+      ],
+      "standard_errors": [
+        0.0004533178067116342,
+        0.0009808272032501815
+      ],
+      "covariance": [
+        [
+          2.0549703388184655e-07,
+          -2.978660781233796e-07
+        ],
+        [
+          -2.978660781233796e-07,
+          9.620220026355727e-07
+        ]
+      ],
+      "chi_square": 0.9654974443969511,
+      "degrees_of_freedom": 5,
+      "lack_of_fit_p": 0.9653003610250035,
+      "design_condition_number": 2.2492703479908025,
+      "case_id": "R222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.0005356416845632,
+      "intercept_ratio_se": 0.0004533178067116342,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.000331116518438,
+        0.001083972352828208,
+        -0.0020774007862180265
+      ],
+      "standard_errors": [
+        0.0005889551696729656,
+        0.003972097507028423,
+        0.0038190376972963022
+      ],
+      "covariance": [
+        [
+          3.468681918845117e-07,
+          -1.7451012234799997e-06,
+          1.4359335838527109e-06
+        ],
+        [
+          -1.745101223479999e-06,
+          1.5777558605341408e-05,
+          -1.4699841030589499e-05
+        ],
+        [
+          1.4359335838527098e-06,
+          -1.4699841030589497e-05,
+          1.4585048933370241e-05
+        ]
+      ],
+      "chi_square": 0.6696058058911403,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 0.9550235680342961,
+      "design_condition_number": 11.367946695645623,
+      "case_id": "R222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 1.000331116518438,
+      "intercept_ratio_se": 0.0005889551696729656,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0005560623913219,
+        -0.0033943702171864948,
+        0.011152615244166754,
+        -0.009006112400876681
+      ],
+      "standard_errors": [
+        0.0008294132808346085,
+        0.012286410495087687,
+        0.034559278253272346,
+        0.02338156520485014
+      ],
+      "covariance": [
+        [
+          6.879263904248292e-07,
+          -8.535069982603919e-06,
+          2.1495005466941573e-05,
+          -1.3654878090960466e-05
+        ],
+        [
+          -8.535069982603865e-06,
+          0.00015095588285380087,
+          -0.0004140465566530634,
+          0.0002718486054405937
+        ],
+        [
+          2.1495005466941302e-05,
+          -0.0004140465566530613,
+          0.0011943437133871031,
+          -0.0008031010025668928
+        ],
+        [
+          -1.3654878090960234e-05,
+          0.0002718486054405917,
+          -0.000803101002566891,
+          0.0005466975914286587
+        ]
+      ],
+      "chi_square": 0.5212421367459769,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.9142004283152123,
+      "design_condition_number": 97.65815155550958,
+      "case_id": "R222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "degree": 3,
+      "intercept_ratio": 1.0005560623913219,
+      "intercept_ratio_se": 0.0008294132808346085,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0003740393817873,
+        7.60906159620817e-05
+      ],
+      "standard_errors": [
+        0.0005229002325575758,
+        0.0010575742180692373
+      ],
+      "covariance": [
+        [
+          2.7342465320876685e-07,
+          -3.931411024038544e-07
+        ],
+        [
+          -3.931411024038544e-07,
+          1.1184632267247586e-06
+        ]
+      ],
+      "chi_square": 0.581039627071339,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 0.9651471327465869,
+      "design_condition_number": 2.4327808891521765,
+      "case_id": "R222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.0003740393817873,
+      "intercept_ratio_se": 0.0005229002325575758,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0005317401120353,
+        -0.0012337557941924926,
+        0.0012382643265129037
+      ],
+      "standard_errors": [
+        0.0007657787323703071,
+        0.004765624111507858,
+        0.004392851909240481
+      ],
+      "covariance": [
+        [
+          5.864170669506745e-07,
+          -2.9928246225767466e-06,
+          2.4576128455201527e-06
+        ],
+        [
+          -2.992824622576746e-06,
+          2.2711173172185064e-05,
+          -2.041268520563027e-05
+        ],
+        [
+          2.4576128455201535e-06,
+          -2.041268520563027e-05,
+          1.9297147896517737e-05
+        ]
+      ],
+      "chi_square": 0.5015823647579747,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.9185436357397692,
+      "design_condition_number": 13.375790099608476,
+      "case_id": "R222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 1.0005317401120353,
+      "intercept_ratio_se": 0.0007657787323703071,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0003488354694856,
+        0.001593971708004536,
+        -0.0068761350502670165,
+        0.005483954549155428
+      ],
+      "standard_errors": [
+        0.0011774893662880612,
+        0.014626644261403424,
+        0.03992445238754338,
+        0.026818317031848584
+      ],
+      "covariance": [
+        [
+          1.3864812077214598e-06,
+          -1.5361911283457024e-05,
+          3.7951736311944355e-05,
+          -2.3987993542567566e-05
+        ],
+        [
+          -1.5361911283457176e-05,
+          0.00021393872234964573,
+          -0.0005691560505628463,
+          0.0003708572298501048
+        ],
+        [
+          3.7951736311945094e-05,
+          -0.0005691560505628509,
+          0.001593961898445218,
+          -0.0010642056819237275
+        ],
+        [
+          -2.3987993542568136e-05,
+          0.00037085722985010926,
+          -0.0010642056819237314,
+          0.0007192221284207399
+        ]
+      ],
+      "chi_square": 0.459768081925212,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.7946257411971114,
+      "design_condition_number": 112.52122403513842,
+      "case_id": "R222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "degree": 3,
+      "intercept_ratio": 1.0003488354694856,
+      "intercept_ratio_se": 0.0011774893662880612,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0004927766096667,
+        -0.000321649366146062
+      ],
+      "standard_errors": [
+        0.0006474344895924327,
+        0.0012716578811909308
+      ],
+      "covariance": [
+        [
+          4.191714183138138e-07,
+          -6.3808612399771e-07
+        ],
+        [
+          -6.380861239977099e-07,
+          1.6171137667950072e-06
+        ]
+      ],
+      "chi_square": 0.48430657591679416,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.9223254111709449,
+      "design_condition_number": 2.8088606727203764,
+      "case_id": "R222",
+      "min_L": 80,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.0004927766096667,
+      "intercept_ratio_se": 0.0006474344895924327,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0004147890046373,
+        0.0001760425316031043,
+        -0.0004567474209415235
+      ],
+      "standard_errors": [
+        0.0010541184844708872,
+        0.005458860726398491,
+        0.004871938505879777
+      ],
+      "covariance": [
+        [
+          1.1111657793032002e-06,
+          -5.05417232925084e-06,
+          4.052780433081569e-06
+        ],
+        [
+          -5.054172329250839e-06,
+          2.979916043021586e-05,
+          -2.586354567667614e-05
+        ],
+        [
+          4.052780433081567e-06,
+          -2.5863545676676136e-05,
+          2.373578480507407e-05
+        ]
+      ],
+      "chi_square": 0.4755173908002757,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.7883929109782987,
+      "design_condition_number": 14.108095866905808,
+      "case_id": "R222",
+      "min_L": 80,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 1.0004147890046373,
+      "intercept_ratio_se": 0.0010541184844708872,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0004841075985016,
+        -0.00014143996074438011
+      ],
+      "standard_errors": [
+        0.0008449889787251889,
+        0.0013705791845331644
+      ],
+      "covariance": [
+        [
+          7.140063741670378e-07,
+          -9.783216859301961e-07
+        ],
+        [
+          -9.783216859301961e-07,
+          1.878487301075594e-06
+        ]
+      ],
+      "chi_square": 0.48405168160017253,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.785035891334196,
+      "design_condition_number": 3.447052928957392,
+      "case_id": "R222",
+      "min_L": 160,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.0004841075985016,
+      "intercept_ratio_se": 0.0008449889787251889,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0004175043465187,
+        -0.058428226935223114
+      ],
+      "standard_errors": [
+        0.00032086655927473324,
+        0.0009102272625155107
+      ],
+      "covariance": [
+        [
+          1.0295534886080592e-07,
+          -1.5065038325276006e-07
+        ],
+        [
+          -1.5065038325276006e-07,
+          8.285136694264805e-07
+        ]
+      ],
+      "chi_square": 1.694324858066515,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.6381962459309982,
+      "design_condition_number": 1.7693706716419446,
+      "case_id": "R223",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.0004175043465187,
+      "intercept_ratio_se": 0.00032086655927473324,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.000156920938626,
+        -0.05392841394153795,
+        -0.004487398097442898
+      ],
+      "standard_errors": [
+        0.0003987421413878078,
+        0.004187977462248508,
+        0.004076586818394192
+      ],
+      "covariance": [
+        [
+          1.589952953185345e-07,
+          -1.1183608037864485e-06,
+          9.650405263670322e-07
+        ],
+        [
+          -1.1183608037864487e-06,
+          1.7539155224301456e-05,
+          -1.6664537220911262e-05
+        ],
+        [
+          9.650405263670318e-07,
+          -1.6664537220911262e-05,
+          1.6618560087905284e-05
+        ]
+      ],
+      "chi_square": 0.4826229068487613,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.7855969114334194,
+      "design_condition_number": 11.054338927476143,
+      "case_id": "R223",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 1.000156920938626,
+      "intercept_ratio_se": 0.0003987421413878078,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0001917444485595,
+        -0.02760981284944522
+      ],
+      "standard_errors": [
+        0.00038411992187476716,
+        0.0015681177242348526
+      ],
+      "covariance": [
+        [
+          1.4754811438107722e-07,
+          -3.9221141427521586e-07
+        ],
+        [
+          -3.9221141427521586e-07,
+          2.4589931970594933e-06
+        ]
+      ],
+      "chi_square": 0.5513696963490241,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.7590521097284391,
+      "design_condition_number": 2.175538461310709,
+      "case_id": "R223",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.0001917444485595,
+      "intercept_ratio_se": 0.00038411992187476716,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0001917444485595,
+        -0.01380490642472261
+      ],
+      "standard_errors": [
+        0.00038411992187476716,
+        0.0007840588621174263
+      ],
+      "covariance": [
+        [
+          1.4754811438107722e-07,
+          -1.9610570713760793e-07
+        ],
+        [
+          -1.9610570713760793e-07,
+          6.147482992648733e-07
+        ]
+      ],
+      "chi_square": 0.5513696963490241,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.7590521097284391,
+      "design_condition_number": 2.175538461310709,
+      "case_id": "R223",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.0001917444485595,
+      "intercept_ratio_se": 0.00038411992187476716,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0108099508660873,
+        0.27519054437936336
+      ],
+      "standard_errors": [
+        0.000497221893624452,
+        0.002044805615652031
+      ],
+      "covariance": [
+        [
+          2.4722961149948595e-07,
+          -5.347909384394839e-07
+        ],
+        [
+          -5.34790938439484e-07,
+          4.181230005802082e-06
+        ]
+      ],
+      "chi_square": 1107.2124679441415,
+      "degrees_of_freedom": 6,
+      "lack_of_fit_p": 5.738631643418855e-236,
+      "design_condition_number": 1.7942592928024583,
+      "case_id": "R2222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.0108099508660873,
+      "intercept_ratio_se": 0.000497221893624452,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.001104325174584,
+        0.44934051770595657,
+        -0.21256504825374964
+      ],
+      "standard_errors": [
+        0.0005774176743105511,
+        0.005650496092700029,
+        0.006429474685801584
+      ],
+      "covariance": [
+        [
+          3.334111706062057e-07,
+          -2.0811638047265773e-06,
+          1.887481328085885e-06
+        ],
+        [
+          -2.0811638047265773e-06,
+          3.192810609361829e-05,
+          -3.386745310282926e-05
+        ],
+        [
+          1.887481328085885e-06,
+          -3.386745310282926e-05,
+          4.133814473536338e-05
+        ]
+      ],
+      "chi_square": 14.180837512413103,
+      "degrees_of_freedom": 5,
+      "lack_of_fit_p": 0.014500612048733664,
+      "design_condition_number": 6.487489214572872,
+      "case_id": "R2222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 1.001104325174584,
+      "intercept_ratio_se": 0.0005774176743105511,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        0.9998876855640995,
+        0.48878752476267817,
+        -0.3491743561991921,
+        0.09972972488248912
+      ],
+      "standard_errors": [
+        0.0006986196258013592,
+        0.013946751509856692,
+        0.044623156761397026,
+        0.032236594787043736
+      ],
+      "covariance": [
+        [
+          4.880693815548312e-07,
+          -7.0956343891923455e-06,
+          1.925314243569938e-05,
+          -1.2677559316503422e-05
+        ],
+        [
+          -7.095634389192352e-06,
+          0.00019451187767768993,
+          -0.0005969128696365522,
+          0.0004110434737703229
+        ],
+        [
+          1.925314243569942e-05,
+          -0.0005969128696365527,
+          0.001991226119352213,
+          -0.0014234885908204252
+        ],
+        [
+          -1.2677559316503435e-05,
+          0.00041104347377032304,
+          -0.0014234885908204254,
+          0.0010391980434640556
+        ]
+      ],
+      "chi_square": 4.6099784372892945,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 0.32970531527613384,
+      "design_condition_number": 44.34806451924228,
+      "case_id": "R2222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "degree": 3,
+      "intercept_ratio": 0.9998876855640995,
+      "intercept_ratio_se": 0.0006986196258013592,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0049955912193842,
+        0.1744599444894083
+      ],
+      "standard_errors": [
+        0.0005319644046096403,
+        0.0015756552290588273
+      ],
+      "covariance": [
+        [
+          2.8298612777168905e-07,
+          -4.94101819540196e-07
+        ],
+        [
+          -4.94101819540196e-07,
+          2.4826894008604254e-06
+        ]
+      ],
+      "chi_square": 161.74065956525357,
+      "degrees_of_freedom": 5,
+      "lack_of_fit_p": 4.2124992404126925e-33,
+      "design_condition_number": 1.967721518663329,
+      "case_id": "R2222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.0049955912193842,
+      "intercept_ratio_se": 0.0005319644046096403,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0001250655771199,
+        0.23875871731315476,
+        -0.0695374660683821
+      ],
+      "standard_errors": [
+        0.0006587802283422812,
+        0.005366587275581429,
+        0.005548033397412516
+      ],
+      "covariance": [
+        [
+          4.339913892547081e-07,
+          -2.487614166345919e-06,
+          2.155932237663353e-06
+        ],
+        [
+          -2.487614166345919e-06,
+          2.8800258986432508e-05,
+          -2.8461773400800963e-05
+        ],
+        [
+          2.1559322376633533e-06,
+          -2.8461773400800966e-05,
+          3.078067457880467e-05
+        ]
+      ],
+      "chi_square": 4.646662978784797,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 0.3255094619016478,
+      "design_condition_number": 8.597638514862698,
+      "case_id": "R2222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 1.0001250655771199,
+      "intercept_ratio_se": 0.0006587802283422812,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        0.9999763893742534,
+        0.2422486223228931,
+        -0.08041362612441118,
+        0.0075863494122294355
+      ],
+      "standard_errors": [
+        0.0008847003567152615,
+        0.014863800380346943,
+        0.04355267285245345,
+        0.030131408218741506
+      ],
+      "covariance": [
+        [
+          7.826947211721109e-07,
+          -1.0672794319617085e-05,
+          2.766474384885799e-05,
+          -1.7792930315145305e-05
+        ],
+        [
+          -1.0672794319617072e-05,
+          0.00022093256174680193,
+          -0.0006272349981514603,
+          0.0004176568640260688
+        ],
+        [
+          2.7664743848857928e-05,
+          -0.0006272349981514599,
+          0.0018968353125928359,
+          -0.001301612189721386
+        ],
+        [
+          -1.7792930315145265e-05,
+          0.0004176568640260684,
+          -0.0013016121897213857,
+          0.0009079017612444433
+        ]
+      ],
+      "chi_square": 4.583272092390614,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.20498179151242313,
+      "design_condition_number": 65.15910507175393,
+      "case_id": "R2222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "degree": 3,
+      "intercept_ratio": 0.9999763893742534,
+      "intercept_ratio_se": 0.0008847003567152615,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.001927602811148,
+        0.10167930947100365
+      ],
+      "standard_errors": [
+        0.0005893364354880947,
+        0.0014309538966570839
+      ],
+      "covariance": [
+        [
+          3.4731743419381313e-07,
+          -5.500327392340556e-07
+        ],
+        [
+          -5.500327392340556e-07,
+          2.0476290543580923e-06
+        ]
+      ],
+      "chi_square": 15.426937731131313,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 0.0038929078100796684,
+      "design_condition_number": 2.17965557643752,
+      "case_id": "R2222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.001927602811148,
+      "intercept_ratio_se": 0.0005893364354880947,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0000257968818083,
+        0.12042198555086056,
+        -0.01846982545810024
+      ],
+      "standard_errors": [
+        0.0008255853077410053,
+        0.0058748567575303235,
+        0.005614973054928596
+      ],
+      "covariance": [
+        [
+          6.815911003578105e-07,
+          -3.844366272579881e-06,
+          3.246375549703679e-06
+        ],
+        [
+          -3.844366272579881e-06,
+          3.451394192149971e-05,
+          -3.199367738999798e-05
+        ],
+        [
+          3.2463755497036786e-06,
+          -3.199367738999798e-05,
+          3.1527922407574175e-05
+        ]
+      ],
+      "chi_square": 4.6068637648635775,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.20295406329847318,
+      "design_condition_number": 11.169628514654933,
+      "case_id": "R2222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 1.0000257968818083,
+      "intercept_ratio_se": 0.0008255853077410053,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        0.9996416062148115,
+        0.12736401756344012,
+        -0.0400003391999639,
+        0.015030669751083777
+      ],
+      "standard_errors": [
+        0.0011710444841604337,
+        0.016115731211543652,
+        0.04688051041529409,
+        0.03249216592788831
+      ],
+      "covariance": [
+        [
+          1.3713451838825764e-06,
+          -1.6307695915818097e-05,
+          4.190103598152423e-05,
+          -2.6985210025959823e-05
+        ],
+        [
+          -1.6307695915818117e-05,
+          0.00025971679248272225,
+          -0.0007304538775055368,
+          0.0004876021412252779
+        ],
+        [
+          4.19010359815244e-05,
+          -0.000730453877505538,
+          0.002197782256798498,
+          -0.00151228409537555
+        ],
+        [
+          -2.6985210025959928e-05,
+          0.0004876021412252789,
+          -0.001512284095375551,
+          0.0010557408466854259
+        ]
+      ],
+      "chi_square": 4.392870876481709,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.11119882783861576,
+      "design_condition_number": 87.9012339542381,
+      "case_id": "R2222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "degree": 3,
+      "intercept_ratio": 0.9996416062148115,
+      "intercept_ratio_se": 0.0011710444841604337,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0006921903788484,
+        0.05540307214965146
+      ],
+      "standard_errors": [
+        0.0007103974619598187,
+        0.0016305901557553367
+      ],
+      "covariance": [
+        [
+          5.04664553958952e-07,
+          -8.562316525698202e-07
+        ],
+        [
+          -8.562316525698202e-07,
+          2.658824256046213e-06
+        ]
+      ],
+      "chi_square": 5.727085073142655,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.1256699714339773,
+      "design_condition_number": 2.582221155570991,
+      "case_id": "R2222",
+      "min_L": 80,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.0006921903788484,
+      "intercept_ratio_se": 0.0007103974619598187,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        0.9998298235634104,
+        0.061762951151174,
+        -0.00624701670920169
+      ],
+      "standard_errors": [
+        0.0010585008128619873,
+        0.0060124504653982745,
+        0.005684420049086389
+      ],
+      "covariance": [
+        [
+          1.1204239708294877e-06,
+          -5.397402898076947e-06,
+          4.460583706582181e-06
+        ],
+        [
+          -5.397402898076947e-06,
+          3.614956059886793e-05,
+          -3.289641036990834e-05
+        ],
+        [
+          4.460583706582179e-06,
+          -3.2896410369908334e-05,
+          3.231263129445531e-05
+        ]
+      ],
+      "chi_square": 4.519346297263658,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.1043845974280597,
+      "design_condition_number": 11.26158559479535,
+      "case_id": "R2222",
+      "min_L": 80,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 0.9998298235634104,
+      "intercept_ratio_se": 0.0010585008128619873,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0003275264367482,
+        0.028636408148152038
+      ],
+      "standard_errors": [
+        0.0008704985336762646,
+        0.0015258378091854935
+      ],
+      "covariance": [
+        [
+          7.577676971325268e-07,
+          -1.0769846419449096e-06
+        ],
+        [
+          -1.0769846419449096e-06,
+          2.3281810199399866e-06
+        ]
+      ],
+      "chi_square": 5.201687446703533,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.07421093829107415,
+      "design_condition_number": 3.094001250430933,
+      "case_id": "R2222",
+      "min_L": 160,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.0003275264367482,
+      "intercept_ratio_se": 0.0008704985336762646,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        0.9990485221935219,
+        0.9834852339642016
+      ],
+      "standard_errors": [
+        0.000641894454519201,
+        0.005579334937264822
+      ],
+      "covariance": [
+        [
+          4.1202849074250256e-07,
+          -1.8711417500613426e-06
+        ],
+        [
+          -1.8711417500613426e-06,
+          3.112897834218386e-05
+        ]
+      ],
+      "chi_square": 37.53003675649895,
+      "degrees_of_freedom": 6,
+      "lack_of_fit_p": 1.3878125170632874e-06,
+      "design_condition_number": 1.7855561803176059,
+      "case_id": "R22222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 0.9990485221935219,
+      "intercept_ratio_se": 0.000641894454519201,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0008821334146236,
+        0.9344123757034848,
+        0.08432385302822454
+      ],
+      "standard_errors": [
+        0.0007337915221768491,
+        0.011030826110323477,
+        0.01635135195336238
+      ],
+      "covariance": [
+        [
+          5.384499980186171e-07,
+          -5.2545551128679516e-06,
+          5.81385436371567e-06
+        ],
+        [
+          -5.2545551128679516e-06,
+          0.00012167912467619417,
+          -0.00015559593432662368
+        ],
+        [
+          5.813854363715669e-06,
+          -0.00015559593432662368,
+          0.0002673667107027277
+        ]
+      ],
+      "chi_square": 10.935431276868687,
+      "degrees_of_freedom": 5,
+      "lack_of_fit_p": 0.05267532744416038,
+      "design_condition_number": 4.445839820990303,
+      "case_id": "R22222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 1.0008821334146236,
+      "intercept_ratio_se": 0.0007337915221768491,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.000042240128788,
+        0.9684262045468489,
+        -0.06687509944608161,
+        0.12455653626208399
+      ],
+      "standard_errors": [
+        0.0008468155576158885,
+        0.020363504994648996,
+        0.07782613292261926,
+        0.06268155751006377
+      ],
+      "covariance": [
+        [
+          7.170965886203081e-07,
+          -1.248934869755067e-05,
+          3.797410354969955e-05,
+          -2.6493366378396065e-05
+        ],
+        [
+          -1.248934869755067e-05,
+          0.00041467233566709464,
+          -0.001458015217610453,
+          0.001072923006621625
+        ],
+        [
+          3.7974103549699556e-05,
+          -0.001458015217610453,
+          0.006056906965689203,
+          -0.004769378814535969
+        ],
+        [
+          -2.649336637839605e-05,
+          0.0010729230066216246,
+          -0.004769378814535969,
+          0.003928977651887432
+        ]
+      ],
+      "chi_square": 6.986737214393064,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 0.13659076501846487,
+      "design_condition_number": 20.59174912052539,
+      "case_id": "R22222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "degree": 3,
+      "intercept_ratio": 1.000042240128788,
+      "intercept_ratio_se": 0.0008468155576158885,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0000952847861921,
+        0.4812478837283603
+      ],
+      "standard_errors": [
+        0.000667760584970577,
+        0.0033447545881158986
+      ],
+      "covariance": [
+        [
+          4.459041988402471e-07,
+          -1.2752052130905345e-06
+        ],
+        [
+          -1.2752052130905345e-06,
+          1.1187383254722354e-05
+        ]
+      ],
+      "chi_square": 5.184973377989221,
+      "degrees_of_freedom": 5,
+      "lack_of_fit_p": 0.39372559425024684,
+      "design_condition_number": 1.9134832091304075,
+      "case_id": "R22222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.0000952847861921,
+      "intercept_ratio_se": 0.000667760584970577,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0000932707784047,
+        0.4812808165082135,
+        -4.365192257089985e-05
+      ],
+      "standard_errors": [
+        0.0008041565938970991,
+        0.008054082881717077,
+        0.00971146499800723
+      ],
+      "covariance": [
+        [
+          6.466678275081839e-07,
+          -4.5580646087621255e-06,
+          4.351382567675313e-06
+        ],
+        [
+          -4.558064608762123e-06,
+          6.486825106556805e-05,
+          -7.115321256761014e-05
+        ],
+        [
+          4.3513825676753135e-06,
+          -7.115321256761015e-05,
+          9.431255240751958e-05
+        ]
+      ],
+      "chi_square": 5.184953173994513,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 0.2688411040323243,
+      "design_condition_number": 5.777547887583874,
+      "case_id": "R22222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 1.0000932707784047,
+      "intercept_ratio_se": 0.0008041565938970991,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0013347601987068,
+        0.4463245275997112,
+        0.1301653483644073,
+        -0.09861666662722303
+      ],
+      "standard_errors": [
+        0.000986564126222678,
+        0.01799527055852295,
+        0.0607238840670578,
+        0.04539861556564724
+      ],
+      "covariance": [
+        [
+          9.733087751495164e-07,
+          -1.3755207289466085e-05,
+          3.8609903461749656e-05,
+          -2.5946448607289288e-05
+        ],
+        [
+          -1.3755207289466094e-05,
+          0.0003238297624744429,
+          -0.0010357613150356864,
+          0.0007305672838079789
+        ],
+        [
+          3.8609903461749683e-05,
+          -0.0010357613150356868,
+          0.0036873900961894765,
+          -0.0027212967576737746
+        ],
+        [
+          -2.594644860728931e-05,
+          0.0007305672838079792,
+          -0.0027212967576737746,
+          0.002061034295277428
+        ]
+      ],
+      "chi_square": 0.466328666411891,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.9262240781576802,
+      "design_condition_number": 34.352672212324045,
+      "case_id": "R22222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "degree": 3,
+      "intercept_ratio": 1.0013347601987068,
+      "intercept_ratio_se": 0.000986564126222678,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        0.999900904081009,
+        0.2417856045925027
+      ],
+      "standard_errors": [
+        0.0007227167426775593,
+        0.002350752589049378
+      ],
+      "covariance": [
+        [
+          5.223194901464615e-07,
+          -1.0942775409266675e-06
+        ],
+        [
+          -1.0942775409266675e-06,
+          5.526037734922354e-06
+        ]
+      ],
+      "chi_square": 4.690519219646867,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 0.32055054512826814,
+      "design_condition_number": 2.14931060963514,
+      "case_id": "R22222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 0.999900904081009,
+      "intercept_ratio_se": 0.0007227167426775593,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.001039264087506,
+        0.22898386107942026,
+        0.014776473413001522
+      ],
+      "standard_errors": [
+        0.0009193327018704667,
+        0.006808558607568891,
+        0.007375537331174097
+      ],
+      "covariance": [
+        [
+          8.451726167284524e-07,
+          -4.725012014477555e-06,
+          4.190792555972608e-06
+        ],
+        [
+          -4.725012014477554e-06,
+          4.635647031270044e-05,
+          -4.712872124100694e-05
+        ],
+        [
+          4.190792555972607e-06,
+          -4.712872124100694e-05,
+          5.4398550923542724e-05
+        ]
+      ],
+      "chi_square": 0.6767327709586914,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.8786625062075307,
+      "design_condition_number": 7.6407048927857675,
+      "case_id": "R22222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 1.001039264087506,
+      "intercept_ratio_se": 0.0009193327018704667,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0014828671821214,
+        0.22011085656679114,
+        0.04225042054246487,
+        -0.01926053252398675
+      ],
+      "standard_errors": [
+        0.0012871027100705892,
+        0.019261613465827377,
+        0.056275913715196926,
+        0.039111771553578194
+      ],
+      "covariance": [
+        [
+          1.6566333862710551e-06,
+          -2.095595169316036e-05,
+          5.444749849575344e-05,
+          -3.523232081434702e-05
+        ],
+        [
+          -2.0955951693160366e-05,
+          0.0003710097533069426,
+          -0.0010523696314302666,
+          0.0007047212820898359
+        ],
+        [
+          5.444749849575351e-05,
+          -0.0010523696314302675,
+          0.0031669784644802897,
+          -0.0021820652990294682
+        ],
+        [
+          -3.5232320814347104e-05,
+          0.0007047212820898369,
+          -0.002182065299029469,
+          0.0015297306740592882
+        ]
+      ],
+      "chi_square": 0.43422726368333975,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.8048385088266838,
+      "design_condition_number": 53.826171055780414,
+      "case_id": "R22222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "degree": 3,
+      "intercept_ratio": 1.0014828671821214,
+      "intercept_ratio_se": 0.0012871027100705892,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.000531102610556,
+        0.11845128691435491
+      ],
+      "standard_errors": [
+        0.0008048044528974137,
+        0.0018065305002663726
+      ],
+      "covariance": [
+        [
+          6.477102074035054e-07,
+          -1.0329275347602117e-06
+        ],
+        [
+          -1.0329275347602117e-06,
+          3.2635524483926703e-06
+        ]
+      ],
+      "chi_square": 1.5232178808357972,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.6769221160029999,
+      "design_condition_number": 2.430492940248214,
+      "case_id": "R22222",
+      "min_L": 80,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.000531102610556,
+      "intercept_ratio_se": 0.0008048044528974137,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.001420709564845,
+        0.11112019104806321,
+        0.007208797658445251
+      ],
+      "standard_errors": [
+        0.0011586630527032186,
+        0.007102645397374039,
+        0.00675447195614639
+      ],
+      "covariance": [
+        [
+          1.3425000696995416e-06,
+          -6.7585696993818436e-06,
+          5.6301263252059884e-06
+        ],
+        [
+          -6.758569699381841e-06,
+          5.044757164083863e-05,
+          -4.639688980667721e-05
+        ],
+        [
+          5.630126325205987e-06,
+          -4.639688980667721e-05,
+          4.562289140636804e-05
+        ]
+      ],
+      "chi_square": 0.38416767865737195,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.8252376782183417,
+      "design_condition_number": 11.55025915950954,
+      "case_id": "R22222",
+      "min_L": 80,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 1.001420709564845,
+      "intercept_ratio_se": 0.0011586630527032186,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.001130281942023,
+        0.0574908508484503
+      ],
+      "standard_errors": [
+        0.0009616888835892398,
+        0.0017717271573412952
+      ],
+      "covariance": [
+        [
+          9.248455088191184e-07,
+          -1.318848374566112e-06
+        ],
+        [
+          -1.318848374566112e-06,
+          3.139017120060667e-06
+        ]
+      ],
+      "chi_square": 0.22776447081115347,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.8923630384660862,
+      "design_condition_number": 2.8019860654593773,
+      "case_id": "R22222",
+      "min_L": 160,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.001130281942023,
+      "intercept_ratio_se": 0.0009616888835892398,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        0.9891833905868793,
+        -0.5264984689814171
+      ],
+      "standard_errors": [
+        0.0009170267214607427,
+        0.0037429166184951533
+      ],
+      "covariance": [
+        [
+          8.409380078730387e-07,
+          -1.8597367307617139e-06
+        ],
+        [
+          -1.8597367307617139e-06,
+          1.4009424813007194e-05
+        ]
+      ],
+      "chi_square": 259.719739047249,
+      "degrees_of_freedom": 6,
+      "lack_of_fit_p": 3.4291270488215943e-53,
+      "design_condition_number": 1.8344338961978441,
+      "case_id": "C22222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 0.9891833905868793,
+      "intercept_ratio_se": 0.0009170267214607427,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0000437982301595,
+        -0.6962198607261412,
+        0.1944127157720236
+      ],
+      "standard_errors": [
+        0.0011407208830148065,
+        0.011243900837179936,
+        0.012145122992954687
+      ],
+      "covariance": [
+        [
+          1.3012441329460798e-06,
+          -9.05318643744498e-06,
+          8.239963618429584e-06
+        ],
+        [
+          -9.05318643744498e-06,
+          0.00012642530603633567,
+          -0.00012877031315772203
+        ],
+        [
+          8.239963618429583e-06,
+          -0.00012877031315772203,
+          0.0001475040125139966
+        ]
+      ],
+      "chi_square": 3.480580466622776,
+      "degrees_of_freedom": 5,
+      "lack_of_fit_p": 0.6263280670146014,
+      "design_condition_number": 7.149407408460775,
+      "case_id": "C22222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 1.0000437982301595,
+      "intercept_ratio_se": 0.0011407208830148065,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.000278588935342,
+        -0.7024034921753223,
+        0.21610945027909312,
+        -0.015922320042530722
+      ],
+      "standard_errors": [
+        0.0014493611606888066,
+        0.026094300040606044,
+        0.08351002965159468,
+        0.06063292365084249
+      ],
+      "covariance": [
+        [
+          2.1006477741132044e-06,
+          -3.010690529007643e-05,
+          8.211191929467334e-05,
+          -5.421151833061696e-05
+        ],
+        [
+          -3.0106905290076402e-05,
+          0.0006809124946091725,
+          -0.0020743198526006323,
+          0.0014277569011828786
+        ],
+        [
+          8.211191929467329e-05,
+          -0.002074319852600632,
+          0.006973925052410223,
+          -0.005009623015244652
+        ],
+        [
+          -5.421151833061692e-05,
+          0.0014277569011828777,
+          -0.005009623015244651,
+          0.0036763514304488944
+        ]
+      ],
+      "chi_square": 3.411620716627848,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 0.4914431988825103,
+      "design_condition_number": 47.862769246700225,
+      "case_id": "C22222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "degree": 3,
+      "intercept_ratio": 1.000278588935342,
+      "intercept_ratio_se": 0.0014493611606888066,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        0.9958816999431304,
+        -0.3031895914662699
+      ],
+      "standard_errors": [
+        0.0010167522643501012,
+        0.003218528119691638
+      ],
+      "covariance": [
+        [
+          1.0337851670610582e-06,
+          -2.079768134119381e-06
+        ],
+        [
+          -2.079768134119381e-06,
+          1.0358923257245791e-05
+        ]
+      ],
+      "chi_square": 27.062185672057776,
+      "degrees_of_freedom": 5,
+      "lack_of_fit_p": 5.5473680442968506e-05,
+      "design_condition_number": 2.1183864769782623,
+      "case_id": "C22222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 0.9958816999431304,
+      "intercept_ratio_se": 0.0010167522643501012,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.000222890160966,
+        -0.35020136001367097,
+        0.05107784820701752
+      ],
+      "standard_errors": [
+        0.0013531140460776628,
+        0.010190215997872615,
+        0.010504829868060134
+      ],
+      "covariance": [
+        [
+          1.8309176216926637e-06,
+          -1.0712102719412613e-05,
+          9.378951042337873e-06
+        ],
+        [
+          -1.0712102719412613e-05,
+          0.00010384050208329898,
+          -0.00010156686380805045
+        ],
+        [
+          9.378951042337868e-06,
+          -0.00010156686380805042,
+          0.0001103514505568883
+        ]
+      ],
+      "chi_square": 3.420026332120005,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 0.49014222599783974,
+      "design_condition_number": 8.293110698982648,
+      "case_id": "C22222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 1.000222890160966,
+      "intercept_ratio_se": 0.0013531140460776628,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.0003965397741559,
+        -0.3535654292524467,
+        0.06180091035291744,
+        -0.007599683303886669
+      ],
+      "standard_errors": [
+        0.0018510639636518764,
+        0.02650743767554575,
+        0.07870447817128864,
+        0.05528060973110522
+      ],
+      "covariance": [
+        [
+          3.426437797530595e-06,
+          -4.162170421402368e-05,
+          0.00010790414603872221,
+          -6.982709502550397e-05
+        ],
+        [
+          -4.162170421402369e-05,
+          0.0007026442521229422,
+          -0.0020102700946636114,
+          0.0013527423303382326
+        ],
+        [
+          0.00010790414603872213,
+          -0.0020102700946636105,
+          0.00619439488421485,
+          -0.0043119029502749874
+        ],
+        [
+          -6.982709502550393e-05,
+          0.001352742330338232,
+          -0.0043119029502749874,
+          0.003055945812242765
+        ]
+      ],
+      "chi_square": 3.4011270486025587,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.3338138214439898,
+      "design_condition_number": 57.650923124498675,
+      "case_id": "C22222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "degree": 3,
+      "intercept_ratio": 1.0003965397741559,
+      "intercept_ratio_se": 0.0018510639636518764,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        0.9985709128761614,
+        -0.16223761293612263
+      ],
+      "standard_errors": [
+        0.0011714891341490664,
+        0.002809466140966182
+      ],
+      "covariance": [
+        [
+          1.372386791429329e-06,
+          -2.379932357220415e-06
+        ],
+        [
+          -2.3799323572204156e-06,
+          7.89309999723541e-06
+        ]
+      ],
+      "chi_square": 5.704148147357787,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 0.22235894132343145,
+      "design_condition_number": 2.4945953346657994,
+      "case_id": "C22222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 0.9985709128761614,
+      "intercept_ratio_se": 0.0011714891341490664,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.000428903098481,
+        -0.1768469152274717,
+        0.014648821124260305
+      ],
+      "standard_errors": [
+        0.0016902248537342952,
+        0.009983603831338207,
+        0.00960606325070448
+      ],
+      "covariance": [
+        [
+          2.85686005618112e-06,
+          -1.4052285853847188e-05,
+          1.1703927748313394e-05
+        ],
+        [
+          -1.4052285853847192e-05,
+          9.967234546111092e-05,
+          -9.202751253329921e-05
+        ],
+        [
+          1.1703927748313397e-05,
+          -9.202751253329921e-05,
+          9.227645117653512e-05
+        ]
+      ],
+      "chi_square": 3.3786581919629146,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.3368440746396833,
+      "design_condition_number": 10.558406637740726,
+      "case_id": "C22222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 1.000428903098481,
+      "intercept_ratio_se": 0.0016902248537342952,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        0.9993433353627864,
+        -0.1612148555105681,
+        -0.02881515441369939,
+        0.0290719172267088
+      ],
+      "standard_errors": [
+        0.002685024525311273,
+        0.031657427130221544,
+        0.08408039977013225,
+        0.0558709387976258
+      ],
+      "covariance": [
+        [
+          7.209356701523026e-06,
+          -7.67277737487378e-05,
+          0.00018596924671631821,
+          -0.00011656151711431067
+        ],
+        [
+          -7.67277737487379e-05,
+          0.001002192692505287,
+          -0.0026014295361207265,
+          0.0016784734257581939
+        ],
+        [
+          0.00018596924671631873,
+          -0.0026014295361207296,
+          0.007069513625505256,
+          -0.0046668915830317265
+        ],
+        [
+          -0.00011656151711431086,
+          0.0016784734257581954,
+          -0.004666891583031727,
+          0.0031215618021280477
+        ]
+      ],
+      "chi_square": 3.1079038629408595,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.21141083961746882,
+      "design_condition_number": 82.13428847264429,
+      "case_id": "C22222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "degree": 3,
+      "intercept_ratio": 0.9993433353627864,
+      "intercept_ratio_se": 0.002685024525311273,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        0.9998030025324534,
+        -0.08448972935894482
+      ],
+      "standard_errors": [
+        0.0014115287433290379,
+        0.0025718477319886276
+      ],
+      "covariance": [
+        [
+          1.9924133932440526e-06,
+          -2.8863215163409984e-06
+        ],
+        [
+          -2.8863215163409984e-06,
+          6.614400756535048e-06
+        ]
+      ],
+      "chi_square": 3.255793646602255,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.3538428885660469,
+      "design_condition_number": 2.9596976754203745,
+      "case_id": "C22222",
+      "min_L": 80,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 0.9998030025324534,
+      "intercept_ratio_se": 0.0014115287433290379,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        0.9998308464617556,
+        -0.08465550771497785,
+        0.00014771971013653837
+      ],
+      "standard_errors": [
+        0.0024006463299197046,
+        0.01184393025360796,
+        0.010301923128549426
+      ],
+      "covariance": [
+        [
+          5.7631028013569476e-06,
+          -2.5336410525347558e-05,
+          2.000454534783555e-05
+        ],
+        [
+          -2.533641052534756e-05,
+          0.0001402786838523299,
+          -0.00011910390250582264
+        ],
+        [
+          2.000454534783556e-05,
+          -0.00011910390250582265,
+          0.00010612962014654158
+        ]
+      ],
+      "chi_square": 3.2555880384718954,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.19636226808034113,
+      "design_condition_number": 15.844194920267444,
+      "case_id": "C22222",
+      "min_L": 80,
+      "max_L": 1280.0,
+      "degree": 2,
+      "intercept_ratio": 0.9998308464617556,
+      "intercept_ratio_se": 0.0024006463299197046,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        1.000260298569972,
+        -0.043198450299765455
+      ],
+      "standard_errors": [
+        0.001908682353559501,
+        0.0029717378505917133
+      ],
+      "covariance": [
+        [
+          3.6430683267894355e-06,
+          -4.885221654291837e-06
+        ],
+        [
+          -4.885221654291837e-06,
+          8.831225852639456e-06
+        ]
+      ],
+      "chi_square": 3.1291047416831668,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.209181628015458,
+      "design_condition_number": 3.662875536377502,
+      "case_id": "C22222",
+      "min_L": 160,
+      "max_L": 1280.0,
+      "degree": 1,
+      "intercept_ratio": 1.000260298569972,
+      "intercept_ratio_se": 0.001908682353559501,
+      "model": "Aeff/A_reference = unconstrained_intercept + sum b_j*(min_L/L)^j"
+    }
+  ],
+  "exponent_fits": [
+    {
+      "coefficients": [
+        -0.39828878014874686,
+        1.5000218005203176,
+        0.008242639790753925
+      ],
+      "standard_errors": [
+        0.001375734650604907,
+        1.6608048272416512e-06,
+        0.00036859842948706867
+      ],
+      "covariance": [
+        [
+          1.8926458288750055e-06,
+          -1.6208940660285908e-09,
+          -4.865792122051151e-07
+        ],
+        [
+          -1.6208940660285908e-09,
+          2.7582726741891708e-12,
+          5.114887630100284e-10
+        ],
+        [
+          -4.865792122051151e-07,
+          5.114887630100284e-10,
+          1.3586480222033355e-07
+        ]
+      ],
+      "chi_square": 516.4611372881762,
+      "degrees_of_freedom": 5,
+      "lack_of_fit_p": 2.2324642788467044e-109,
+      "design_condition_number": 11.777271204330164,
+      "case_id": "R222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 1.5000218005203176,
+      "q_hat": 0.008242639790753925,
+      "lambda_se": 1.6608048272416512e-06,
+      "q_se": 0.00036859842948706867,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -0.3128329526934766,
+        1.4999853631669895,
+        -0.00919811320182251,
+        -0.05594054874710792
+      ],
+      "standard_errors": [
+        0.004272463386025338,
+        2.394341017057936e-06,
+        0.0009040814115433993,
+        0.002647853238947081
+      ],
+      "covariance": [
+        [
+          1.8253943384927095e-05,
+          -8.597157683267587e-09,
+          -3.825770438946773e-06,
+          -1.0710328256828573e-05
+        ],
+        [
+          -8.597157683267584e-09,
+          5.732868905966031e-12,
+          1.9352803777224293e-09,
+          4.566757195804526e-09
+        ],
+        [
+          -3.825770438946773e-06,
+          1.93528037772243e-09,
+          8.173631986983054e-07,
+          2.1858800641087355e-06
+        ],
+        [
+          -1.0710328256828573e-05,
+          4.5667571958045275e-09,
+          2.185880064108736e-06,
+          7.011126775002546e-06
+        ]
+      ],
+      "chi_square": 70.12132707356025,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 2.139838552972117e-14,
+      "design_condition_number": 33.47702345890071,
+      "case_id": "R222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "corrections": 1,
+      "lambda_hat": 1.4999853631669895,
+      "q_hat": -0.00919811320182251,
+      "lambda_se": 2.394341017057936e-06,
+      "q_se": 0.0009040814115433993,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -0.38958788972464314,
+        1.500006632519224,
+        0.004876922805601275,
+        0.060405342602981554,
+        -0.07342985535288901
+      ],
+      "standard_errors": [
+        0.010149080590048766,
+        3.4986685545010434e-06,
+        0.0019150029986954539,
+        0.014203493428211499,
+        0.00880716095526761
+      ],
+      "covariance": [
+        [
+          0.00010300383682330462,
+          -3.2081970582977e-08,
+          -1.936689193412896e-05,
+          -0.00013917505346157515,
+          8.107846422588668e-05
+        ],
+        [
+          -3.208197058297696e-08,
+          1.2240681654254421e-11,
+          6.241838365684806e-09,
+          4.0165268453399414e-08,
+          -2.2467433117484983e-08
+        ],
+        [
+          -1.9366891934128952e-05,
+          6.241838365684814e-09,
+          3.667236485012581e-06,
+          2.574326546311013e-05,
+          -1.4867868407332941e-05
+        ],
+        [
+          -0.00013917505346157543,
+          4.016526845339959e-08,
+          2.5743265463110187e-05,
+          0.0002017392255652472,
+          -0.00012289953655664245
+        ],
+        [
+          8.107846422588691e-05,
+          -2.2467433117485115e-08,
+          -1.486786840733299e-05,
+          -0.00012289953655664259,
+          7.756608409199027e-05
+        ]
+      ],
+      "chi_square": 0.6071351391887018,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.8947970212678436,
+      "design_condition_number": 87.06422325734039,
+      "case_id": "R222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "corrections": 2,
+      "lambda_hat": 1.500006632519224,
+      "q_hat": 0.004876922805601275,
+      "lambda_se": 3.4986685545010434e-06,
+      "q_se": 0.0019150029986954539,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -0.3642737127565931,
+        1.5000014927939054,
+        0.0005267269400340336
+      ],
+      "standard_errors": [
+        0.002033892359110758,
+        1.8863026892985772e-06,
+        0.0005013329285139658
+      ],
+      "covariance": [
+        [
+          4.136718128449124e-06,
+          -2.960653466906208e-09,
+          -9.956202820010428e-07
+        ],
+        [
+          -2.960653466906208e-09,
+          3.5581378356550447e-12,
+          8.153972239011153e-10
+        ],
+        [
+          -9.956202820010428e-07,
+          8.153972239011155e-10,
+          2.5133470521238905e-07
+        ]
+      ],
+      "chi_square": 0.8695451993397119,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 0.9288888146660951,
+      "design_condition_number": 15.967379876156391,
+      "case_id": "R222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 1.5000014927939054,
+      "q_hat": 0.0005267269400340336,
+      "lambda_se": 1.8863026892985772e-06,
+      "q_se": 0.0005013329285139658,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -0.3617745798099886,
+        1.5000006491811393,
+        4.627010257495387e-05,
+        -0.0012437978383783679
+      ],
+      "standard_errors": [
+        0.007264844333231804,
+        3.016740196698487e-06,
+        0.0014314702757773326,
+        0.003471065263178576
+      ],
+      "covariance": [
+        [
+          5.277796318609025e-05,
+          -1.9380098223201847e-08,
+          -1.0346871004011477e-05,
+          -2.4208346163245816e-05
+        ],
+        [
+          -1.938009822320184e-08,
+          9.100721414376426e-12,
+          3.972025810409712e-09,
+          8.171822123337159e-09
+        ],
+        [
+          -1.0346871004011478e-05,
+          3.972025810409715e-09,
+          2.0491071504340327e-06,
+          4.654040295832617e-06
+        ],
+        [
+          -2.4208346163245813e-05,
+          8.171822123337162e-09,
+          4.654040295832617e-06,
+          1.2048294061244958e-05
+        ]
+      ],
+      "chi_square": 0.7411425345083177,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.863486748526909,
+      "design_condition_number": 52.95889059880933,
+      "case_id": "R222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "corrections": 1,
+      "lambda_hat": 1.5000006491811393,
+      "q_hat": 4.627010257495387e-05,
+      "lambda_se": 3.016740196698487e-06,
+      "q_se": 0.0014314702757773326,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -0.37698410978739455,
+        1.500003965722029,
+        0.002694856205687101,
+        0.015684361095067097,
+        -0.009735892969834382
+      ],
+      "standard_errors": [
+        0.01932519037813034,
+        4.934459849883111e-06,
+        0.0034312951267649033,
+        0.02023118152633785,
+        0.011463027502826875
+      ],
+      "covariance": [
+        [
+          0.0003734629831509814,
+          -8.930763595541746e-08,
+          -6.619092986636293e-05,
+          -0.00038112976277784237,
+          0.00020527623378722114
+        ],
+        [
+          -8.930763595541729e-08,
+          2.434889401010845e-11,
+          1.6149200577240637e-08,
+          8.600095124974745e-08,
+          -4.476187127560407e-08
+        ],
+        [
+          -6.619092986636292e-05,
+          1.614920057724066e-08,
+          1.1773786246960574e-05,
+          6.680830182274009e-05,
+          -3.5746783818933674e-05
+        ],
+        [
+          -0.0003811297627778427,
+          8.600095124974774e-08,
+          6.680830182274017e-05,
+          0.00040930070595163393,
+          -0.00022847180129793895
+        ],
+        [
+          0.00020527623378722152,
+          -4.4761871275604274e-08,
+          -3.5746783818933756e-05,
+          -0.00022847180129793908,
+          0.00013140099953056533
+        ]
+      ],
+      "chi_square": 0.019781112227797357,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.9901581945800145,
+      "design_condition_number": 150.29377834185973,
+      "case_id": "R222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "corrections": 2,
+      "lambda_hat": 1.500003965722029,
+      "q_hat": 0.002694856205687101,
+      "lambda_se": 4.934459849883111e-06,
+      "q_se": 0.0034312951267649033,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -0.36273868255145514,
+        1.5000007474888137,
+        0.0001990573905194094
+      ],
+      "standard_errors": [
+        0.0031694677167489046,
+        2.2251030229319965e-06,
+        0.0007215080191496328
+      ],
+      "covariance": [
+        [
+          1.0045525607513515e-05,
+          -5.829563981157824e-09,
+          -2.2569220322346254e-06
+        ],
+        [
+          -5.829563981157825e-09,
+          4.951083462661109e-12,
+          1.4277986036566898e-09
+        ],
+        [
+          -2.256922032234625e-06,
+          1.4277986036566898e-09,
+          5.205738216972269e-07
+        ]
+      ],
+      "chi_square": 0.47076460986377017,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.9252657192718463,
+      "design_condition_number": 22.654102120712196,
+      "case_id": "R222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 1.5000007474888137,
+      "q_hat": 0.0001990573905194094,
+      "lambda_se": 2.2251030229319965e-06,
+      "q_se": 0.0007215080191496328,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -0.37131588179751884,
+        1.5000030299507394,
+        0.001760160899306911,
+        0.003165100711579173
+      ],
+      "standard_errors": [
+        0.013570652068476076,
+        4.1570330124530035e-06,
+        0.002507672459621993,
+        0.004869257169552314
+      ],
+      "covariance": [
+        [
+          0.000184162597563634,
+          -5.2163521713877706e-08,
+          -3.394731002073437e-05,
+          -6.425151759755212e-05
+        ],
+        [
+          -5.216352171387776e-08,
+          1.7280923466624093e-11,
+          9.86086654522351e-09,
+          1.709784725404949e-08
+        ],
+        [
+          -3.394731002073438e-05,
+          9.860866545223503e-09,
+          6.288421164746617e-06,
+          1.1694175066471834e-05
+        ],
+        [
+          -6.425151759755208e-05,
+          1.7097847254049466e-08,
+          1.1694175066471826e-05,
+          2.3709665383236617e-05
+        ]
+      ],
+      "chi_square": 0.048242303435603436,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.9761674382316509,
+      "design_condition_number": 91.80014006878673,
+      "case_id": "R222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "corrections": 1,
+      "lambda_hat": 1.5000030299507394,
+      "q_hat": 0.001760160899306911,
+      "lambda_se": 4.1570330124530035e-06,
+      "q_se": 0.002507672459621993,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -0.36541036229987167,
+        1.500001787917933,
+        0.0007375802375338227
+      ],
+      "standard_errors": [
+        0.0056783288583668184,
+        2.88400776520724e-06,
+        0.0011926688330235655
+      ],
+      "covariance": [
+        [
+          3.224341862376141e-05,
+          -1.4474063485196924e-08,
+          -6.7312878516464195e-06
+        ],
+        [
+          -1.4474063485196906e-08,
+          8.317500789775658e-12,
+          3.1702456493507812e-09
+        ],
+        [
+          -6.731287851646418e-06,
+          3.170245649350785e-09,
+          1.4224589452657938e-06
+        ]
+      ],
+      "chi_square": 0.14920829495950674,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.92811080862369,
+      "design_condition_number": 36.33949155319763,
+      "case_id": "R222",
+      "min_L": 80,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 1.500001787917933,
+      "q_hat": 0.0007375802375338227,
+      "lambda_se": 2.88400776520724e-06,
+      "q_se": 0.0011926688330235655,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.16837537269099,
+        2.0000346585935014,
+        1.0179842960865266
+      ],
+      "standard_errors": [
+        0.0014851502181288162,
+        1.2404264588329646e-06,
+        0.00036337455136973803
+      ],
+      "covariance": [
+        [
+          2.2056711704080705e-06,
+          -1.375417275496659e-09,
+          -5.208758077394926e-07
+        ],
+        [
+          -1.3754172754966592e-09,
+          1.5386577997728884e-12,
+          3.911263160061094e-10
+        ],
+        [
+          -5.208758077394927e-07,
+          3.911263160061094e-10,
+          1.3204106458315837e-07
+        ]
+      ],
+      "chi_square": 599.2762812684475,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 7.392799958634005e-131,
+      "design_condition_number": 15.007635686498855,
+      "case_id": "R223",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 2.0000346585935014,
+      "q_hat": 1.0179842960865266,
+      "lambda_se": 1.2404264588329646e-06,
+      "q_se": 0.00036337455136973803,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.338819254132975,
+        1.4999100431329488,
+        1.9392999707391905
+      ],
+      "standard_errors": [
+        0.0022895983975935305,
+        1.7960913271458564e-06,
+        0.0005485212003206803
+      ],
+      "covariance": [
+        [
+          5.242260822262862e-06,
+          -3.1029959271462674e-09,
+          -1.2194682376353344e-06
+        ],
+        [
+          -3.102995927146267e-09,
+          3.2259440554485638e-12,
+          8.487867063682109e-10
+        ],
+        [
+          -1.2194682376353344e-06,
+          8.487867063682107e-10,
+          3.008755072012399e-07
+        ]
+      ],
+      "chi_square": 753.5680089806795,
+      "degrees_of_freedom": 5,
+      "lack_of_fit_p": 1.2794292330985799e-160,
+      "design_condition_number": 15.411633973165006,
+      "case_id": "R2222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 1.4999100431329488,
+      "q_hat": 1.9392999707391905,
+      "lambda_se": 1.7960913271458564e-06,
+      "q_se": 0.0005485212003206803,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.472563057878215,
+        1.4999556405343302,
+        1.9654607048008896,
+        0.10735017746752809
+      ],
+      "standard_errors": [
+        0.0059930498337672075,
+        2.606021448875804e-06,
+        0.001214289045214678,
+        0.004445463325022505
+      ],
+      "covariance": [
+        [
+          3.5916646310017156e-05,
+          -1.356084315468221e-08,
+          -7.219480341267015e-06,
+          -2.4620959129602138e-05
+        ],
+        [
+          -1.3560843154682211e-08,
+          6.791347792000746e-12,
+          2.8943765020691338e-09,
+          8.394046859572023e-09
+        ],
+        [
+          -7.219480341267015e-06,
+          2.8943765020691338e-09,
+          1.4744978853283744e-06,
+          4.815941719178314e-06
+        ],
+        [
+          -2.462095912960214e-05,
+          8.394046859572023e-09,
+          4.815941719178314e-06,
+          1.9762144174120144e-05
+        ]
+      ],
+      "chi_square": 170.4298383043987,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 8.456940238749077e-36,
+      "design_condition_number": 37.61877399502505,
+      "case_id": "R2222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "corrections": 1,
+      "lambda_hat": 1.4999556405343302,
+      "q_hat": 1.9654607048008896,
+      "lambda_se": 2.606021448875804e-06,
+      "q_se": 0.001214289045214678,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.622301799950519,
+        1.4999925106739531,
+        1.9924525849236423,
+        0.3529734471743742,
+        -0.16676945570629303
+      ],
+      "standard_errors": [
+        0.013187559342393802,
+        3.8933104916949445e-06,
+        0.002440994777963767,
+        0.019775492156668285,
+        0.013083204341689207
+      ],
+      "covariance": [
+        [
+          0.00017391172140915806,
+          -4.753934207860019e-08,
+          -3.20944490570734e-05,
+          -0.0002509805577209934,
+          0.00015369010882409104
+        ],
+        [
+          -4.7539342078600114e-08,
+          1.5157866584741932e-11,
+          9.019334926384529e-09,
+          6.413052420581293e-08,
+          -3.784308384588659e-08
+        ],
+        [
+          -3.2094449057073395e-05,
+          9.01933492638454e-09,
+          5.958455506046379e-06,
+          4.561948437776991e-05,
+          -2.7704152819812795e-05
+        ],
+        [
+          -0.00025098055772099356,
+          6.413052420581303e-08,
+          4.561948437776994e-05,
+          0.00039107009003844885,
+          -0.0002521048763218151
+        ],
+        [
+          0.00015369010882409126,
+          -3.784308384588669e-08,
+          -2.7704152819812846e-05,
+          -0.00025210487632181525,
+          0.0001711702358463953
+        ]
+      ],
+      "chi_square": 7.948018862360942,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.04709830402776432,
+      "design_condition_number": 84.58560737940459,
+      "case_id": "R2222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "corrections": 2,
+      "lambda_hat": 1.4999925106739531,
+      "q_hat": 1.9924525849236423,
+      "lambda_se": 3.8933104916949445e-06,
+      "q_se": 0.002440994777963767,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.363597647362881,
+        1.499921911416871,
+        1.944678703482246
+      ],
+      "standard_errors": [
+        0.0027793782817612258,
+        1.948209155347829e-06,
+        0.0006464222886857693
+      ],
+      "covariance": [
+        [
+          7.724943633125985e-06,
+          -4.292144239299061e-09,
+          -1.7583929048570327e-06
+        ],
+        [
+          -4.2921442392990615e-09,
+          3.795518912981102e-12,
+          1.1069193021231186e-09
+        ],
+        [
+          -1.7583929048570329e-06,
+          1.1069193021231186e-09,
+          4.178617753097481e-07
+        ]
+      ],
+      "chi_square": 506.26748056383383,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 2.9544438491567795e-108,
+      "design_condition_number": 18.194112543118536,
+      "case_id": "R2222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 1.499921911416871,
+      "q_hat": 1.944678703482246,
+      "lambda_se": 1.948209155347829e-06,
+      "q_se": 0.0006464222886857693,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.5575497556611024,
+        1.4999790444663417,
+        1.9812179872077667,
+        0.10397762450110862
+      ],
+      "standard_errors": [
+        0.009282354213877273,
+        3.2560351470419946e-06,
+        0.0017893454160851216,
+        0.004747951849155105
+      ],
+      "covariance": [
+        [
+          8.616209975188517e-05,
+          -2.739761063583555e-08,
+          -1.65354300156669e-05,
+          -4.2050118647338874e-05
+        ],
+        [
+          -2.7397610635835555e-08,
+          1.0601764878772783e-11,
+          5.459835079528936e-09,
+          1.2386828531944875e-08
+        ],
+        [
+          -1.6535430015666897e-05,
+          5.4598350795289335e-09,
+          3.201757018064837e-06,
+          7.921961918467296e-06
+        ],
+        [
+          -4.2050118647338874e-05,
+          1.2386828531944875e-08,
+          7.921961918467298e-06,
+          2.254304676189538e-05
+        ]
+      ],
+      "chi_square": 26.6807365297242,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 6.868126656300198e-06,
+      "design_condition_number": 56.59716980493759,
+      "case_id": "R2222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "corrections": 1,
+      "lambda_hat": 1.4999790444663417,
+      "q_hat": 1.9812179872077667,
+      "lambda_se": 3.2560351470419946e-06,
+      "q_se": 0.0017893454160851216,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.660796832288168,
+        1.5000001663381675,
+        1.9990697307253729,
+        0.22233384125579495,
+        -0.06982098261329799
+      ],
+      "standard_errors": [
+        0.023622894580624512,
+        5.509131629134894e-06,
+        0.004160386374522432,
+        0.025350280934491324,
+        0.014690059009272234
+      ],
+      "covariance": [
+        [
+          0.000558041148367299,
+          -1.2393272918625376e-07,
+          -9.812479818316298e-05,
+          -0.0005829837778415153,
+          0.00031910887868827673
+        ],
+        [
+          -1.2393272918625418e-07,
+          3.035053130713449e-11,
+          2.2151059984752917e-08,
+          1.2304886167675747e-07,
+          -6.528201140748358e-08
+        ],
+        [
+          -9.812479818316305e-05,
+          2.215105998475284e-08,
+          1.7308814785311904e-05,
+          0.00010145108893456112,
+          -5.51749264249157e-05
+        ],
+        [
+          -0.000582983777841513,
+          1.230488616767565e-07,
+          0.00010145108893456065,
+          0.0006426367434576344,
+          -0.00036580715744149057
+        ],
+        [
+          0.0003191088786882746,
+          -6.528201140748284e-08,
+          -5.517492642491528e-05,
+          -0.0003658071574414896,
+          0.00021579783369590034
+        ]
+      ],
+      "chi_square": 4.090289120904947,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.12936148807037748,
+      "design_condition_number": 148.90280568486978,
+      "case_id": "R2222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "corrections": 2,
+      "lambda_hat": 1.5000001663381675,
+      "q_hat": 1.9990697307253729,
+      "lambda_se": 5.509131629134894e-06,
+      "q_se": 0.004160386374522432,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.41488781256897,
+        1.4999431288522487,
+        1.9553422569694645
+      ],
+      "standard_errors": [
+        0.003943650748400062,
+        2.2660542525416495e-06,
+        0.0008695995140559751
+      ],
+      "covariance": [
+        [
+          1.555238122535637e-05,
+          -7.530155866003911e-09,
+          -3.3857672580966916e-06
+        ],
+        [
+          -7.530155866003911e-09,
+          5.135001875462094e-12,
+          1.7801226352320073e-09
+        ],
+        [
+          -3.3857672580966912e-06,
+          1.7801226352320071e-09,
+          7.56203314846388e-07
+        ]
+      ],
+      "chi_square": 170.18290421192606,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 1.1619293634741865e-36,
+      "design_condition_number": 24.379411827461492,
+      "case_id": "R2222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 1.4999431288522487,
+      "q_hat": 1.9553422569694645,
+      "lambda_se": 2.2660542525416495e-06,
+      "q_se": 0.0008695995140559751,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.6233509774578665,
+        1.4999943400929436,
+        1.9929447987413187,
+        0.07882643591867737
+      ],
+      "standard_errors": [
+        0.016644822443843812,
+        4.573422817555076e-06,
+        0.0030437675078214313,
+        0.006114719335798024
+      ],
+      "covariance": [
+        [
+          0.00027705011418708675,
+          -7.176991424904829e-08,
+          -5.055467324798849e-05,
+          -9.888046313197637e-05
+        ],
+        [
+          -7.176991424904829e-08,
+          2.091619626813341e-11,
+          1.3367676720936587e-08,
+          2.4291059767356758e-08
+        ],
+        [
+          -5.055467324798849e-05,
+          1.3367676720936585e-08,
+          9.264520641669486e-06,
+          1.7836037111617077e-05
+        ],
+        [
+          -9.888046313197635e-05,
+          2.4291059767356745e-08,
+          1.7836037111617073e-05,
+          3.738979255558223e-05
+        ]
+      ],
+      "chi_square": 3.998323478885223,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.1354487770286118,
+      "design_condition_number": 97.07379536678984,
+      "case_id": "R2222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "corrections": 1,
+      "lambda_hat": 1.4999943400929436,
+      "q_hat": 1.9929447987413187,
+      "lambda_se": 4.573422817555076e-06,
+      "q_se": 0.0030437675078214313,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.4847642871769384,
+        1.499967409739233,
+        1.9692064037704218
+      ],
+      "standard_errors": [
+        0.0070402114077910746,
+        3.040030459272166e-06,
+        0.00144745872556027
+      ],
+      "covariance": [
+        [
+          4.956457666639159e-05,
+          -1.9348815554833822e-08,
+          -1.0134105282673496e-05
+        ],
+        [
+          -1.9348815554833822e-08,
+          9.241785193302537e-12,
+          4.125055373135748e-09
+        ],
+        [
+          -1.0134105282673496e-05,
+          4.125055373135748e-09,
+          2.095136762200561e-06
+        ]
+      ],
+      "chi_square": 26.624935076174065,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 1.6537460036025452e-06,
+      "design_condition_number": 39.8937655130816,
+      "case_id": "R2222",
+      "min_L": 80,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 1.499967409739233,
+      "q_hat": 1.9692064037704218,
+      "lambda_se": 3.040030459272166e-06,
+      "q_se": 0.00144745872556027,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -5.287260371639077,
+        1.4997700322097454,
+        3.852568352225836
+      ],
+      "standard_errors": [
+        0.004171450485343532,
+        2.468021775491236e-06,
+        0.0009297556029390775
+      ],
+      "covariance": [
+        [
+          1.740099915167279e-05,
+          -8.465461868587047e-09,
+          -3.811773133259825e-06
+        ],
+        [
+          -8.465461868587047e-09,
+          6.091131484298914e-12,
+          2.060749194958623e-09
+        ],
+        [
+          -3.811773133259825e-06,
+          2.060749194958623e-09,
+          8.644454811966075e-07
+        ]
+      ],
+      "chi_square": 6196.880977610049,
+      "degrees_of_freedom": 5,
+      "lack_of_fit_p": 0.0,
+      "design_condition_number": 22.3067791574006,
+      "case_id": "R22222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 1.4997700322097454,
+      "q_hat": 3.852568352225836,
+      "lambda_se": 2.468021775491236e-06,
+      "q_se": 0.0009297556029390775,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -5.92831528163298,
+        1.4999687905539845,
+        3.9750504911806117,
+        0.6332002216110416
+      ],
+      "standard_errors": [
+        0.009181261381976245,
+        3.5386050159529523e-06,
+        0.0018183637371370115,
+        0.008078695378997436
+      ],
+      "covariance": [
+        [
+          8.429556056416834e-05,
+          -2.920604439547402e-08,
+          -1.6592876340672002e-05,
+          -6.607491877961954e-05
+        ],
+        [
+          -2.920604439547401e-08,
+          1.2521725458927394e-11,
+          6.023515677922288e-09,
+          2.0486453262702197e-08
+        ],
+        [
+          -1.6592876340672e-05,
+          6.0235156779222874e-09,
+          3.3064466805348786e-06,
+          1.2624499488622761e-05
+        ],
+        [
+          -6.607491877961954e-05,
+          2.04864532627022e-08,
+          1.2624499488622763e-05,
+          6.526531902663453e-05
+        ]
+      ],
+      "chi_square": 53.610299872026246,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 6.350333555551115e-11,
+      "design_condition_number": 46.79250639690805,
+      "case_id": "R22222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "corrections": 1,
+      "lambda_hat": 1.4999687905539845,
+      "q_hat": 3.9750504911806117,
+      "lambda_se": 3.5386050159529523e-06,
+      "q_se": 0.0018183637371370115,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -6.022839408657384,
+        1.499990015294951,
+        3.991733598896351,
+        0.8168182317174447,
+        -0.1417148093559116
+      ],
+      "standard_errors": [
+        0.017454509952279897,
+        4.86131767218528e-06,
+        0.0031891946426785794,
+        0.029946816947671966,
+        0.02225580139411803
+      ],
+      "covariance": [
+        [
+          0.00030465991767423796,
+          -7.868734134640167e-08,
+          -5.548625120802884e-05,
+          -0.0004941440903731399,
+          0.0003303801245081408
+        ],
+        [
+          -7.868734134640174e-08,
+          2.3632409509900914e-11,
+          1.4756754829996993e-08,
+          1.1660643415678441e-07,
+          -7.418457894851986e-08
+        ],
+        [
+          -5.548625120802884e-05,
+          1.4756754829996984e-08,
+          1.0170962468889751e-05,
+          8.817689361572591e-05,
+          -5.831069143727682e-05
+        ],
+        [
+          -0.00049414409037314,
+          1.1660643415678443e-07,
+          8.817689361572594e-05,
+          0.0008968118452973729,
+          -0.0006417804951030419
+        ],
+        [
+          0.0003303801245081408,
+          -7.418457894851983e-08,
+          -5.831069143727681e-05,
+          -0.0006417804951030418,
+          0.000495320695694426
+        ]
+      ],
+      "chi_square": 13.064674858820089,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.004498809471792533,
+      "design_condition_number": 87.85669886587708,
+      "case_id": "R22222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "corrections": 2,
+      "lambda_hat": 1.499990015294951,
+      "q_hat": 3.991733598896351,
+      "lambda_se": 4.86131767218528e-06,
+      "q_se": 0.0031891946426785794,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -5.4162662947203035,
+        1.4998260465195026,
+        3.8798535003410595
+      ],
+      "standard_errors": [
+        0.004660920420069513,
+        2.6279606636676324e-06,
+        0.0010285118642814354
+      ],
+      "covariance": [
+        [
+          2.1724179162220965e-05,
+          -1.0342584549987737e-08,
+          -4.726138955381104e-06
+        ],
+        [
+          -1.0342584549987734e-08,
+          6.906177249784422e-12,
+          2.457766395170881e-09
+        ],
+        [
+          -4.726138955381103e-06,
+          2.457766395170881e-09,
+          1.0578366549676738e-06
+        ]
+      ],
+      "chi_square": 2347.277641801119,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 0.0,
+      "design_condition_number": 24.708056441493145,
+      "case_id": "R22222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 1.4998260465195026,
+      "q_hat": 3.8798535003410595,
+      "lambda_se": 2.6279606636676324e-06,
+      "q_se": 0.0010285118642814354,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -5.972526213906924,
+        1.4999800709150786,
+        3.9830979805635724,
+        0.34809012325717686
+      ],
+      "standard_errors": [
+        0.01245079019789564,
+        4.1383678264264015e-06,
+        0.002376938266833532,
+        0.007224798594526139
+      ],
+      "covariance": [
+        [
+          0.00015502217655201416,
+          -4.725184723661178e-08,
+          -2.946687971436415e-05,
+          -8.341373293426117e-05
+        ],
+        [
+          -4.725184723661179e-08,
+          1.712608826680118e-11,
+          9.308300668875537e-09,
+          2.309666642282425e-08
+        ],
+        [
+          -2.9466879714364155e-05,
+          9.308300668875537e-09,
+          5.649835524337596e-06,
+          1.5481984595993816e-05
+        ],
+        [
+          -8.341373293426112e-05,
+          2.3096666422824227e-08,
+          1.5481984595993806e-05,
+          5.219771473146688e-05
+        ]
+      ],
+      "chi_square": 25.974218245123726,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 9.656689035557173e-06,
+      "design_condition_number": 62.54275289146862,
+      "case_id": "R22222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "corrections": 1,
+      "lambda_hat": 1.4999800709150786,
+      "q_hat": 3.9830979805635724,
+      "lambda_se": 4.1383678264264015e-06,
+      "q_se": 0.002376938266833532,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -6.105270395637448,
+        1.5000049555763113,
+        4.005637548509784,
+        0.5186762557910524,
+        -0.11003286776613186
+      ],
+      "standard_errors": [
+        0.02913637527022543,
+        6.442955571738773e-06,
+        0.005065162074772221,
+        0.03461394823865738,
+        0.021835207193136044
+      ],
+      "covariance": [
+        [
+          0.0008489283638874041,
+          -1.7733378509276893e-07,
+          -0.00014729009014651407,
+          -0.0009751347205965882,
+          0.0005751851927209322
+        ],
+        [
+          -1.773337850927694e-07,
+          4.1511676499399695e-11,
+          3.13958275092148e-08,
+          1.9026161785170785e-07,
+          -1.0782610943796433e-07
+        ],
+        [
+          -0.0001472900901465141,
+          3.139582750921472e-08,
+          2.5655866843710833e-05,
+          0.0001668935608200879,
+          -9.766473802410314e-05
+        ],
+        [
+          -0.0009751347205965858,
+          1.9026161785170693e-07,
+          0.00016689356082008746,
+          0.0011981254126684523,
+          -0.0007391556920848565
+        ],
+        [
+          0.0005751851927209296,
+          -1.0782610943796352e-07,
+          -9.766473802410265e-05,
+          -0.0007391556920848552,
+          0.0004767762731671801
+        ]
+      ],
+      "chi_square": 0.580270036450508,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.7481625451797345,
+      "design_condition_number": 145.74302357652596,
+      "case_id": "R22222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "corrections": 2,
+      "lambda_hat": 1.5000049555763113,
+      "q_hat": 4.005637548509784,
+      "lambda_se": 6.442955571738773e-06,
+      "q_se": 0.005065162074772221,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -5.553915603884312,
+        1.4998812618080728,
+        3.908299670296076
+      ],
+      "standard_errors": [
+        0.0057664387802791395,
+        2.9599047795050124e-06,
+        0.0012450493869292703
+      ],
+      "covariance": [
+        [
+          3.3251816206707165e-05,
+          -1.4966667371763304e-08,
+          -7.108403890378503e-06
+        ],
+        [
+          -1.4966667371763307e-08,
+          8.761036303736615e-12,
+          3.413364695180574e-09
+        ],
+        [
+          -7.108403890378504e-06,
+          3.4133646951805738e-09,
+          1.5501479758929517e-06
+        ]
+      ],
+      "chi_square": 703.633568006601,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 3.420907327838902e-152,
+      "design_condition_number": 29.917808698336607,
+      "case_id": "R22222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 1.4998812618080728,
+      "q_hat": 3.908299670296076,
+      "lambda_se": 2.9599047795050124e-06,
+      "q_se": 0.0012450493869292703,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -6.047258899802407,
+        1.499996173489225,
+        3.99619088026075,
+        0.20898834056185028
+      ],
+      "standard_errors": [
+        0.019485963843514552,
+        5.2495053498003844e-06,
+        0.0035420523302195804,
+        0.007884855121179618
+      ],
+      "covariance": [
+        [
+          0.00037970278691075644,
+          -9.566354479931651e-08,
+          -6.883012031081738e-05,
+          -0.00014676233375863083
+        ],
+        [
+          -9.566354479931645e-08,
+          2.755730641758286e-11,
+          1.778985720284072e-08,
+          3.418452554551742e-08
+        ],
+        [
+          -6.883012031081734e-05,
+          1.778985720284073e-08,
+          1.254613471001396e-05,
+          2.6146335012552293e-05
+        ],
+        [
+          -0.00014676233375863094,
+          3.418452554551746e-08,
+          2.6146335012552313e-05,
+          6.217094028199245e-05
+        ]
+      ],
+      "chi_square": 1.1168247504038218,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.5721166497858097,
+      "design_condition_number": 95.65841031017956,
+      "case_id": "R22222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "corrections": 1,
+      "lambda_hat": 1.499996173489225,
+      "q_hat": 3.99619088026075,
+      "lambda_se": 5.2495053498003844e-06,
+      "q_se": 0.0035420523302195804,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -5.6821246112499955,
+        1.4999270705013743,
+        3.9339573018715757
+      ],
+      "standard_errors": [
+        0.007833245720260368,
+        3.5141607561064184e-06,
+        0.0016358036259554597
+      ],
+      "covariance": [
+        [
+          6.135973851397737e-05,
+          -2.500954359983333e-08,
+          -1.2733458866825301e-05
+        ],
+        [
+          -2.50095435998333e-08,
+          1.2349325819758435e-11,
+          5.423179945379005e-09
+        ],
+        [
+          -1.2733458866825298e-05,
+          5.42317994537901e-09,
+          2.6758535026890297e-06
+        ]
+      ],
+      "chi_square": 118.83226571497505,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 1.570006187378179e-26,
+      "design_condition_number": 39.06519666294068,
+      "case_id": "R22222",
+      "min_L": 80,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 1.4999270705013743,
+      "q_hat": 3.9339573018715757,
+      "lambda_se": 3.5141607561064184e-06,
+      "q_se": 0.0016358036259554597,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -3.1820198201200625,
+        3.00024257414118,
+        4.1343643109983335
+      ],
+      "standard_errors": [
+        0.0066743264474220165,
+        4.855480712838381e-06,
+        0.0015026050282347496
+      ],
+      "covariance": [
+        [
+          4.4546633526757e-05,
+          -2.5410497791855792e-08,
+          -9.869973002977673e-06
+        ],
+        [
+          -2.541049779185579e-08,
+          2.3575692952745517e-11,
+          6.286816523471244e-09
+        ],
+        [
+          -9.869973002977673e-06,
+          6.286816523471244e-09,
+          2.2578218708763527e-06
+        ]
+      ],
+      "chi_square": 2613.4183861762044,
+      "degrees_of_freedom": 5,
+      "lack_of_fit_p": 0.0,
+      "design_condition_number": 20.999329349778847,
+      "case_id": "C22222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 3.00024257414118,
+      "q_hat": 4.1343643109983335,
+      "lambda_se": 4.855480712838381e-06,
+      "q_se": 0.0015026050282347496,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.503882614561523,
+        3.00000928625762,
+        4.003939072181488,
+        -0.6897856352432461
+      ],
+      "standard_errors": [
+        0.014855915752095232,
+        6.6650071820798275e-06,
+        0.0029620477074577237,
+        0.013500189632526373
+      ],
+      "covariance": [
+        [
+          0.00022069823283335125,
+          -8.60089039126166e-08,
+          -4.374897893155727e-05,
+          -0.00017917737270628487
+        ],
+        [
+          -8.600890391261654e-08,
+          4.4422320737175686e-11,
+          1.7941628448592798e-08,
+          6.163931092108966e-08
+        ],
+        [
+          -4.3748978931557264e-05,
+          1.79416284485928e-08,
+          8.773726621255556e-06,
+          3.446094895577991e-05
+        ],
+        [
+          -0.00017917737270628492,
+          6.163931092108973e-08,
+          3.446094895577993e-05,
+          0.00018225512011417255
+        ]
+      ],
+      "chi_square": 2.76897184055927,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 0.5972005058833196,
+      "design_condition_number": 45.28938816716899,
+      "case_id": "C22222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "corrections": 1,
+      "lambda_hat": 3.00000928625762,
+      "q_hat": 4.003939072181488,
+      "lambda_se": 6.6650071820798275e-06,
+      "q_se": 0.0029620477074577237,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.4913094228808097,
+        3.0000061761642405,
+        4.001696340326429,
+        -0.7137050387419099,
+        0.018585812969108845
+      ],
+      "standard_errors": [
+        0.028878794366788633,
+        9.052468823410799e-06,
+        0.00531853946111473,
+        0.04900863769436782,
+        0.03660730358155244
+      ],
+      "covariance": [
+        [
+          0.0008339847640792628,
+          -2.377109078837203e-07,
+          -0.00015314341713485583,
+          -0.001345901650443066,
+          0.0009065660566587698
+        ],
+        [
+          -2.377109078837197e-07,
+          8.194719179882447e-11,
+          4.5001338149080415e-08,
+          3.5023917737313413e-07,
+          -2.2424736321523904e-07
+        ],
+        [
+          -0.00015314341713485566,
+          4.5001338149080474e-08,
+          2.8286861999434566e-05,
+          0.0002425743517430111,
+          -0.00016170791206011312
+        ],
+        [
+          -0.0013459016504430682,
+          3.502391773731356e-07,
+          0.00024257435174301168,
+          0.0024018465686578105,
+          -0.0017246630633272009
+        ],
+        [
+          0.0009065660566587729,
+          -2.2424736321524058e-07,
+          -0.0001617079120601138,
+          -0.0017246630633272028,
+          0.0013400946755119422
+        ]
+      ],
+      "chi_square": 2.511204645979337,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.47326955577033725,
+      "design_condition_number": 87.74524371628793,
+      "case_id": "C22222",
+      "min_L": 10,
+      "max_L": 1280.0,
+      "corrections": 2,
+      "lambda_hat": 3.0000061761642405,
+      "q_hat": 4.001696340326429,
+      "lambda_se": 9.052468823410799e-06,
+      "q_se": 0.00531853946111473,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -3.059484931725209,
+        3.000180567401559,
+        4.108085685036631
+      ],
+      "standard_errors": [
+        0.007304886816058099,
+        5.082605695339733e-06,
+        0.0016319413453649715
+      ],
+      "covariance": [
+        [
+          5.336137139541943e-05,
+          -2.987104909293621e-08,
+          -1.176036685272517e-05
+        ],
+        [
+          -2.987104909293621e-08,
+          2.5832880654299892e-11,
+          7.24341884922199e-09
+        ],
+        [
+          -1.176036685272517e-05,
+          7.24341884922199e-09,
+          2.663232554711633e-06
+        ]
+      ],
+      "chi_square": 910.0439809992369,
+      "degrees_of_freedom": 4,
+      "lack_of_fit_p": 1.1103148984094257e-195,
+      "design_condition_number": 22.829592146515154,
+      "case_id": "C22222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 3.000180567401559,
+      "q_hat": 4.108085685036631,
+      "lambda_se": 5.082605695339733e-06,
+      "q_se": 0.0016319413453649715,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.495162056997924,
+        3.000006820745473,
+        4.002334859735797,
+        -0.35100571891633625
+      ],
+      "standard_errors": [
+        0.020104939432993192,
+        7.687056852569703e-06,
+        0.0038708897152962655,
+        0.011650526619743367
+      ],
+      "covariance": [
+        [
+          0.0004042085896043246,
+          -1.378917118915659e-07,
+          -7.75070954395932e-05,
+          -0.00021822503671722917
+        ],
+        [
+          -1.378917118915661e-07,
+          5.909084305463884e-11,
+          2.748586293941956e-08,
+          6.718825711599191e-08
+        ],
+        [
+          -7.750709543959323e-05,
+          2.7485862939419537e-08,
+          1.4983787187986404e-05,
+          4.089410294643976e-05
+        ],
+        [
+          -0.00021822503671722884,
+          6.718825711599168e-08,
+          4.089410294643969e-05,
+          0.0001357347705173488
+        ]
+      ],
+      "chi_square": 2.354564035453878,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 0.5021485467054014,
+      "design_condition_number": 60.70459751426035,
+      "case_id": "C22222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "corrections": 1,
+      "lambda_hat": 3.000006820745473,
+      "q_hat": 4.002334859735797,
+      "lambda_se": 7.687056852569703e-06,
+      "q_se": 0.0038708897152962655,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.5133946293530847,
+        3.0000106126289845,
+        4.00547370322252,
+        -0.3285816908033421,
+        -0.01424188247312317
+      ],
+      "standard_errors": [
+        0.04801423057198261,
+        1.1887859837121769e-05,
+        0.008445684796153412,
+        0.05487689974894116,
+        0.03405873620100376
+      ],
+      "covariance": [
+        [
+          0.0023053663374195095,
+          -5.332812692764346e-07,
+          -0.0004048024708411143,
+          -0.002556436780011268,
+          0.0014850381330601885
+        ],
+        [
+          -5.332812692764392e-07,
+          1.413212115070528e-10,
+          9.555447732075677e-08,
+          5.534732628266363e-07,
+          -3.088478958703464e-07
+        ],
+        [
+          -0.00040480247084111475,
+          9.555447732075606e-08,
+          7.132959167597691e-05,
+          0.00044343086833013124,
+          -0.0002556579609472567
+        ],
+        [
+          -0.0025564367800112466,
+          5.534732628266261e-07,
+          0.0004434308683301269,
+          0.0030114741260553386,
+          -0.00182643108177171
+        ],
+        [
+          0.0014850381330601676,
+          -3.0884789587033843e-07,
+          -0.0002556579609472526,
+          -0.0018264310817716998,
+          0.0011599975116095642
+        ]
+      ],
+      "chi_square": 2.179709163793898,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.3362653892265233,
+      "design_condition_number": 146.2903920702267,
+      "case_id": "C22222",
+      "min_L": 20,
+      "max_L": 1280.0,
+      "corrections": 2,
+      "lambda_hat": 3.0000106126289845,
+      "q_hat": 4.00547370322252,
+      "lambda_se": 1.1887859837121769e-05,
+      "q_se": 0.008445684796153412,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.9260700740655428,
+        3.000118672696425,
+        4.08011096383931
+      ],
+      "standard_errors": [
+        0.008839428086858909,
+        5.582558764281769e-06,
+        0.0019371285229763935
+      ],
+      "covariance": [
+        [
+          7.813548890275014e-05,
+          -4.136442190742968e-08,
+          -1.6955058376110386e-05
+        ],
+        [
+          -4.1364421907429736e-08,
+          3.1164962356659194e-11,
+          9.653374574865453e-09
+        ],
+        [
+          -1.6955058376110392e-05,
+          9.653374574865441e-09,
+          3.7524669145287037e-06
+        ]
+      ],
+      "chi_square": 191.57139608241746,
+      "degrees_of_freedom": 3,
+      "lack_of_fit_p": 2.7935394642183534e-41,
+      "design_condition_number": 27.08437680801271,
+      "case_id": "C22222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 3.000118672696425,
+      "q_hat": 4.08011096383931,
+      "lambda_se": 5.582558764281769e-06,
+      "q_se": 0.0019371285229763935,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.5068649587761906,
+        3.000009636775207,
+        4.004415487948936,
+        -0.17029452466027822
+      ],
+      "standard_errors": [
+        0.03171368282010786,
+        9.691297129665735e-06,
+        0.005830760003392327,
+        0.012372563047478429
+      ],
+      "covariance": [
+        [
+          0.0010057576780144043,
+          -2.826404374984269e-07,
+          -0.00018445493013413588,
+          -0.00037682980000965875
+        ],
+        [
+          -2.826404374984274e-07,
+          9.39212400554673e-11,
+          5.322035922028669e-08,
+          9.801403391326087e-08
+        ],
+        [
+          -0.0001844549301341359,
+          5.322035922028661e-08,
+          3.399776221715969e-05,
+          6.804380481310678e-05
+        ],
+        [
+          -0.0003768298000096588,
+          9.801403391326069e-08,
+          6.804380481310678e-05,
+          0.0001530803163638287
+        ]
+      ],
+      "chi_square": 2.126888667649728,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 0.3452645535843682,
+      "design_condition_number": 94.05306195690373,
+      "case_id": "C22222",
+      "min_L": 40,
+      "max_L": 1280.0,
+      "corrections": 1,
+      "lambda_hat": 3.000009636775207,
+      "q_hat": 4.004415487948936,
+      "lambda_se": 9.691297129665735e-06,
+      "q_se": 0.005830760003392327,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    },
+    {
+      "coefficients": [
+        -2.8175260077478224,
+        3.000074607228594,
+        4.058088598973478
+      ],
+      "standard_errors": [
+        0.012258791311111041,
+        6.561615054639057e-06,
+        0.0025927065429991194
+      ],
+      "covariance": [
+        [
+          0.00015027796440937155,
+          -7.065199184519692e-08,
+          -3.159195168425922e-05
+        ],
+        [
+          -7.065199184519683e-08,
+          4.305479212526592e-11,
+          1.5595491662249e-08
+        ],
+        [
+          -3.1591951684259206e-05,
+          1.559549166224902e-08,
+          6.722127218110445e-06
+        ]
+      ],
+      "chi_square": 28.25825427432539,
+      "degrees_of_freedom": 2,
+      "lack_of_fit_p": 7.307991780549869e-07,
+      "design_condition_number": 35.86023792975002,
+      "case_id": "C22222",
+      "min_L": 80,
+      "max_L": 1280.0,
+      "corrections": 0,
+      "lambda_hat": 3.000074607228594,
+      "q_hat": 4.058088598973478,
+      "lambda_se": 6.561615054639057e-06,
+      "q_se": 0.0025927065429991194,
+      "model": "log Z = a - unconstrained_lambda*L + unconstrained_q*log L + sum c_j*(min_L/L)^j"
+    }
+  ]
+}

@@ -1,0 +1,886 @@
+{
+  "config_sha256": "0d5e031c7b3e843e270d4be2e5d2213a08d12790813c81b487379cb6bc42a859",
+  "mode": "vr",
+  "jobs": [
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L10_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120000,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L10_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120001,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L10_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120002,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L10_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120003,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L10_seed4",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120004,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L10_seed5",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120005,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L10_seed6",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120006,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L10_seed7",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120007,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L40_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120100,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L40_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120101,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L40_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120102,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L40_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120103,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L40_seed4",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120104,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L40_seed5",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120105,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L40_seed6",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120106,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L40_seed7",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120107,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L160_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120200,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L160_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120201,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L160_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120202,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L160_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120203,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L160_seed4",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120204,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L160_seed5",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120205,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L160_seed6",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120206,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L160_seed7",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120207,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L640_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120300,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L640_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120301,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L640_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120302,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L640_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120303,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L640_seed4",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120304,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L640_seed5",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120305,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L640_seed6",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120306,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L640_seed7",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120307,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L1280_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120400,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L1280_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120401,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L1280_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120402,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L1280_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120403,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L1280_seed4",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120404,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L1280_seed5",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120405,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L1280_seed6",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120406,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R223_ridge_mixture_L1280_seed7",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 18120407,
+      "batch_size": 25000,
+      "method": "ridge_mixture",
+      "log_t": 1280
+    }
+  ]
+}

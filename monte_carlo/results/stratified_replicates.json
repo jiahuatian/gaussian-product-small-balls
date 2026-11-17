@@ -1,0 +1,3194 @@
+[
+  {
+    "beta": 1,
+    "log_t": 30,
+    "seed": 1738219,
+    "method": "iid_mixture",
+    "offset_applied": 31.110527602878456,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.48403806800001803,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 119643,
+      "draws": 200000,
+      "ordinary_count": 9850,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60563,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 412768,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 32.77258872223978,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ],
+      "tilted_shapes_b": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.077695334905764,
+    "estimate": 0.002293456215258262,
+    "relative_se": 0.0069187287585984235,
+    "standard_error": 1.5867801473093634e-05,
+    "contribution_ess": 18914.83034863798,
+    "maximum_fraction": 0.0005131319601197163,
+    "sample_skewness": 12.693523211746875
+  },
+  {
+    "beta": 1,
+    "log_t": 30,
+    "seed": 11738219,
+    "method": "fixed_stratified",
+    "offset_applied": 31.110527602878456,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.33414856899980805,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 32.77258872223978,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ],
+      "tilted_shapes_b": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.0889805875043495,
+    "estimate": 0.002267719478478482,
+    "relative_se": 0.006895168381656978,
+    "standard_error": 1.5636307646472483e-05,
+    "contribution_ess": 18822.006369799114,
+    "maximum_fraction": 0.0005398467958023451,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.619272438993013,
+        "scaled_sample_variance": 0.0001229857443793479
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.3787214348648462,
+        "scaled_sample_variance": 0.0024644784392207912
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 3.9451098830471125e-07,
+        "scaled_sample_variance": 7.129774604962523e-12
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 0.0020057316311525913,
+        "scaled_sample_variance": 5.085861524368616e-05
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.0069375456340483276
+  },
+  {
+    "beta": 1,
+    "log_t": 30,
+    "seed": 1738229,
+    "method": "iid_mixture",
+    "offset_applied": 31.110527602878456,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.3265978169999926,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 119906,
+      "draws": 200000,
+      "ordinary_count": 10008,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60024,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 413675,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 32.77258872223978,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ],
+      "tilted_shapes_b": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.0954019959912475,
+    "estimate": 0.0022532041795827766,
+    "relative_se": 0.006741188044424268,
+    "standard_error": 1.5189273077050205e-05,
+    "contribution_ess": 19824.203313570262,
+    "maximum_fraction": 0.0005437235076599792,
+    "sample_skewness": 12.675611390907326
+  },
+  {
+    "beta": 1,
+    "log_t": 30,
+    "seed": 11738229,
+    "method": "fixed_stratified",
+    "offset_applied": 31.110527602878456,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.31142290899992986,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 32.77258872223978,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ],
+      "tilted_shapes_b": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.081010593083881,
+    "estimate": 0.002285865405484073,
+    "relative_se": 0.00695397633944067,
+    "standard_error": 1.5895853944882196e-05,
+    "contribution_ess": 18533.621536289236,
+    "maximum_fraction": 0.0005159393095291655,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.6149355526254069,
+        "scaled_sample_variance": 0.0001323237525589243
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.3832054246125513,
+        "scaled_sample_variance": 0.002749462094401809
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 6.9353812563184305e-06,
+        "scaled_sample_variance": 8.28096056774676e-09
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 0.0018520873807854638,
+        "scaled_sample_variance": 8.174702938922142e-05
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.0069968736068212285
+  },
+  {
+    "beta": 1,
+    "log_t": 30,
+    "seed": 1738239,
+    "method": "iid_mixture",
+    "offset_applied": 31.110527602878456,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.33140847000004214,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120115,
+      "draws": 200000,
+      "ordinary_count": 10006,
+      "ordinary_probability": 0.05,
+      "shifted_count": 59844,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 414396,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 32.77258872223978,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ],
+      "tilted_shapes_b": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.076899328681422,
+    "estimate": 0.002295282547470334,
+    "relative_se": 0.006817692925831201,
+    "standard_error": 1.564853158667231e-05,
+    "contribution_ess": 19424.753626529728,
+    "maximum_fraction": 0.0004783875315009371,
+    "sample_skewness": 12.147561090616689
+  },
+  {
+    "beta": 1,
+    "log_t": 30,
+    "seed": 11738239,
+    "method": "fixed_stratified",
+    "offset_applied": 31.110527602878456,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.32709857899999406,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 32.77258872223978,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ],
+      "tilted_shapes_b": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.075226450081622,
+    "estimate": 0.002299125490016449,
+    "relative_se": 0.006915047674976397,
+    "standard_error": 1.5898562374217215e-05,
+    "contribution_ess": 18716.74970037217,
+    "maximum_fraction": 0.00050643638103092,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.6116526457294911,
+        "scaled_sample_variance": 0.00013569124331756224
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.3867601247497046,
+        "scaled_sample_variance": 0.002829445367826098
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 1.0586732660506226e-06,
+        "scaled_sample_variance": 1.0074352742663326e-10
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 0.001586170847538285,
+        "scaled_sample_variance": 3.909586479660786e-05
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.006959046064217521
+  },
+  {
+    "beta": 1,
+    "log_t": 30,
+    "seed": 1738251,
+    "method": "iid_mixture",
+    "offset_applied": 31.110527602878456,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.31904738699995505,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120225,
+      "draws": 200000,
+      "ordinary_count": 9929,
+      "ordinary_probability": 0.05,
+      "shifted_count": 59837,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 414776,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 32.77258872223978,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ],
+      "tilted_shapes_b": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.075719383927172,
+    "estimate": 0.00229799245252646,
+    "relative_se": 0.006889905112221907,
+    "standard_error": 1.5832949946509414e-05,
+    "contribution_ess": 19058.307998959768,
+    "maximum_fraction": 0.0005047347727494747,
+    "sample_skewness": 12.480464588786951
+  },
+  {
+    "beta": 1,
+    "log_t": 30,
+    "seed": 11738251,
+    "method": "fixed_stratified",
+    "offset_applied": 31.110527602878456,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.3075762630001009,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 32.77258872223978,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ],
+      "tilted_shapes_b": [
+        0.03051330514276374,
+        0.03051330514276374,
+        0.03051330514276374
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.098100133072404,
+    "estimate": 0.002247132920062849,
+    "relative_se": 0.006778054427759148,
+    "standard_error": 1.5231189238595338e-05,
+    "contribution_ess": 19406.321393903338,
+    "maximum_fraction": 0.0005537321479683913,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.6218941392517988,
+        "scaled_sample_variance": 0.00011669973486315451
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.3767108585829998,
+        "scaled_sample_variance": 0.002260196669392503
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 1.3092741753343262e-06,
+        "scaled_sample_variance": 3.9881870261139697e-10
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 0.0013936928910259464,
+        "scaled_sample_variance": 2.183153109414343e-05
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.006821278013428298
+  },
+  {
+    "beta": 1,
+    "log_t": 100,
+    "seed": 1745219,
+    "method": "iid_mixture",
+    "offset_applied": 131.2946363855747,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.33204165999995894,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120288,
+      "draws": 200000,
+      "ordinary_count": 9908,
+      "ordinary_probability": 0.05,
+      "shifted_count": 59727,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 414993,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 102.77258872223977,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ],
+      "tilted_shapes_b": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.2616615779988285,
+    "estimate": 0.0019080727495292505,
+    "relative_se": 0.004079931847369472,
+    "standard_error": 7.784806777902223e-06,
+    "contribution_ess": 46198.42269215127,
+    "maximum_fraction": 0.0002461281276993021,
+    "sample_skewness": 6.568816366832766
+  },
+  {
+    "beta": 1,
+    "log_t": 100,
+    "seed": 11745219,
+    "method": "fixed_stratified",
+    "offset_applied": 131.2946363855747,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.32559132799997315,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 102.77258872223977,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ],
+      "tilted_shapes_b": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.257553061043309,
+    "estimate": 0.0019159282248999595,
+    "relative_se": 0.0040435849543829375,
+    "standard_error": 7.747218543883085e-06,
+    "contribution_ess": 45082.87483620456,
+    "maximum_fraction": 0.00024688146014101406,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.7717969759513283,
+        "scaled_sample_variance": 0.0008171819264463494
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.22809109708633996,
+        "scaled_sample_variance": 0.0028361991539012804
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 5.235332156099232e-24,
+        "scaled_sample_variance": 8.57474501630817e-45
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 0.00011192696233173574,
+        "scaled_sample_variance": 2.6385761322680633e-06
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.004145052173077227
+  },
+  {
+    "beta": 1,
+    "log_t": 100,
+    "seed": 1745229,
+    "method": "iid_mixture",
+    "offset_applied": 131.2946363855747,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.3466851199998473,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 119796,
+      "draws": 200000,
+      "ordinary_count": 10054,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60085,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 413296,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 102.77258872223977,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ],
+      "tilted_shapes_b": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.267185182732863,
+    "estimate": 0.0018975623641870093,
+    "relative_se": 0.0041085196994451794,
+    "standard_error": 7.796172354188096e-06,
+    "contribution_ess": 45704.15303344333,
+    "maximum_fraction": 0.0002394999922085151,
+    "sample_skewness": 6.592082565766366
+  },
+  {
+    "beta": 1,
+    "log_t": 100,
+    "seed": 11745229,
+    "method": "fixed_stratified",
+    "offset_applied": 131.2946363855747,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.32315618699999504,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 102.77258872223977,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ],
+      "tilted_shapes_b": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.261018552267503,
+    "estimate": 0.001909300083965961,
+    "relative_se": 0.003999155168438941,
+    "standard_error": 7.635587298893376e-06,
+    "contribution_ess": 45790.13762993287,
+    "maximum_fraction": 0.00023308971434656377,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.7745862314478327,
+        "scaled_sample_variance": 0.0009255602660667571
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.22528265139097475,
+        "scaled_sample_variance": 0.0030543434764983717
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 6.61291391703594e-23,
+        "scaled_sample_variance": 7.492171775186231e-42
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 0.00013111716119249074,
+        "scaled_sample_variance": 3.9952062269467124e-06
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.004103516539837522
+  },
+  {
+    "beta": 1,
+    "log_t": 100,
+    "seed": 1745239,
+    "method": "iid_mixture",
+    "offset_applied": 131.2946363855747,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.32000764600002185,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10025,
+      "ordinary_probability": 0.05,
+      "shifted_count": 59994,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 102.77258872223977,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ],
+      "tilted_shapes_b": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.272323809048483,
+    "estimate": 0.0018878365104521497,
+    "relative_se": 0.004061866374738163,
+    "standard_error": 7.668139642808618e-06,
+    "contribution_ess": 46514.49243722733,
+    "maximum_fraction": 0.00024526201115609314,
+    "sample_skewness": 6.393341217652467
+  },
+  {
+    "beta": 1,
+    "log_t": 100,
+    "seed": 11745239,
+    "method": "fixed_stratified",
+    "offset_applied": 131.2946363855747,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.31625077400008195,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 102.77258872223977,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ],
+      "tilted_shapes_b": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.254011043646823,
+    "estimate": 0.0019227265087152022,
+    "relative_se": 0.004063318934759377,
+    "standard_error": 7.812651029226272e-06,
+    "contribution_ess": 44745.15142828606,
+    "maximum_fraction": 0.0002418875246431224,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.7731496108292982,
+        "scaled_sample_variance": 0.0008498745949200451
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.2267754388991956,
+        "scaled_sample_variance": 0.0030031731512352444
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 2.3130499723358756e-23,
+        "scaled_sample_variance": 2.655709177313577e-43
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 7.49502715061669e-05,
+        "scaled_sample_variance": 1.028273754309627e-06
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.004165198303267499
+  },
+  {
+    "beta": 1,
+    "log_t": 100,
+    "seed": 1745251,
+    "method": "iid_mixture",
+    "offset_applied": 131.2946363855747,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.3426485909999428,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 119987,
+      "draws": 200000,
+      "ordinary_count": 9931,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60109,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 413955,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 102.77258872223977,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ],
+      "tilted_shapes_b": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.273265255659101,
+    "estimate": 0.0018860600495207549,
+    "relative_se": 0.0040041832701150125,
+    "standard_error": 7.552130096723298e-06,
+    "contribution_ess": 47543.42302808421,
+    "maximum_fraction": 0.0002447889171813577,
+    "sample_skewness": 5.996542541234401
+  },
+  {
+    "beta": 1,
+    "log_t": 100,
+    "seed": 11745251,
+    "method": "fixed_stratified",
+    "offset_applied": 131.2946363855747,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.3246932460001517,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 102.77258872223977,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ],
+      "tilted_shapes_b": [
+        0.009730220990177335,
+        0.009730220990177335,
+        0.009730220990177335
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.26511046845068,
+    "estimate": 0.0019015033507222016,
+    "relative_se": 0.003997871960071621,
+    "standard_error": 7.601966927834523e-06,
+    "contribution_ess": 45809.044156634365,
+    "maximum_fraction": 0.0002382607000364056,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.7748343432909528,
+        "scaled_sample_variance": 0.0008900851964310592
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.2250220545310915,
+        "scaled_sample_variance": 0.0029113734243459994
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 3.290440837218998e-23,
+        "scaled_sample_variance": 1.4525322650101585e-42
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 0.00014360217795542465,
+        "scaled_sample_variance": 5.56874248791857e-06
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.004102418134360652
+  },
+  {
+    "beta": 1,
+    "log_t": 320,
+    "seed": 1767219,
+    "method": "iid_mixture",
+    "offset_applied": 456.642033146352,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.32765126899994357,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120139,
+      "draws": 200000,
+      "ordinary_count": 9927,
+      "ordinary_probability": 0.05,
+      "shifted_count": 59981,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 414479,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 322.7725887222398,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ],
+      "tilted_shapes_b": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.330308111923003,
+    "estimate": 0.0017814847878282187,
+    "relative_se": 0.003454081601528134,
+    "standard_error": 6.153393829039702e-06,
+    "contribution_ess": 59064.582198168966,
+    "maximum_fraction": 0.00018021794609261006,
+    "sample_skewness": 2.9542635893722804
+  },
+  {
+    "beta": 1,
+    "log_t": 320,
+    "seed": 11767219,
+    "method": "fixed_stratified",
+    "offset_applied": 456.642033146352,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.33077303300001404,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 322.7725887222398,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ],
+      "tilted_shapes_b": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.323641173741699,
+    "estimate": 0.0017934015166873216,
+    "relative_se": 0.003286385509979624,
+    "standard_error": 5.893808758016694e-06,
+    "contribution_ess": 58732.00496723259,
+    "maximum_fraction": 0.0001621187685068023,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.8304661087543821,
+        "scaled_sample_variance": 0.0021663898375089753
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.16952913863087135,
+        "scaled_sample_variance": 0.0025160893342274014
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 1.667244376594222e-72,
+        "scaled_sample_variance": 4.1610931447943736e-141
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 4.752614746450597e-06,
+        "scaled_sample_variance": 2.9482564484966762e-08
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.0034679319365015474
+  },
+  {
+    "beta": 1,
+    "log_t": 320,
+    "seed": 1767229,
+    "method": "iid_mixture",
+    "offset_applied": 456.642033146352,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.3433447380000416,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120095,
+      "draws": 200000,
+      "ordinary_count": 9908,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60060,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 414327,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 322.7725887222398,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ],
+      "tilted_shapes_b": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.330819860958717,
+    "estimate": 0.001780573347940042,
+    "relative_se": 0.0034666834916477645,
+    "standard_error": 6.172684230971735e-06,
+    "contribution_ess": 58761.88355790276,
+    "maximum_fraction": 0.00018078903744541745,
+    "sample_skewness": 3.2118160356399477
+  },
+  {
+    "beta": 1,
+    "log_t": 320,
+    "seed": 11767229,
+    "method": "fixed_stratified",
+    "offset_applied": 456.642033146352,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.3180048029998943,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 322.7725887222398,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ],
+      "tilted_shapes_b": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.3255903073971185,
+    "estimate": 0.0017899093418967727,
+    "relative_se": 0.0032806343578750947,
+    "standard_error": 5.872038084508152e-06,
+    "contribution_ess": 58792.1503149503,
+    "maximum_fraction": 0.00018387206663161024,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.8329338507476015,
+        "scaled_sample_variance": 0.0016839068233269958
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.16705880154873495,
+        "scaled_sample_variance": 0.0019377548587333766
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 2.7385105482793883e-73,
+        "scaled_sample_variance": 7.682440238734626e-143
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 7.347703663349565e-06,
+        "scaled_sample_variance": 7.082462274155275e-08
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.0034654196635909465
+  },
+  {
+    "beta": 1,
+    "log_t": 320,
+    "seed": 1767239,
+    "method": "iid_mixture",
+    "offset_applied": 456.642033146352,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.3461898199998359,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 119652,
+      "draws": 200000,
+      "ordinary_count": 10117,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60197,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 412799,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 322.7725887222398,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ],
+      "tilted_shapes_b": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.3380147107678635,
+    "estimate": 0.0017678083662562704,
+    "relative_se": 0.0034960925450541126,
+    "standard_error": 6.180421650352837e-06,
+    "contribution_ess": 58063.2358412721,
+    "maximum_fraction": 0.0001879888283796014,
+    "sample_skewness": 3.238351033475647
+  },
+  {
+    "beta": 1,
+    "log_t": 320,
+    "seed": 11767239,
+    "method": "fixed_stratified",
+    "offset_applied": 456.642033146352,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.3156743800000186,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 322.7725887222398,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ],
+      "tilted_shapes_b": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.331994426563352,
+    "estimate": 0.0017784831754916557,
+    "relative_se": 0.003249675230797168,
+    "standard_error": 5.779492723784726e-06,
+    "contribution_ess": 59398.17249531019,
+    "maximum_fraction": 0.0001763506584824537,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.8363379871718056,
+        "scaled_sample_variance": 0.0018485156220457168
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.16366196342893935,
+        "scaled_sample_variance": 0.001962422291659623
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 1.9215491314404905e-73,
+        "scaled_sample_variance": 2.184061984618231e-143
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 4.939925514624824e-08,
+        "scaled_sample_variance": 3.85485452326857e-12
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.0034402898099238914
+  },
+  {
+    "beta": 1,
+    "log_t": 320,
+    "seed": 1767251,
+    "method": "iid_mixture",
+    "offset_applied": 456.642033146352,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.3284231269999509,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120188,
+      "draws": 200000,
+      "ordinary_count": 9966,
+      "ordinary_probability": 0.05,
+      "shifted_count": 59987,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 414648,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 322.7725887222398,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ],
+      "tilted_shapes_b": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.322347247319655,
+    "estimate": 0.001795723548240115,
+    "relative_se": 0.003465730157197463,
+    "standard_error": 6.223493255125399e-06,
+    "contribution_ess": 58784.712600156745,
+    "maximum_fraction": 0.0001729482507542974,
+    "sample_skewness": 3.2056345494250955
+  },
+  {
+    "beta": 1,
+    "log_t": 320,
+    "seed": 11767251,
+    "method": "fixed_stratified",
+    "offset_applied": 456.642033146352,
+    "scaled_quantity": "Laplace-inferred effective kappa: e^(lambda L) Z(e^L)/(Gamma(lambda+1)L^q); NOT actualCDF",
+    "elapsed_seconds": 0.37066200300000673,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 322.7725887222398,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ],
+      "tilted_shapes_b": [
+        0.003098156519296453,
+        0.003098156519296453,
+        0.003098156519296453
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -6.32462089631551,
+    "estimate": 0.001791645341160392,
+    "relative_se": 0.0032670110716024672,
+    "standard_error": 5.85332516595598e-06,
+    "contribution_ess": 59128.73614793206,
+    "maximum_fraction": 0.00017757089589432161,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.8320275549646134,
+        "scaled_sample_variance": 0.0018043544227036323
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.1679454796520206,
+        "scaled_sample_variance": 0.0020326439221486467
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 3.7258837711035324e-70,
+        "scaled_sample_variance": 4.4006267252351864e-136
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 2.696538336601469e-05,
+        "scaled_sample_variance": 1.8029454381938486e-06
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.0034514214613882853
+  },
+  {
+    "beta": 2,
+    "log_t": 30,
+    "seed": 2738219,
+    "method": "iid_mixture",
+    "offset_applied": 76.39521047335138,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.32847674599997845,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120360,
+      "draws": 200000,
+      "ordinary_count": 9927,
+      "ordinary_probability": 0.05,
+      "shifted_count": 59681,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 415241,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 30.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ],
+      "tilted_shapes_b": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.727782559536368,
+    "estimate": 0.06536407002162982,
+    "relative_se": 0.009741688111068018,
+    "standard_error": 0.0006367563838207286,
+    "contribution_ess": 10010.008732367412,
+    "maximum_fraction": 0.0013119266774473351,
+    "sample_skewness": 21.076545973628694
+  },
+  {
+    "beta": 2,
+    "log_t": 30,
+    "seed": 12738219,
+    "method": "fixed_stratified",
+    "offset_applied": 76.39521047335138,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.31814101100007974,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 30.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ],
+      "tilted_shapes_b": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.707900148508676,
+    "estimate": 0.06667667092346584,
+    "relative_se": 0.009809330906152852,
+    "standard_error": 0.0006540535288089367,
+    "contribution_ess": 9823.498991236784,
+    "maximum_fraction": 0.0013575280606980386,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.7032240104403845,
+        "scaled_sample_variance": 7.941932512278836e-05
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.2953649741227257,
+        "scaled_sample_variance": 0.0007077632806371
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 2.3523383194292238e-14,
+        "scaled_sample_variance": 4.412211932641389e-27
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 0.001411015436866312,
+        "scaled_sample_variance": 2.171837957428514e-05
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.009838557130271527
+  },
+  {
+    "beta": 2,
+    "log_t": 30,
+    "seed": 2738229,
+    "method": "iid_mixture",
+    "offset_applied": 76.39521047335138,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.3636195450001196,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 119973,
+      "draws": 200000,
+      "ordinary_count": 10054,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60152,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 413906,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 30.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ],
+      "tilted_shapes_b": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.735715258550906,
+    "estimate": 0.0648476077061468,
+    "relative_se": 0.00955367332558363,
+    "standard_error": 0.000619532859970126,
+    "contribution_ess": 10387.212681129748,
+    "maximum_fraction": 0.0011213072977590006,
+    "sample_skewness": 20.144388325914342
+  },
+  {
+    "beta": 2,
+    "log_t": 30,
+    "seed": 12738229,
+    "method": "fixed_stratified",
+    "offset_applied": 76.39521047335138,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.32391998299999614,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 30.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ],
+      "tilted_shapes_b": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.7231418584226077,
+    "estimate": 0.065668110068017,
+    "relative_se": 0.009647811328565193,
+    "standard_error": 0.0006335535362396804,
+    "contribution_ess": 10135.080181309208,
+    "maximum_fraction": 0.0011825970749465668,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.7055712490940819,
+        "scaled_sample_variance": 0.00010677787879193892
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.29391078850826524,
+        "scaled_sample_variance": 0.0008953651916351437
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 6.285823383503509e-14,
+        "scaled_sample_variance": 1.1115410524552432e-25
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 0.0005179623975901933,
+        "scaled_sample_variance": 2.025107037736529e-06
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.009678205928245113
+  },
+  {
+    "beta": 2,
+    "log_t": 30,
+    "seed": 2738239,
+    "method": "iid_mixture",
+    "offset_applied": 76.39521047335138,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.3822988980000446,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 119794,
+      "draws": 200000,
+      "ordinary_count": 10079,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60141,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 413289,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 30.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ],
+      "tilted_shapes_b": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.7351618620682325,
+    "estimate": 0.0648835040757074,
+    "relative_se": 0.009595290216741059,
+    "standard_error": 0.0006225760518855138,
+    "contribution_ess": 10301.935938217037,
+    "maximum_fraction": 0.0012215746993653094,
+    "sample_skewness": 20.339759724435403
+  },
+  {
+    "beta": 2,
+    "log_t": 30,
+    "seed": 12738239,
+    "method": "fixed_stratified",
+    "offset_applied": 76.39521047335138,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.3715312780000204,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 30.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ],
+      "tilted_shapes_b": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.7199119809279324,
+    "estimate": 0.06588055291634537,
+    "relative_se": 0.009477579086000588,
+    "standard_error": 0.0006243881504941099,
+    "contribution_ess": 10479.824517184657,
+    "maximum_fraction": 0.001204129367649648,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.7113175696443221,
+        "scaled_sample_variance": 0.00010406749399199265
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.2879382041402613,
+        "scaled_sample_variance": 0.0008222743326638016
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 2.7886671596519254e-14,
+        "scaled_sample_variance": 1.6114215698435644e-26
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 0.0007442262153883375,
+        "scaled_sample_variance": 1.2647156978311281e-05
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.009509042918520463
+  },
+  {
+    "beta": 2,
+    "log_t": 30,
+    "seed": 2738251,
+    "method": "iid_mixture",
+    "offset_applied": 76.39521047335138,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.345127507999905,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 119615,
+      "draws": 200000,
+      "ordinary_count": 10189,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60327,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 412671,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 30.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ],
+      "tilted_shapes_b": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.712781239625273,
+    "estimate": 0.06635200901410815,
+    "relative_se": 0.009650623462010578,
+    "standard_error": 0.0006403382549430895,
+    "contribution_ess": 10190.141152208189,
+    "maximum_fraction": 0.0011934693082806158,
+    "sample_skewness": 20.005800684331625
+  },
+  {
+    "beta": 2,
+    "log_t": 30,
+    "seed": 12738251,
+    "method": "fixed_stratified",
+    "offset_applied": 76.39521047335138,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.3109828710000784,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 30.0,
+      "total_log_scale_center": 30.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ],
+      "tilted_shapes_b": [
+        0.03333333333333333,
+        0.03333333333333333,
+        0.03333333333333333
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.7286166639475384,
+    "estimate": 0.06530957229404985,
+    "relative_se": 0.009272972234878673,
+    "standard_error": 0.0006056138505545256,
+    "contribution_ess": 10918.476285797396,
+    "maximum_fraction": 0.001185237127593454,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.7122010204202222,
+        "scaled_sample_variance": 0.00010868527593865045
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.2871426085880523,
+        "scaled_sample_variance": 0.0008019704812078018
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 1.7899712284017846e-11,
+        "scaled_sample_variance": 1.5378371620366545e-20
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 0.0006563709738257763,
+        "scaled_sample_variance": 5.0249028307153314e-06
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.009305283669139157
+  },
+  {
+    "beta": 2,
+    "log_t": 100,
+    "seed": 2745219,
+    "method": "iid_mixture",
+    "offset_applied": 281.57931925604765,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.3401319380000132,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 119907,
+      "draws": 200000,
+      "ordinary_count": 9982,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60071,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 413679,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 100.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.01,
+        0.01,
+        0.01
+      ],
+      "tilted_shapes_b": [
+        0.01,
+        0.01,
+        0.01
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.5662514277351267,
+    "estimate": 0.07682298285016227,
+    "relative_se": 0.005940896799940785,
+    "standard_error": 0.00045639741297643483,
+    "contribution_ess": 24817.542472392306,
+    "maximum_fraction": 0.0004615047293296499,
+    "sample_skewness": 5.777117070299754
+  },
+  {
+    "beta": 2,
+    "log_t": 100,
+    "seed": 12745219,
+    "method": "fixed_stratified",
+    "offset_applied": 281.57931925604765,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.31821975000002567,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 100.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.01,
+        0.01,
+        0.01
+      ],
+      "tilted_shapes_b": [
+        0.01,
+        0.01,
+        0.01
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.555302024970432,
+    "estimate": 0.0776687706163598,
+    "relative_se": 0.005972979917330297,
+    "standard_error": 0.0004639140070952505,
+    "contribution_ess": 23890.661621916595,
+    "maximum_fraction": 0.0005005549588400361,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.8249024501550103,
+        "scaled_sample_variance": 0.0007287117302759372
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.17505679776519387,
+        "scaled_sample_variance": 0.0009156953331863357
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 3.011939313527193e-47,
+        "scaled_sample_variance": 5.6609666095498066e-92
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 4.075207979574588e-05,
+        "scaled_sample_variance": 2.571645344794027e-07
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.006071041366767103
+  },
+  {
+    "beta": 2,
+    "log_t": 100,
+    "seed": 2745229,
+    "method": "iid_mixture",
+    "offset_applied": 281.57931925604765,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.3501525379999748,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 119870,
+      "draws": 200000,
+      "ordinary_count": 10108,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60070,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 413551,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 100.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.01,
+        0.01,
+        0.01
+      ],
+      "tilted_shapes_b": [
+        0.01,
+        0.01,
+        0.01
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.549094674054924,
+    "estimate": 0.07815238736733222,
+    "relative_se": 0.006095150129995476,
+    "standard_error": 0.0004763505340214518,
+    "contribution_ess": 23724.415658205988,
+    "maximum_fraction": 0.0005563329029726888,
+    "sample_skewness": 7.1500183537579325
+  },
+  {
+    "beta": 2,
+    "log_t": 100,
+    "seed": 12745229,
+    "method": "fixed_stratified",
+    "offset_applied": 281.57931925604765,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.3468027549999988,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 100.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.01,
+        0.01,
+        0.01
+      ],
+      "tilted_shapes_b": [
+        0.01,
+        0.01,
+        0.01
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.5505664752488784,
+    "estimate": 0.07803744719558423,
+    "relative_se": 0.005962578384690479,
+    "standard_error": 0.00046530439584481514,
+    "contribution_ess": 23959.68443919424,
+    "maximum_fraction": 0.0004844065816062313,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.8253447897880808,
+        "scaled_sample_variance": 0.0007817967718390137
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.17462438997716762,
+        "scaled_sample_variance": 0.0009615479816888052
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 3.6402796656819334e-45,
+        "scaled_sample_variance": 5.120892131425779e-87
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 3.0820234751621516e-05,
+        "scaled_sample_variance": 3.89265388379899e-07
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.006061102244350905
+  },
+  {
+    "beta": 2,
+    "log_t": 100,
+    "seed": 2745239,
+    "method": "iid_mixture",
+    "offset_applied": 281.57931925604765,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.34759505100009847,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 119749,
+      "draws": 200000,
+      "ordinary_count": 10034,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60322,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 413134,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 100.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.01,
+        0.01,
+        0.01
+      ],
+      "tilted_shapes_b": [
+        0.01,
+        0.01,
+        0.01
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.553180784988786,
+    "estimate": 0.07783369958303195,
+    "relative_se": 0.006057605300556129,
+    "standard_error": 0.0004714858311560677,
+    "contribution_ess": 23984.037085799227,
+    "maximum_fraction": 0.0004680666159850754,
+    "sample_skewness": 6.7850924866748965
+  },
+  {
+    "beta": 2,
+    "log_t": 100,
+    "seed": 12745239,
+    "method": "fixed_stratified",
+    "offset_applied": 281.57931925604765,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.32952829999999267,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 100.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.01,
+        0.01,
+        0.01
+      ],
+      "tilted_shapes_b": [
+        0.01,
+        0.01,
+        0.01
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.5529054994363527,
+    "estimate": 0.07785512902549223,
+    "relative_se": 0.006016181277389349,
+    "standard_error": 0.00046839056959189845,
+    "contribution_ess": 23611.65079052395,
+    "maximum_fraction": 0.0004957999955709136,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.8219048480085666,
+        "scaled_sample_variance": 0.0007370219769906285
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.17808338694796527,
+        "scaled_sample_variance": 0.000979964811874358
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 2.930534845206243e-47,
+        "scaled_sample_variance": 5.185282877343344e-92
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 1.1765043468237182e-05,
+        "scaled_sample_variance": 4.849422478455414e-08
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.0061116413423710145
+  },
+  {
+    "beta": 2,
+    "log_t": 100,
+    "seed": 2745251,
+    "method": "iid_mixture",
+    "offset_applied": 281.57931925604765,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.349567013000069,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 119536,
+      "draws": 200000,
+      "ordinary_count": 10062,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60353,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 412399,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 100.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.01,
+        0.01,
+        0.01
+      ],
+      "tilted_shapes_b": [
+        0.01,
+        0.01,
+        0.01
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.5435823359468763,
+    "estimate": 0.07858437929937638,
+    "relative_se": 0.0060383899185983735,
+    "standard_error": 0.00047452312372066503,
+    "contribution_ess": 24118.48708545611,
+    "maximum_fraction": 0.0004867235893803686,
+    "sample_skewness": 6.733010623221552
+  },
+  {
+    "beta": 2,
+    "log_t": 100,
+    "seed": 12745251,
+    "method": "fixed_stratified",
+    "offset_applied": 281.57931925604765,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.31562677199985956,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 100.0,
+      "total_log_scale_center": 100.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.01,
+        0.01,
+        0.01
+      ],
+      "tilted_shapes_b": [
+        0.01,
+        0.01,
+        0.01
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.5596628243786252,
+    "estimate": 0.07733081011197532,
+    "relative_se": 0.0059718476836961455,
+    "standard_error": 0.00046180781924554624,
+    "contribution_ess": 23893.802549693104,
+    "maximum_fraction": 0.00047477737414755637,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.8258905827143328,
+        "scaled_sample_variance": 0.0008187444723503552
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.1740990454205888,
+        "scaled_sample_variance": 0.0009993621414512834
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 4.383682708434024e-46,
+        "scaled_sample_variance": 3.0998537421011973e-89
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 1.037186507828597e-05,
+        "scaled_sample_variance": 2.0458739352701883e-08
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.0060705881878516214
+  },
+  {
+    "beta": 2,
+    "log_t": 320,
+    "seed": 2767219,
+    "method": "iid_mixture",
+    "offset_applied": 936.9267160168249,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.3645273790000374,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120245,
+      "draws": 200000,
+      "ordinary_count": 9843,
+      "ordinary_probability": 0.05,
+      "shifted_count": 59857,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 414845,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 320.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003125,
+        0.003125,
+        0.003125
+      ],
+      "tilted_shapes_b": [
+        0.003125,
+        0.003125,
+        0.003125
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.505180896050045,
+    "estimate": 0.08166082452850312,
+    "relative_se": 0.00552427531609441,
+    "standard_error": 0.0004511168772347267,
+    "contribution_ess": 28155.162395015836,
+    "maximum_fraction": 0.0003279834250767888,
+    "sample_skewness": 4.048756235822909
+  },
+  {
+    "beta": 2,
+    "log_t": 320,
+    "seed": 12767219,
+    "method": "fixed_stratified",
+    "offset_applied": 936.9267160168249,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.33703483500016773,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 320.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003125,
+        0.003125,
+        0.003125
+      ],
+      "tilted_shapes_b": [
+        0.003125,
+        0.003125,
+        0.003125
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.5073982635675423,
+    "estimate": 0.08147995307209556,
+    "relative_se": 0.00533294978723102,
+    "standard_error": 0.0004345284983994255,
+    "contribution_ess": 28705.32273859521,
+    "maximum_fraction": 0.00032416925291195854,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.8500921614789382,
+        "scaled_sample_variance": 0.0017787515223115261
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.1499078385194215,
+        "scaled_sample_variance": 0.0009531570176219314
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 2.5479551955214694e-145,
+        "scaled_sample_variance": 6.738077904664037e-288
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 1.6400908712476331e-12,
+        "scaled_sample_variance": 2.1807205532721832e-21
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.005462315799392116
+  },
+  {
+    "beta": 2,
+    "log_t": 320,
+    "seed": 2767229,
+    "method": "iid_mixture",
+    "offset_applied": 936.9267160168249,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.36644513500004905,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120218,
+      "draws": 200000,
+      "ordinary_count": 9971,
+      "ordinary_probability": 0.05,
+      "shifted_count": 59706,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 414752,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 320.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003125,
+        0.003125,
+        0.003125
+      ],
+      "tilted_shapes_b": [
+        0.003125,
+        0.003125,
+        0.003125
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.507424344297906,
+    "estimate": 0.0814778280431207,
+    "relative_se": 0.005480850075678278,
+    "standard_error": 0.0004465677599962398,
+    "contribution_ess": 28539.165164687223,
+    "maximum_fraction": 0.00033260324312622526,
+    "sample_skewness": 3.8210121489512474
+  },
+  {
+    "beta": 2,
+    "log_t": 320,
+    "seed": 12767229,
+    "method": "fixed_stratified",
+    "offset_applied": 936.9267160168249,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.3679029410000112,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 320.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003125,
+        0.003125,
+        0.003125
+      ],
+      "tilted_shapes_b": [
+        0.003125,
+        0.003125,
+        0.003125
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.504968273782265,
+    "estimate": 0.0816781892842046,
+    "relative_se": 0.0053554498727494335,
+    "standard_error": 0.00043742344840849766,
+    "contribution_ess": 28524.72020251637,
+    "maximum_fraction": 0.0003472032995019539,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.8479072658576701,
+        "scaled_sample_variance": 0.0015487205058083513
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.15209273313449234,
+        "scaled_sample_variance": 0.000867830954160763
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 2.651855147360166e-144,
+        "scaled_sample_variance": 2.8379358429547578e-285
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 1.0078376290034904e-09,
+        "scaled_sample_variance": 8.259951178521521e-16
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.005482468580080417
+  },
+  {
+    "beta": 2,
+    "log_t": 320,
+    "seed": 2767239,
+    "method": "iid_mixture",
+    "offset_applied": 936.9267160168249,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.3776295369998479,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 119935,
+      "draws": 200000,
+      "ordinary_count": 10086,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60002,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 413775,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 320.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003125,
+        0.003125,
+        0.003125
+      ],
+      "tilted_shapes_b": [
+        0.003125,
+        0.003125,
+        0.003125
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.492891912928788,
+    "estimate": 0.08267054453162055,
+    "relative_se": 0.005545745946031702,
+    "standard_error": 0.000458469837192468,
+    "contribution_ess": 27968.003457350405,
+    "maximum_fraction": 0.00035425787546278085,
+    "sample_skewness": 4.20989926643306
+  },
+  {
+    "beta": 2,
+    "log_t": 320,
+    "seed": 12767239,
+    "method": "fixed_stratified",
+    "offset_applied": 936.9267160168249,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.3582119170000624,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 320.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003125,
+        0.003125,
+        0.003125
+      ],
+      "tilted_shapes_b": [
+        0.003125,
+        0.003125,
+        0.003125
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.5090715177896508,
+    "estimate": 0.08134373039596725,
+    "relative_se": 0.005366280976672632,
+    "standard_error": 0.0004365133129954664,
+    "contribution_ess": 28410.22641219363,
+    "maximum_fraction": 0.0003635014955676491,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.8506620763273629,
+        "scaled_sample_variance": 0.0014245236564411792
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.1493379235459543,
+        "scaled_sample_variance": 0.0007832648289548014
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 7.11733661519208e-145,
+        "scaled_sample_variance": 6.047585671108259e-287
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 1.2668255572912502e-10,
+        "scaled_sample_variance": 9.60101814449891e-18
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.005495338398696544
+  },
+  {
+    "beta": 2,
+    "log_t": 320,
+    "seed": 2767251,
+    "method": "iid_mixture",
+    "offset_applied": 936.9267160168249,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.4002868470001886,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120049,
+      "draws": 200000,
+      "ordinary_count": 10081,
+      "ordinary_probability": 0.05,
+      "shifted_count": 59879,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": false,
+      "allocation_counts": null,
+      "window_proposal_attempts": 414169,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 320.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003125,
+        0.003125,
+        0.003125
+      ],
+      "tilted_shapes_b": [
+        0.003125,
+        0.003125,
+        0.003125
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.5006863549180256,
+    "estimate": 0.0820286785114012,
+    "relative_se": 0.005488359186762221,
+    "standard_error": 0.0004502028512860136,
+    "contribution_ess": 28472.23459870991,
+    "maximum_fraction": 0.00036872057558131065,
+    "sample_skewness": 3.870914633971911
+  },
+  {
+    "beta": 2,
+    "log_t": 320,
+    "seed": 12767251,
+    "method": "fixed_stratified",
+    "offset_applied": 936.9267160168249,
+    "scaled_quantity": "Laplace leading-coefficient proxy: e^(lambda L) Z(e^L)/L^q; NOT actualCDF",
+    "elapsed_seconds": 0.33161150400019324,
+    "metadata": {
+      "method": "shifted_window_mixture",
+      "face_count": 120000,
+      "draws": 200000,
+      "ordinary_count": 10000,
+      "ordinary_probability": 0.05,
+      "shifted_count": 60000,
+      "shifted_probability": 0.3,
+      "log_coordinate_shift": 4.0,
+      "ridge_count": 0,
+      "ridge_probability": 0.0,
+      "fixed_allocation": true,
+      "allocation_counts": {
+        "ordered": 120000,
+        "shifted": 60000,
+        "ridge": 0,
+        "ordinary": 10000,
+        "tilted": 10000
+      },
+      "window_proposal_attempts": 413999,
+      "simplex_dimension_each": 2,
+      "window_acceptance_probability": 0.3333333333333333,
+      "face_probability": 0.6,
+      "design_log_t": 320.0,
+      "total_log_scale_center": 320.0,
+      "logistic_width": 3.0,
+      "tilted_shapes_a": [
+        0.003125,
+        0.003125,
+        0.003125
+      ],
+      "tilted_shapes_b": [
+        0.003125,
+        0.003125,
+        0.003125
+      ]
+    },
+    "n": 200000,
+    "log_estimate": -2.496901223766182,
+    "estimate": 0.08233975618126234,
+    "relative_se": 0.00538504156504951,
+    "standard_error": 0.00044340300949214,
+    "contribution_ess": 28283.131255176326,
+    "maximum_fraction": 0.0003309071134633515,
+    "strata": [
+      {
+        "label": 0,
+        "n": 120000,
+        "allocation": 0.6,
+        "relative_mean_contribution": 0.8458687223554163,
+        "scaled_sample_variance": 0.0016875550593324193
+      },
+      {
+        "label": 1,
+        "n": 60000,
+        "allocation": 0.3,
+        "relative_mean_contribution": 0.1541312776296296,
+        "scaled_sample_variance": 0.0010387103339504612
+      },
+      {
+        "label": 3,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 3.268681880885379e-144,
+        "scaled_sample_variance": 2.0293076268973047e-285
+      },
+      {
+        "label": 4,
+        "n": 10000,
+        "allocation": 0.05,
+        "relative_mean_contribution": 1.4954188455255214e-11,
+        "scaled_sample_variance": 2.0422701443759353e-19
+      }
+    ],
+    "variance_formula": "sum_k (n_k/n)^2 samplevar_k/n_k",
+    "pooled_iid_relative_se_for_comparison": 0.005509711053376584
+  }
+]

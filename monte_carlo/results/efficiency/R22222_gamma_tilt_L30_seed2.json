@@ -1,0 +1,85 @@
+{
+  "case_id": "R22222",
+  "widths": [
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "beta": 1,
+  "method": "gamma_tilt",
+  "n": 100000,
+  "seed": 17340202,
+  "log_t": 30,
+  "scaled_estimate": 0.0027659052078113614,
+  "scaled_standard_error": 0.00027697185624924516,
+  "scaled_sample_variance": 0.0076713409154152545,
+  "scaled_sum": 276.59052078113615,
+  "scaled_sum_squares": 767.8914433624698,
+  "rescaling_log_factor": 31.395210473351376,
+  "log_Z_estimate": -37.285597790173,
+  "contribution_ess": 99.62647304805104,
+  "importance_weight_ess": 4961.155258531568,
+  "importance_weight_mean": 0.9908438858060169,
+  "maximum_contribution_fraction": 0.025152149983236723,
+  "nonzero_contributions": 100000,
+  "first_batch_proposal_metadata": {
+    "method": "gamma_tilt",
+    "face_count": 0,
+    "draws": 25000,
+    "ordinary_count": 1199,
+    "ordinary_probability": 0.05,
+    "shifted_count": 0,
+    "shifted_probability": 0.0,
+    "log_coordinate_shift": 4.0,
+    "ridge_count": 0,
+    "ridge_probability": 0.0,
+    "window_proposal_attempts": 0,
+    "simplex_dimension_each": 2,
+    "window_acceptance_probability": 0.3333333333333333,
+    "face_probability": 0.0,
+    "design_log_t": 30.0,
+    "total_log_scale_center": 32.77258872223978,
+    "logistic_width": 3.0,
+    "tilted_shapes_a": [
+      0.03051330514276374,
+      0.03051330514276374,
+      0.03051330514276374
+    ],
+    "tilted_shapes_b": [
+      0.03051330514276374,
+      0.03051330514276374,
+      0.03051330514276374
+    ]
+  },
+  "face_samples": 0,
+  "ordinary_samples": 4952,
+  "runtime_seconds": 0.1420746059998237,
+  "job": {
+    "mode": "efficiency",
+    "name": "R22222_gamma_tilt_L30_seed2",
+    "benchmark": {
+      "id": "R22222",
+      "widths": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "beta": 1,
+      "lambda": 1.5,
+      "q": 4,
+      "kappa": "1/576",
+      "coefficient_status": "Conjecture E"
+    },
+    "n": 100000,
+    "seed": 17340202,
+    "batch_size": 25000,
+    "method": "gamma_tilt",
+    "log_t": 30
+  },
+  "estimator": "ordinary arithmetic mean of p/q times exact conditional kernel; NOT self-normalized",
+  "rescaling_note": "lambda,q rescale output only, and do not enter proposal density or conditional kernel."
+}

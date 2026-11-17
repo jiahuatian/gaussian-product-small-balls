@@ -1,0 +1,62 @@
+{
+  "case_id": "C22222",
+  "widths": [
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "beta": 2,
+  "method": "ordinary",
+  "n": 100000,
+  "seed": 17430103,
+  "log_t": 12,
+  "scaled_estimate": 0.0020702392635265753,
+  "scaled_standard_error": 0.0018201955999753868,
+  "scaled_sample_variance": 0.3313112022169758,
+  "scaled_sum": 207.02392635265753,
+  "scaled_sum_squares": 33131.21749955619,
+  "rescaling_log_factor": 26.060373400848,
+  "log_Z_estimate": -32.24046449298771,
+  "contribution_ess": 1.2936109602082897,
+  "importance_weight_ess": 100000.0,
+  "importance_weight_mean": 1.0,
+  "maximum_contribution_fraction": 0.8764955249963631,
+  "nonzero_contributions": 100000,
+  "first_batch_proposal_metadata": {
+    "method": "ordinary",
+    "face_count": 0,
+    "draws": 25000
+  },
+  "face_samples": 0,
+  "ordinary_samples": 0,
+  "runtime_seconds": 0.09473009699991053,
+  "job": {
+    "mode": "efficiency",
+    "name": "C22222_ordinary_L12_seed3",
+    "benchmark": {
+      "id": "C22222",
+      "widths": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "beta": 2,
+      "lambda": 3.0,
+      "q": 4,
+      "kappa": "1/72",
+      "laplace_A": "1/12",
+      "coefficient_status": "complex theorem"
+    },
+    "n": 100000,
+    "seed": 17430103,
+    "batch_size": 25000,
+    "method": "ordinary",
+    "log_t": 12
+  },
+  "estimator": "ordinary arithmetic mean of p/q times exact conditional kernel; NOT self-normalized",
+  "rescaling_note": "lambda,q rescale output only, and do not enter proposal density or conditional kernel."
+}

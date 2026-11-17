@@ -1,0 +1,870 @@
+{
+  "config_sha256": "65ffbdab30757cb36ecf8210d53e34108f966690f98a654764e76e7783270c35",
+  "mode": "direct",
+  "jobs": [
+    {
+      "mode": "direct",
+      "name": "R222_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 500000,
+      "seed": 17010000,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R222_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 500000,
+      "seed": 17010001,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R222_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 500000,
+      "seed": 17010002,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R222_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 500000,
+      "seed": 17010003,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R223_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 500000,
+      "seed": 17011000,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R223_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 500000,
+      "seed": 17011001,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R223_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 500000,
+      "seed": 17011002,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R223_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 500000,
+      "seed": 17011003,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R2222_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 500000,
+      "seed": 17012000,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R2222_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 500000,
+      "seed": 17012001,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R2222_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 500000,
+      "seed": 17012002,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R2222_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 500000,
+      "seed": 17012003,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R22222_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 500000,
+      "seed": 17013000,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R22222_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 500000,
+      "seed": 17013001,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R22222_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 500000,
+      "seed": 17013002,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R22222_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 500000,
+      "seed": 17013003,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "C22222_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 500000,
+      "seed": 17014000,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "C22222_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 500000,
+      "seed": 17014001,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "C22222_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 500000,
+      "seed": 17014002,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "C22222_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 500000,
+      "seed": 17014003,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R224_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 500000,
+      "seed": 17015000,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R224_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 500000,
+      "seed": 17015001,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R224_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 500000,
+      "seed": 17015002,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    },
+    {
+      "mode": "direct",
+      "name": "R224_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 500000,
+      "seed": 17015003,
+      "batch_size": 25000,
+      "t_values": [
+        0.1,
+        1,
+        10,
+        100,
+        1000,
+        10000
+      ],
+      "eps_values": [
+        1,
+        0.1,
+        0.01,
+        0.001,
+        0.0001
+      ]
+    }
+  ]
+}

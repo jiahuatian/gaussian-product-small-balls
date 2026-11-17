@@ -1,0 +1,6022 @@
+{
+  "config_sha256": "65ffbdab30757cb36ecf8210d53e34108f966690f98a654764e76e7783270c35",
+  "mode": "vr",
+  "jobs": [
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L10_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020000,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L10_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020001,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L10_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020002,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L10_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020003,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L10_seed4",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020004,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L10_seed5",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020005,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L10_seed6",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020006,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L10_seed7",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020007,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L20_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020100,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L20_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020101,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L20_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020102,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L20_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020103,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L20_seed4",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020104,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L20_seed5",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020105,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L20_seed6",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020106,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L20_seed7",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020107,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L40_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020200,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L40_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020201,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L40_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020202,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L40_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020203,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L40_seed4",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020204,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L40_seed5",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020205,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L40_seed6",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020206,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L40_seed7",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020207,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L80_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020300,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L80_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020301,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L80_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020302,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L80_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020303,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L80_seed4",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020304,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L80_seed5",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020305,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L80_seed6",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020306,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L80_seed7",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020307,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L160_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020400,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L160_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020401,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L160_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020402,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L160_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020403,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L160_seed4",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020404,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L160_seed5",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020405,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L160_seed6",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020406,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L160_seed7",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020407,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L320_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020500,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L320_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020501,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L320_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020502,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L320_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020503,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L320_seed4",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020504,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L320_seed5",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020505,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L320_seed6",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020506,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L320_seed7",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020507,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L640_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020600,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L640_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020601,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L640_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020602,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L640_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020603,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L640_seed4",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020604,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L640_seed5",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020605,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L640_seed6",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020606,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L640_seed7",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020607,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L1280_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020700,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L1280_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020701,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L1280_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020702,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L1280_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020703,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L1280_seed4",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020704,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L1280_seed5",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020705,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L1280_seed6",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020706,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R222_shifted_window_mixture_L1280_seed7",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 250000,
+      "seed": 17020707,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L10_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220000,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L10_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220001,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L10_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220002,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L10_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220003,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L10_seed4",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220004,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L10_seed5",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220005,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L10_seed6",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220006,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L10_seed7",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220007,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L20_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220100,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L20_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220101,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L20_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220102,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L20_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220103,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L20_seed4",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220104,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L20_seed5",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220105,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L20_seed6",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220106,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L20_seed7",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220107,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L40_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220200,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L40_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220201,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L40_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220202,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L40_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220203,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L40_seed4",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220204,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L40_seed5",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220205,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L40_seed6",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220206,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L40_seed7",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220207,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L80_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220300,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L80_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220301,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L80_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220302,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L80_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220303,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L80_seed4",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220304,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L80_seed5",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220305,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L80_seed6",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220306,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L80_seed7",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220307,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L160_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220400,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L160_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220401,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L160_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220402,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L160_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220403,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L160_seed4",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220404,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L160_seed5",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220405,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L160_seed6",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220406,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L160_seed7",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220407,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L320_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220500,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L320_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220501,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L320_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220502,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L320_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220503,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L320_seed4",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220504,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L320_seed5",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220505,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L320_seed6",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220506,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L320_seed7",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220507,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L640_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220600,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L640_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220601,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L640_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220602,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L640_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220603,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L640_seed4",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220604,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L640_seed5",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220605,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L640_seed6",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220606,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L640_seed7",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220607,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L1280_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220700,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L1280_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220701,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L1280_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220702,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L1280_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220703,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L1280_seed4",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220704,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L1280_seed5",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220705,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L1280_seed6",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220706,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R2222_shifted_window_mixture_L1280_seed7",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17220707,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L10_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320000,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L10_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320001,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L10_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320002,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L10_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320003,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L10_seed4",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320004,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L10_seed5",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320005,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L10_seed6",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320006,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L10_seed7",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320007,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L20_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320100,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L20_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320101,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L20_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320102,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L20_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320103,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L20_seed4",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320104,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L20_seed5",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320105,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L20_seed6",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320106,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L20_seed7",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320107,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L40_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320200,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L40_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320201,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L40_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320202,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L40_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320203,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L40_seed4",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320204,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L40_seed5",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320205,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L40_seed6",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320206,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L40_seed7",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320207,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L80_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320300,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L80_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320301,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L80_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320302,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L80_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320303,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L80_seed4",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320304,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L80_seed5",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320305,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L80_seed6",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320306,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L80_seed7",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320307,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L160_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320400,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L160_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320401,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L160_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320402,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L160_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320403,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L160_seed4",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320404,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L160_seed5",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320405,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L160_seed6",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320406,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L160_seed7",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320407,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L320_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320500,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L320_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320501,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L320_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320502,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L320_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320503,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L320_seed4",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320504,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L320_seed5",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320505,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L320_seed6",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320506,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L320_seed7",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320507,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L640_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320600,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L640_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320601,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L640_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320602,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L640_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320603,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L640_seed4",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320604,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L640_seed5",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320605,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L640_seed6",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320606,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L640_seed7",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320607,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L1280_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320700,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L1280_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320701,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L1280_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320702,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L1280_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320703,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L1280_seed4",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320704,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L1280_seed5",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320705,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L1280_seed6",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320706,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "R22222_shifted_window_mixture_L1280_seed7",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 250000,
+      "seed": 17320707,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L10_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420000,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L10_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420001,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L10_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420002,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L10_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420003,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L10_seed4",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420004,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L10_seed5",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420005,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L10_seed6",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420006,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L10_seed7",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420007,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 10
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L20_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420100,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L20_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420101,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L20_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420102,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L20_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420103,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L20_seed4",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420104,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L20_seed5",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420105,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L20_seed6",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420106,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L20_seed7",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420107,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 20
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L40_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420200,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L40_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420201,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L40_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420202,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L40_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420203,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L40_seed4",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420204,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L40_seed5",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420205,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L40_seed6",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420206,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L40_seed7",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420207,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 40
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L80_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420300,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L80_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420301,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L80_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420302,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L80_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420303,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L80_seed4",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420304,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L80_seed5",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420305,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L80_seed6",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420306,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L80_seed7",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420307,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 80
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L160_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420400,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L160_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420401,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L160_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420402,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L160_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420403,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L160_seed4",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420404,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L160_seed5",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420405,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L160_seed6",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420406,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L160_seed7",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420407,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 160
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L320_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420500,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L320_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420501,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L320_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420502,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L320_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420503,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L320_seed4",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420504,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L320_seed5",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420505,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L320_seed6",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420506,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L320_seed7",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420507,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 320
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L640_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420600,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L640_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420601,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L640_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420602,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L640_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420603,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L640_seed4",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420604,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L640_seed5",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420605,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L640_seed6",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420606,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L640_seed7",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420607,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 640
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L1280_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420700,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L1280_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420701,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L1280_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420702,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L1280_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420703,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L1280_seed4",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420704,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L1280_seed5",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420705,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L1280_seed6",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420706,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    },
+    {
+      "mode": "vr",
+      "name": "C22222_shifted_window_mixture_L1280_seed7",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 250000,
+      "seed": 17420707,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 1280
+    }
+  ]
+}

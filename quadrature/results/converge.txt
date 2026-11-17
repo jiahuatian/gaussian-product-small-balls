@@ -1,0 +1,13 @@
+Grid refinement at the largest t (panel width, Gauss-Legendre nodes per panel).
+[R] t=1e+15 panel=2.0 nodes/panel=8: t^1.5 Z = 92.212016843704  (4s)
+[R] t=1e+15 panel=2.0 nodes/panel=12: t^1.5 Z = 92.212016843701  (14s)
+[R] t=1e+15 panel=1.0 nodes/panel=8: t^1.5 Z = 92.212016843701  (31s)
+[R]   max relative spread: 2.84e-14
+[R] t=1e+16 panel=2.0 nodes/panel=8: t^1.5 Z = 104.360715200218  (4s)
+[R] t=1e+16 panel=2.0 nodes/panel=12: t^1.5 Z = 104.360715200218  (14s)
+[R] t=1e+16 panel=1.0 nodes/panel=8: t^1.5 Z = 104.360715200218  (35s)
+[R]   max relative spread: 8.17e-16
+[C] t=1e+13 panel=2.0 nodes/panel=8: t^3.0 Z = 410.830585248318  (2s)
+[C] t=1e+13 panel=2.0 nodes/panel=12: t^3.0 Z = 410.830585247819  (6s)
+[C] t=1e+13 panel=1.0 nodes/panel=8: t^3.0 Z = 410.830585247819  (14s)
+[C]   max relative spread: 1.22e-12

@@ -1,0 +1,86 @@
+{
+  "case_id": "C22222",
+  "widths": [
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "beta": 2,
+  "method": "shifted_window_mixture",
+  "n": 100000,
+  "seed": 17460003,
+  "log_t": 6,
+  "scaled_estimate": 0.03078689818846201,
+  "scaled_standard_error": 0.0014805854527806133,
+  "scaled_sample_variance": 0.21921332829855736,
+  "scaled_sum": 3078.689818846201,
+  "scaled_sum_squares": 22015.896926534107,
+  "rescaling_log_factor": 10.83296212308778,
+  "log_Z_estimate": -14.313628186083104,
+  "contribution_ess": 430.5221373581075,
+  "importance_weight_ess": 5223.863395708441,
+  "importance_weight_mean": 1.0085683772819627,
+  "maximum_contribution_fraction": 0.011269029318143092,
+  "nonzero_contributions": 100000,
+  "first_batch_proposal_metadata": {
+    "method": "shifted_window_mixture",
+    "face_count": 14938,
+    "draws": 25000,
+    "ordinary_count": 1258,
+    "ordinary_probability": 0.05,
+    "shifted_count": 7552,
+    "shifted_probability": 0.3,
+    "log_coordinate_shift": 4.0,
+    "ridge_count": 0,
+    "ridge_probability": 0.0,
+    "window_proposal_attempts": 51536,
+    "simplex_dimension_each": 2,
+    "window_acceptance_probability": 0.3333333333333333,
+    "face_probability": 0.6,
+    "design_log_t": 6.0,
+    "total_log_scale_center": 6.0,
+    "logistic_width": 3.0,
+    "tilted_shapes_a": [
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666
+    ],
+    "tilted_shapes_b": [
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666
+    ]
+  },
+  "face_samples": 60054,
+  "ordinary_samples": 5035,
+  "runtime_seconds": 0.16485744499982502,
+  "job": {
+    "mode": "efficiency",
+    "name": "C22222_shifted_window_mixture_L6_seed3",
+    "benchmark": {
+      "id": "C22222",
+      "widths": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "beta": 2,
+      "lambda": 3.0,
+      "q": 4,
+      "kappa": "1/72",
+      "laplace_A": "1/12",
+      "coefficient_status": "complex theorem"
+    },
+    "n": 100000,
+    "seed": 17460003,
+    "batch_size": 25000,
+    "method": "shifted_window_mixture",
+    "log_t": 6
+  },
+  "estimator": "ordinary arithmetic mean of p/q times exact conditional kernel; NOT self-normalized",
+  "rescaling_note": "lambda,q rescale output only, and do not enter proposal density or conditional kernel."
+}

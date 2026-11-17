@@ -1,0 +1,74 @@
+[
+  {
+    "beta": 1,
+    "epsilon": 0.01,
+    "seed": 889010,
+    "n": 1000000,
+    "positive_convolution": 8.81309793630232e-06,
+    "quadrature_error_estimate": 1.2705494208814505e-19,
+    "estimate": 8.83097636516902e-06,
+    "se": 1.52142725724687e-08,
+    "zscore": 1.1751090156655741,
+    "indicator_acceptance_fraction": 0.26633
+  },
+  {
+    "beta": 1,
+    "epsilon": 1.0,
+    "seed": 889011,
+    "n": 1000000,
+    "positive_convolution": 0.06644832174910968,
+    "quadrature_error_estimate": 1.5265566588595902e-16,
+    "estimate": 0.0666328129009279,
+    "se": 8.224215184047501e-05,
+    "zscore": 2.243267566443019,
+    "indicator_acceptance_fraction": 0.420079
+  },
+  {
+    "beta": 1,
+    "epsilon": 10.0,
+    "seed": 889012,
+    "n": 1000000,
+    "positive_convolution": 0.9038047980475902,
+    "quadrature_error_estimate": 4.4366732510070506e-12,
+    "estimate": 0.9041630047589514,
+    "se": 0.00029181506411982117,
+    "zscore": 1.2275127483279538,
+    "indicator_acceptance_fraction": 0.959345
+  },
+  {
+    "beta": 2,
+    "epsilon": 0.01,
+    "seed": 889020,
+    "n": 1000000,
+    "positive_convolution": 2.0688036820672372e-10,
+    "quadrature_error_estimate": 2.296833481260349e-24,
+    "estimate": 2.079786975331368e-10,
+    "se": 1.489987824876836e-12,
+    "zscore": 0.7371397994502882,
+    "indicator_acceptance_fraction": 0.019623
+  },
+  {
+    "beta": 2,
+    "epsilon": 1.0,
+    "seed": 889021,
+    "n": 1000000,
+    "positive_convolution": 0.010488854599076987,
+    "quadrature_error_estimate": 1.1644967877840736e-16,
+    "estimate": 0.010525604055644733,
+    "se": 2.9240165677631134e-05,
+    "zscore": 1.2568142387736119,
+    "indicator_acceptance_fraction": 0.118292
+  },
+  {
+    "beta": 2,
+    "epsilon": 10.0,
+    "seed": 889022,
+    "n": 1000000,
+    "positive_convolution": 0.9500462178966526,
+    "quadrature_error_estimate": 1.0547631855670123e-14,
+    "estimate": 0.9500738876951389,
+    "se": 0.00025334780117640615,
+    "zscore": 0.10921665140908035,
+    "indicator_acceptance_fraction": 0.975463
+  }
+]

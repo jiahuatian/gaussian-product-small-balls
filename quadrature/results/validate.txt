@@ -1,0 +1,10 @@
+Normalization of the closed-form densities, and quadrature against direct Monte Carlo
+(400k Gaussian matrix triples per field; one sample reused for all t, so deviations are correlated).
+[R] integral of h: 0.999999999962  (should be 1)
+[C] integral of h: 0.999999999998  (should be 1)
+[R] t=  0.5  quadrature 0.241381   Monte Carlo 0.241779 +- 0.000489   diff/sigma -0.81
+[R] t=  2.0  quadrature 0.091859   Monte Carlo 0.092342 +- 0.000331   diff/sigma -1.46
+[R] t= 10.0  quadrature 0.022466   Monte Carlo 0.022801 +- 0.000166   diff/sigma -2.02
+[C] t=  0.5  quadrature 0.098029   Monte Carlo 0.098125 +- 0.000279   diff/sigma -0.35
+[C] t=  2.0  quadrature 0.014509   Monte Carlo 0.014513 +- 0.000103   diff/sigma -0.03
+[C] t= 10.0  quadrature 0.000780   Monte Carlo 0.000775 +- 0.000021   diff/sigma +0.24

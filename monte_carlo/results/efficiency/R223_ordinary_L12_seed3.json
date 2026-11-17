@@ -1,0 +1,57 @@
+{
+  "case_id": "R223",
+  "widths": [
+    2,
+    2,
+    3
+  ],
+  "beta": 1,
+  "method": "ordinary",
+  "n": 100000,
+  "seed": 17130103,
+  "log_t": 12,
+  "scaled_estimate": 0.05701059341035624,
+  "scaled_standard_error": 0.02070533081459965,
+  "scaled_sample_variance": 42.871072414200974,
+  "scaled_sum": 5701.059341035624,
+  "scaled_sum_squares": 4287389.391123784,
+  "rescaling_log_factor": 21.515093350212,
+  "log_Z_estimate": -24.379611529322933,
+  "contribution_ess": 7.5808550716897445,
+  "importance_weight_ess": 100000.0,
+  "importance_weight_mean": 1.0,
+  "maximum_contribution_fraction": 0.31986170810281456,
+  "nonzero_contributions": 100000,
+  "first_batch_proposal_metadata": {
+    "method": "ordinary",
+    "face_count": 0,
+    "draws": 25000
+  },
+  "face_samples": 0,
+  "ordinary_samples": 0,
+  "runtime_seconds": 0.031491235999965284,
+  "job": {
+    "mode": "efficiency",
+    "name": "R223_ordinary_L12_seed3",
+    "benchmark": {
+      "id": "R223",
+      "widths": [
+        2,
+        2,
+        3
+      ],
+      "beta": 1,
+      "lambda": 2.0,
+      "q": 1,
+      "kappa": "1/16",
+      "coefficient_status": "proved calibration"
+    },
+    "n": 100000,
+    "seed": 17130103,
+    "batch_size": 25000,
+    "method": "ordinary",
+    "log_t": 12
+  },
+  "estimator": "ordinary arithmetic mean of p/q times exact conditional kernel; NOT self-normalized",
+  "rescaling_note": "lambda,q rescale output only, and do not enter proposal density or conditional kernel."
+}

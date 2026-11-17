@@ -1,0 +1,11 @@
+complex (Theorem A): A = kappa_F*Gamma(4) = 1/2
+  local A at t = 1e9..1e13: 0.50001950 0.50000316 0.50000049 0.50000007 0.50000001
+  extrapolated A = 0.500000071   predicted 0.500000000   relative difference +1.4e-07
+real (Conjecture E): A = Gamma(5/2)*sqrt(2 pi)/48 = pi*sqrt(2)/64
+  local A at t = 1e11..1e15: 0.06945045 0.06943163 0.06942439 0.06942165 0.06942063
+  extrapolated A = 0.069420227   predicted 0.069420046   relative difference +2.6e-06
+  kappa_R(2,2,2,2) = A/Gamma(5/2) = 0.052221558   sqrt(2 pi)/48 = 0.052221422
+  subleading coefficients (A fixed, fit for t >= 1e10): B = 0.320841, C = -1.682766
+  implied ratio t^(3/2) Z(t) / (A_pred L^2) at L =    320: 1.014209
+  implied ratio t^(3/2) Z(t) / (A_pred L^2) at L =    640: 1.007165
+  implied ratio t^(3/2) Z(t) / (A_pred L^2) at L =   1280: 1.003599

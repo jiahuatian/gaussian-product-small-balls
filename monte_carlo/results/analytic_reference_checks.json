@@ -1,0 +1,105 @@
+{
+  "checks": {
+    "real_constant_(2, 2, 2)": true,
+    "real_constant_(2, 2, 3)": true,
+    "real_constant_(2, 2, 2, 2)": true,
+    "real_constant_(2, 2, 2, 2, 2)": true,
+    "one_complex_2x3_matrix": true,
+    "one_complex_scalar": true,
+    "two_complex_scalars": true,
+    "two_complex_2x2": true,
+    "four_complex_2x2_full_polynomial": true,
+    "four_complex_2x2_leading_A": true,
+    "complex_frobenius_leading_1_over_72": true,
+    "complex_frobenius_laplace_transform_roundtrip": true,
+    "real_q1_cdf_coefficient_transform": true,
+    "real_q1_closed_vs_positive_integral": true,
+    "complex_scalar_exact_vs_residue": true,
+    "one_complex_2x2_exact_meijerg": true,
+    "complex_exact_precision_50_vs_80": true,
+    "real_q1_full_cdf_vs_exact_bessel": true,
+    "complex_frobenius_direct_simplex_vs_transform": true
+  },
+  "all_checks_passed": true,
+  "benchmarks": [
+    {
+      "field": "real",
+      "widths": [
+        2,
+        2,
+        2
+      ],
+      "C": 3,
+      "q": 0,
+      "exponent": 1.5,
+      "cdf_kappa": "0.523598775598299",
+      "laplace_A": "0.696040999603963",
+      "coefficient_status": "proved_family"
+    },
+    {
+      "field": "real",
+      "widths": [
+        2,
+        2,
+        3
+      ],
+      "C": 4,
+      "q": 1,
+      "exponent": 2.0,
+      "cdf_kappa": "0.0625",
+      "laplace_A": "0.125",
+      "coefficient_status": "proved_family"
+    },
+    {
+      "field": "real",
+      "widths": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "C": 3,
+      "q": 2,
+      "exponent": 1.5,
+      "cdf_kappa": "0.0522214223881458",
+      "laplace_A": "0.0694200459087245",
+      "coefficient_status": "conjecture_E"
+    },
+    {
+      "field": "real",
+      "widths": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "C": 3,
+      "q": 4,
+      "exponent": 1.5,
+      "cdf_kappa": "0.00173611111111111",
+      "laplace_A": "0.00230788261836656",
+      "coefficient_status": "conjecture_E"
+    },
+    {
+      "field": "complex",
+      "widths": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "C": 3,
+      "q": 4,
+      "exponent": 3,
+      "cdf_kappa": "0.0138888888888889",
+      "laplace_A": "0.0833333333333333",
+      "coefficient_status": "proved_family"
+    }
+  ],
+  "complex_four_2x2_laplace_polynomial": "L**4/12 - EulerGamma*L**3 + 9*EulerGamma**2*L**2/2 + L*(-9*EulerGamma**3 + zeta(3)) - 3*EulerGamma*zeta(3) + 27*EulerGamma**4/4 + 25*pi**4/144",
+  "complex_four_2x2_operator_polynomial": "L**4/48 + L**3*(1/8 - EulerGamma/3) + L**2*(-3*EulerGamma/2 + 9/32 + 2*EulerGamma**2) + L*(-9*EulerGamma/4 - 16*EulerGamma**3/3 + 3/16 + zeta(3)/3 + 6*EulerGamma**2) - 8*EulerGamma**3 - 4*EulerGamma*zeta(3)/3 - 3*EulerGamma/4 + 1/16 + 16*EulerGamma**4/3 + zeta(3)/2 + 5*pi**2/48 + 9*EulerGamma**2/2 + pi**4/36",
+  "complex_four_2x2_frobenius_derived_polynomial": "L**4/72 - 2*EulerGamma*L**3/9 + 11*L**3/108 - 11*EulerGamma*L**2/9 - pi**2*L**2/72 + 85*L**2/216 + 4*EulerGamma**2*L**2/3 - 85*EulerGamma*L/27 - 32*EulerGamma**3*L/9 - 11*pi**2*L/216 + L*zeta(3)/18 + EulerGamma*pi**2*L/9 + 575*L/648 + 44*EulerGamma**2*L/9 - 575*EulerGamma/162 - 176*EulerGamma**3/27 - 2*EulerGamma**2*pi**2/9 - 85*pi**2/1296 - 2*EulerGamma*zeta(3)/9 + 11*zeta(3)/108 + 32*EulerGamma**4/9 + 3661/3888 + 11*EulerGamma*pi**2/54 + 170*EulerGamma**2/27 + 7*pi**4/240",
+  "qualification": "Arithmetic/reference checks only; not mathematical certification."
+}

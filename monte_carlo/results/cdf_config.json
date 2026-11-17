@@ -1,0 +1,85 @@
+{
+  "samples_per_seed": 250000,
+  "replicates": 4,
+  "log_inverse_epsilon": [
+    20,
+    80,
+    320,
+    1280
+  ],
+  "seed_base": 27000000,
+  "tilt_factor": 1.0,
+  "benchmarks": [
+    {
+      "id": "R222",
+      "widths": [
+        2,
+        2,
+        2
+      ],
+      "beta": 1,
+      "lambda": 1.5,
+      "q": 0,
+      "coefficient": 0.5235987755982988,
+      "status": "proved"
+    },
+    {
+      "id": "R223",
+      "widths": [
+        2,
+        2,
+        3
+      ],
+      "beta": 1,
+      "lambda": 2.0,
+      "q": 1,
+      "coefficient": 0.0625,
+      "status": "proved"
+    },
+    {
+      "id": "R2222",
+      "widths": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "beta": 1,
+      "lambda": 1.5,
+      "q": 2,
+      "coefficient": 0.05222142238814584,
+      "status": "conjectured"
+    },
+    {
+      "id": "R22222",
+      "widths": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "beta": 1,
+      "lambda": 1.5,
+      "q": 4,
+      "coefficient": 0.001736111111111111,
+      "status": "conjectured"
+    },
+    {
+      "id": "C22222",
+      "widths": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "beta": 2,
+      "lambda": 3.0,
+      "q": 4,
+      "coefficient": 0.013888888888888888,
+      "status": "proved"
+    }
+  ],
+  "scope": "Actual Frobenius small-ball CDF, not a Laplace amplitude. Coefficients used only for reporting ratios."
+}

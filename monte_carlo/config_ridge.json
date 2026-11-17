@@ -1,0 +1,157 @@
+{
+  "experiment_id": "QIP_MC_2026-11-17_r001",
+  "normalization": "Z(t)=E exp(-t ||P||_F^2); real N(0,1); complex (X+iY)/sqrt(2)",
+  "rng": "numpy PCG64, explicit independent seeds per case/method/log_t/replicate",
+  "benchmarks": [
+    {
+      "id": "R222",
+      "widths": [
+        2,
+        2,
+        2
+      ],
+      "beta": 1,
+      "lambda": 1.5,
+      "q": 0,
+      "kappa": "pi/6",
+      "coefficient_status": "proved calibration"
+    },
+    {
+      "id": "R223",
+      "widths": [
+        2,
+        2,
+        3
+      ],
+      "beta": 1,
+      "lambda": 2.0,
+      "q": 1,
+      "kappa": "1/16",
+      "coefficient_status": "proved calibration"
+    },
+    {
+      "id": "R2222",
+      "widths": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "beta": 1,
+      "lambda": 1.5,
+      "q": 2,
+      "kappa": "sqrt(2*pi)/48",
+      "coefficient_status": "Conjecture E"
+    },
+    {
+      "id": "R22222",
+      "widths": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "beta": 1,
+      "lambda": 1.5,
+      "q": 4,
+      "kappa": "1/576",
+      "coefficient_status": "Conjecture E"
+    },
+    {
+      "id": "C22222",
+      "widths": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "beta": 2,
+      "lambda": 3.0,
+      "q": 4,
+      "kappa": "1/72",
+      "laplace_A": "1/12",
+      "coefficient_status": "complex theorem"
+    },
+    {
+      "id": "R224",
+      "widths": [
+        2,
+        2,
+        4
+      ],
+      "beta": 1,
+      "lambda": 2.0,
+      "q": 0,
+      "kappa": "1/16",
+      "coefficient_status": "additional proved calibration"
+    }
+  ],
+  "direct": {
+    "n_per_seed": 500000,
+    "replicates": 4,
+    "batch_size": 25000,
+    "t_values": [
+      0.1,
+      1,
+      10,
+      100,
+      1000,
+      10000
+    ],
+    "eps_values": [
+      1,
+      0.1,
+      0.01,
+      0.001,
+      0.0001
+    ],
+    "seed_base": 17010000
+  },
+  "variance_reduced": {
+    "n_per_seed": 250000,
+    "replicates": 8,
+    "batch_size": 25000,
+    "log_t_values": [
+      10,
+      40,
+      160,
+      640,
+      1280
+    ],
+    "case_ids": [
+      "R223"
+    ],
+    "method": "ridge_mixture",
+    "seed_base": 18020000
+  },
+  "efficiency": {
+    "n_per_seed": 100000,
+    "replicates": 4,
+    "batch_size": 25000,
+    "log_t_values": [
+      6,
+      12,
+      30,
+      100
+    ],
+    "case_ids": [
+      "R222",
+      "R223",
+      "R2222",
+      "R22222",
+      "C22222",
+      "R224"
+    ],
+    "methods": [
+      "ordinary",
+      "gamma_tilt",
+      "schubert_mixture",
+      "shifted_window_mixture"
+    ],
+    "seed_base": 17030000
+  },
+  "workers": 4,
+  "interpretation": "Theoretical lambda,q only rescale outputs to avoid underflow; no kappa is supplied to an estimator. Confidence intervals quantify Monte Carlo error, not asymptotic remainder or mathematical truth."
+}

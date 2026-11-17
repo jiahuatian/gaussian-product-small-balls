@@ -1,0 +1,77 @@
+{
+  "case_id": "R222",
+  "widths": [
+    2,
+    2,
+    2
+  ],
+  "beta": 1,
+  "method": "shifted_window_mixture",
+  "n": 100000,
+  "seed": 17060103,
+  "log_t": 12,
+  "scaled_estimate": 0.6848609018216408,
+  "scaled_standard_error": 0.0025052910739530917,
+  "scaled_sample_variance": 0.6276483365229035,
+  "scaled_sum": 68486.09018216409,
+  "scaled_sum_squares": 109667.65148834896,
+  "rescaling_log_factor": 18.0,
+  "log_Z_estimate": -18.3785395243741,
+  "contribution_ess": 42768.71515697418,
+  "importance_weight_ess": 5778.3485233592255,
+  "importance_weight_mean": 1.0187153743818396,
+  "maximum_contribution_fraction": 4.293336578692109e-05,
+  "nonzero_contributions": 100000,
+  "first_batch_proposal_metadata": {
+    "method": "shifted_window_mixture",
+    "face_count": 14987,
+    "draws": 25000,
+    "ordinary_count": 1306,
+    "ordinary_probability": 0.05,
+    "shifted_count": 7461,
+    "shifted_probability": 0.3,
+    "log_coordinate_shift": 4.0,
+    "ridge_count": 0,
+    "ridge_probability": 0.0,
+    "window_proposal_attempts": 17235,
+    "simplex_dimension_each": 0,
+    "window_acceptance_probability": 1.0,
+    "face_probability": 0.6,
+    "design_log_t": 12.0,
+    "total_log_scale_center": 13.38629436111989,
+    "logistic_width": 3.0,
+    "tilted_shapes_a": [
+      0.07470327284184572
+    ],
+    "tilted_shapes_b": [
+      0.07470327284184572
+    ]
+  },
+  "face_samples": 59832,
+  "ordinary_samples": 5112,
+  "runtime_seconds": 0.10952643799987527,
+  "job": {
+    "mode": "efficiency",
+    "name": "R222_shifted_window_mixture_L12_seed3",
+    "benchmark": {
+      "id": "R222",
+      "widths": [
+        2,
+        2,
+        2
+      ],
+      "beta": 1,
+      "lambda": 1.5,
+      "q": 0,
+      "kappa": "pi/6",
+      "coefficient_status": "proved calibration"
+    },
+    "n": 100000,
+    "seed": 17060103,
+    "batch_size": 25000,
+    "method": "shifted_window_mixture",
+    "log_t": 12
+  },
+  "estimator": "ordinary arithmetic mean of p/q times exact conditional kernel; NOT self-normalized",
+  "rescaling_note": "lambda,q rescale output only, and do not enter proposal density or conditional kernel."
+}

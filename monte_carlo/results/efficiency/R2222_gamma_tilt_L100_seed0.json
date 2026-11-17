@@ -1,0 +1,81 @@
+{
+  "case_id": "R2222",
+  "widths": [
+    2,
+    2,
+    2,
+    2
+  ],
+  "beta": 1,
+  "method": "gamma_tilt",
+  "n": 100000,
+  "seed": 17240300,
+  "log_t": 100,
+  "scaled_estimate": 0.08919739353854401,
+  "scaled_standard_error": 0.010393161493728516,
+  "scaled_sample_variance": 10.801780583472116,
+  "scaled_sum": 8919.739353854402,
+  "scaled_sum_squares": 1080962.874068035,
+  "rescaling_log_factor": 140.78965962802383,
+  "log_Z_estimate": -143.20656308826685,
+  "contribution_ess": 73.6026667051762,
+  "importance_weight_ess": 4959.034193279557,
+  "importance_weight_mean": 0.9907756662319605,
+  "maximum_contribution_fraction": 0.030237589095917363,
+  "nonzero_contributions": 99569,
+  "first_batch_proposal_metadata": {
+    "method": "gamma_tilt",
+    "face_count": 0,
+    "draws": 25000,
+    "ordinary_count": 1230,
+    "ordinary_probability": 0.05,
+    "shifted_count": 0,
+    "shifted_probability": 0.0,
+    "log_coordinate_shift": 4.0,
+    "ridge_count": 0,
+    "ridge_probability": 0.0,
+    "window_proposal_attempts": 0,
+    "simplex_dimension_each": 1,
+    "window_acceptance_probability": 0.5,
+    "face_probability": 0.0,
+    "design_log_t": 100.0,
+    "total_log_scale_center": 102.07944154167984,
+    "logistic_width": 3.0,
+    "tilted_shapes_a": [
+      0.009796291837976916,
+      0.009796291837976916
+    ],
+    "tilted_shapes_b": [
+      0.009796291837976916,
+      0.009796291837976916
+    ]
+  },
+  "face_samples": 0,
+  "ordinary_samples": 4948,
+  "runtime_seconds": 0.11040869800012842,
+  "job": {
+    "mode": "efficiency",
+    "name": "R2222_gamma_tilt_L100_seed0",
+    "benchmark": {
+      "id": "R2222",
+      "widths": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "beta": 1,
+      "lambda": 1.5,
+      "q": 2,
+      "kappa": "sqrt(2*pi)/48",
+      "coefficient_status": "Conjecture E"
+    },
+    "n": 100000,
+    "seed": 17240300,
+    "batch_size": 25000,
+    "method": "gamma_tilt",
+    "log_t": 100
+  },
+  "estimator": "ordinary arithmetic mean of p/q times exact conditional kernel; NOT self-normalized",
+  "rescaling_note": "lambda,q rescale output only, and do not enter proposal density or conditional kernel."
+}

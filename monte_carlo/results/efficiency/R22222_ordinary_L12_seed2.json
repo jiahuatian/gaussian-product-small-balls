@@ -1,0 +1,61 @@
+{
+  "case_id": "R22222",
+  "widths": [
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "beta": 1,
+  "method": "ordinary",
+  "n": 100000,
+  "seed": 17330102,
+  "log_t": 12,
+  "scaled_estimate": 0.0012858210182915292,
+  "scaled_standard_error": 0.00032805447385504997,
+  "scaled_sample_variance": 0.010761973781631365,
+  "scaled_sum": 128.58210182915292,
+  "scaled_sum_squares": 1076.351949758463,
+  "rescaling_log_factor": 8.060373400847999,
+  "log_Z_estimate": -14.716731240767974,
+  "contribution_ess": 15.360549042079397,
+  "importance_weight_ess": 100000.0,
+  "importance_weight_mean": 1.0,
+  "maximum_contribution_fraction": 0.16855545099887168,
+  "nonzero_contributions": 100000,
+  "first_batch_proposal_metadata": {
+    "method": "ordinary",
+    "face_count": 0,
+    "draws": 25000
+  },
+  "face_samples": 0,
+  "ordinary_samples": 0,
+  "runtime_seconds": 0.09000532100003511,
+  "job": {
+    "mode": "efficiency",
+    "name": "R22222_ordinary_L12_seed2",
+    "benchmark": {
+      "id": "R22222",
+      "widths": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "beta": 1,
+      "lambda": 1.5,
+      "q": 4,
+      "kappa": "1/576",
+      "coefficient_status": "Conjecture E"
+    },
+    "n": 100000,
+    "seed": 17330102,
+    "batch_size": 25000,
+    "method": "ordinary",
+    "log_t": 12
+  },
+  "estimator": "ordinary arithmetic mean of p/q times exact conditional kernel; NOT self-normalized",
+  "rescaling_note": "lambda,q rescale output only, and do not enter proposal density or conditional kernel."
+}

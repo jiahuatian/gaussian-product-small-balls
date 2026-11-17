@@ -1,0 +1,8838 @@
+{
+  "config_sha256": "65ffbdab30757cb36ecf8210d53e34108f966690f98a654764e76e7783270c35",
+  "mode": "efficiency",
+  "jobs": [
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L6_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030000,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L6_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030001,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L6_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030002,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L6_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030003,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L12_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030100,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L12_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030101,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L12_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030102,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L12_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030103,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L30_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030200,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L30_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030201,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L30_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030202,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L30_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030203,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L100_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030300,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L100_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030301,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L100_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030302,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_ordinary_L100_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17030303,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L6_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040000,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L6_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040001,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L6_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040002,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L6_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040003,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L12_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040100,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L12_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040101,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L12_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040102,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L12_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040103,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L30_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040200,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L30_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040201,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L30_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040202,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L30_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040203,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L100_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040300,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L100_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040301,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L100_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040302,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_gamma_tilt_L100_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17040303,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L6_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050000,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L6_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050001,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L6_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050002,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L6_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050003,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L12_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050100,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L12_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050101,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L12_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050102,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L12_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050103,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L30_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050200,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L30_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050201,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L30_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050202,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L30_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050203,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L100_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050300,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L100_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050301,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L100_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050302,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_schubert_mixture_L100_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17050303,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L6_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060000,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L6_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060001,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L6_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060002,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L6_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060003,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L12_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060100,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L12_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060101,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L12_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060102,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L12_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060103,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L30_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060200,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L30_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060201,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L30_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060202,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L30_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060203,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L100_seed0",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060300,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L100_seed1",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060301,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L100_seed2",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060302,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R222_shifted_window_mixture_L100_seed3",
+      "benchmark": {
+        "id": "R222",
+        "widths": [
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 0,
+        "kappa": "pi/6",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17060303,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L6_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130000,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L6_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130001,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L6_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130002,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L6_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130003,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L12_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130100,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L12_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130101,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L12_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130102,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L12_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130103,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L30_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130200,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L30_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130201,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L30_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130202,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L30_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130203,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L100_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130300,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L100_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130301,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L100_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130302,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_ordinary_L100_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17130303,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L6_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140000,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L6_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140001,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L6_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140002,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L6_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140003,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L12_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140100,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L12_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140101,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L12_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140102,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L12_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140103,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L30_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140200,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L30_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140201,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L30_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140202,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L30_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140203,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L100_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140300,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L100_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140301,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L100_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140302,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_gamma_tilt_L100_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17140303,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L6_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150000,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L6_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150001,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L6_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150002,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L6_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150003,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L12_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150100,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L12_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150101,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L12_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150102,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L12_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150103,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L30_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150200,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L30_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150201,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L30_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150202,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L30_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150203,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L100_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150300,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L100_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150301,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L100_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150302,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_schubert_mixture_L100_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17150303,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L6_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160000,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L6_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160001,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L6_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160002,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L6_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160003,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L12_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160100,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L12_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160101,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L12_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160102,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L12_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160103,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L30_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160200,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L30_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160201,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L30_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160202,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L30_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160203,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L100_seed0",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160300,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L100_seed1",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160301,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L100_seed2",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160302,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R223_shifted_window_mixture_L100_seed3",
+      "benchmark": {
+        "id": "R223",
+        "widths": [
+          2,
+          2,
+          3
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 1,
+        "kappa": "1/16",
+        "coefficient_status": "proved calibration"
+      },
+      "n": 100000,
+      "seed": 17160303,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L6_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230000,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L6_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230001,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L6_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230002,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L6_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230003,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L12_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230100,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L12_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230101,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L12_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230102,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L12_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230103,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L30_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230200,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L30_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230201,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L30_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230202,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L30_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230203,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L100_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230300,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L100_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230301,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L100_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230302,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_ordinary_L100_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17230303,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L6_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240000,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L6_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240001,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L6_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240002,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L6_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240003,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L12_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240100,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L12_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240101,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L12_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240102,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L12_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240103,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L30_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240200,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L30_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240201,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L30_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240202,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L30_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240203,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L100_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240300,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L100_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240301,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L100_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240302,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_gamma_tilt_L100_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17240303,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L6_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250000,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L6_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250001,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L6_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250002,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L6_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250003,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L12_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250100,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L12_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250101,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L12_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250102,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L12_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250103,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L30_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250200,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L30_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250201,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L30_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250202,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L30_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250203,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L100_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250300,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L100_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250301,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L100_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250302,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_schubert_mixture_L100_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17250303,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L6_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260000,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L6_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260001,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L6_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260002,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L6_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260003,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L12_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260100,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L12_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260101,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L12_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260102,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L12_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260103,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L30_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260200,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L30_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260201,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L30_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260202,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L30_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260203,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L100_seed0",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260300,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L100_seed1",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260301,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L100_seed2",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260302,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R2222_shifted_window_mixture_L100_seed3",
+      "benchmark": {
+        "id": "R2222",
+        "widths": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 2,
+        "kappa": "sqrt(2*pi)/48",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17260303,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L6_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330000,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L6_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330001,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L6_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330002,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L6_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330003,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L12_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330100,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L12_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330101,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L12_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330102,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L12_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330103,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L30_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330200,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L30_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330201,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L30_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330202,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L30_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330203,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L100_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330300,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L100_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330301,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L100_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330302,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_ordinary_L100_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17330303,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L6_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340000,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L6_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340001,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L6_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340002,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L6_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340003,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L12_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340100,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L12_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340101,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L12_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340102,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L12_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340103,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L30_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340200,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L30_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340201,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L30_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340202,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L30_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340203,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L100_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340300,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L100_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340301,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L100_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340302,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_gamma_tilt_L100_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17340303,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L6_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350000,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L6_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350001,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L6_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350002,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L6_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350003,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L12_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350100,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L12_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350101,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L12_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350102,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L12_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350103,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L30_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350200,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L30_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350201,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L30_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350202,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L30_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350203,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L100_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350300,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L100_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350301,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L100_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350302,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_schubert_mixture_L100_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17350303,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L6_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360000,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L6_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360001,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L6_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360002,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L6_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360003,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L12_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360100,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L12_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360101,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L12_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360102,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L12_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360103,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L30_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360200,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L30_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360201,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L30_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360202,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L30_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360203,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L100_seed0",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360300,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L100_seed1",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360301,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L100_seed2",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360302,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R22222_shifted_window_mixture_L100_seed3",
+      "benchmark": {
+        "id": "R22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 1,
+        "lambda": 1.5,
+        "q": 4,
+        "kappa": "1/576",
+        "coefficient_status": "Conjecture E"
+      },
+      "n": 100000,
+      "seed": 17360303,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L6_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430000,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L6_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430001,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L6_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430002,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L6_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430003,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L12_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430100,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L12_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430101,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L12_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430102,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L12_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430103,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L30_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430200,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L30_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430201,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L30_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430202,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L30_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430203,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L100_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430300,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L100_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430301,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L100_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430302,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_ordinary_L100_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17430303,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L6_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440000,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L6_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440001,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L6_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440002,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L6_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440003,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L12_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440100,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L12_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440101,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L12_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440102,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L12_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440103,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L30_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440200,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L30_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440201,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L30_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440202,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L30_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440203,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L100_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440300,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L100_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440301,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L100_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440302,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_gamma_tilt_L100_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17440303,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L6_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450000,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L6_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450001,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L6_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450002,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L6_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450003,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L12_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450100,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L12_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450101,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L12_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450102,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L12_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450103,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L30_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450200,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L30_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450201,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L30_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450202,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L30_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450203,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L100_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450300,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L100_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450301,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L100_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450302,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_schubert_mixture_L100_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17450303,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L6_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460000,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L6_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460001,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L6_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460002,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L6_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460003,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L12_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460100,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L12_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460101,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L12_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460102,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L12_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460103,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L30_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460200,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L30_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460201,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L30_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460202,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L30_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460203,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L100_seed0",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460300,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L100_seed1",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460301,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L100_seed2",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460302,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "C22222_shifted_window_mixture_L100_seed3",
+      "benchmark": {
+        "id": "C22222",
+        "widths": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "beta": 2,
+        "lambda": 3.0,
+        "q": 4,
+        "kappa": "1/72",
+        "laplace_A": "1/12",
+        "coefficient_status": "complex theorem"
+      },
+      "n": 100000,
+      "seed": 17460303,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L6_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530000,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L6_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530001,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L6_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530002,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L6_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530003,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L12_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530100,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L12_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530101,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L12_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530102,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L12_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530103,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L30_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530200,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L30_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530201,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L30_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530202,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L30_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530203,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L100_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530300,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L100_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530301,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L100_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530302,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_ordinary_L100_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17530303,
+      "batch_size": 25000,
+      "method": "ordinary",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L6_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540000,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L6_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540001,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L6_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540002,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L6_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540003,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L12_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540100,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L12_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540101,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L12_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540102,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L12_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540103,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L30_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540200,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L30_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540201,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L30_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540202,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L30_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540203,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L100_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540300,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L100_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540301,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L100_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540302,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_gamma_tilt_L100_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17540303,
+      "batch_size": 25000,
+      "method": "gamma_tilt",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L6_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550000,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L6_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550001,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L6_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550002,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L6_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550003,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L12_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550100,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L12_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550101,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L12_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550102,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L12_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550103,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L30_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550200,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L30_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550201,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L30_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550202,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L30_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550203,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L100_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550300,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L100_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550301,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L100_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550302,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_schubert_mixture_L100_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17550303,
+      "batch_size": 25000,
+      "method": "schubert_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L6_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560000,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L6_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560001,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L6_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560002,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L6_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560003,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 6
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L12_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560100,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L12_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560101,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L12_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560102,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L12_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560103,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 12
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L30_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560200,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L30_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560201,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L30_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560202,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L30_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560203,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 30
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L100_seed0",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560300,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L100_seed1",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560301,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L100_seed2",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560302,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    },
+    {
+      "mode": "efficiency",
+      "name": "R224_shifted_window_mixture_L100_seed3",
+      "benchmark": {
+        "id": "R224",
+        "widths": [
+          2,
+          2,
+          4
+        ],
+        "beta": 1,
+        "lambda": 2.0,
+        "q": 0,
+        "kappa": "1/16",
+        "coefficient_status": "additional proved calibration"
+      },
+      "n": 100000,
+      "seed": 17560303,
+      "batch_size": 25000,
+      "method": "shifted_window_mixture",
+      "log_t": 100
+    }
+  ]
+}

@@ -1,0 +1,5833 @@
+{
+  "jobs": 832,
+  "total_primary_draws": 154000000,
+  "distinct_seed_count": 832,
+  "duplicate_seeds": {},
+  "scope": "Main, ridge, efficiency, fixed allocation comparison and actual CDF. Independent calibrations and intentional replays listed in their own results, not counted here.",
+  "records": [
+    {
+      "group": "direct",
+      "file": "results/direct/C22222_seed0.json",
+      "seed": 17014000,
+      "n": 500000,
+      "case": "C22222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/C22222_seed1.json",
+      "seed": 17014001,
+      "n": 500000,
+      "case": "C22222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/C22222_seed2.json",
+      "seed": 17014002,
+      "n": 500000,
+      "case": "C22222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/C22222_seed3.json",
+      "seed": 17014003,
+      "n": 500000,
+      "case": "C22222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R22222_seed0.json",
+      "seed": 17013000,
+      "n": 500000,
+      "case": "R22222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R22222_seed1.json",
+      "seed": 17013001,
+      "n": 500000,
+      "case": "R22222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R22222_seed2.json",
+      "seed": 17013002,
+      "n": 500000,
+      "case": "R22222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R22222_seed3.json",
+      "seed": 17013003,
+      "n": 500000,
+      "case": "R22222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R2222_seed0.json",
+      "seed": 17012000,
+      "n": 500000,
+      "case": "R2222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R2222_seed1.json",
+      "seed": 17012001,
+      "n": 500000,
+      "case": "R2222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R2222_seed2.json",
+      "seed": 17012002,
+      "n": 500000,
+      "case": "R2222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R2222_seed3.json",
+      "seed": 17012003,
+      "n": 500000,
+      "case": "R2222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R222_seed0.json",
+      "seed": 17010000,
+      "n": 500000,
+      "case": "R222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R222_seed1.json",
+      "seed": 17010001,
+      "n": 500000,
+      "case": "R222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R222_seed2.json",
+      "seed": 17010002,
+      "n": 500000,
+      "case": "R222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R222_seed3.json",
+      "seed": 17010003,
+      "n": 500000,
+      "case": "R222"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R223_seed0.json",
+      "seed": 17011000,
+      "n": 500000,
+      "case": "R223"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R223_seed1.json",
+      "seed": 17011001,
+      "n": 500000,
+      "case": "R223"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R223_seed2.json",
+      "seed": 17011002,
+      "n": 500000,
+      "case": "R223"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R223_seed3.json",
+      "seed": 17011003,
+      "n": 500000,
+      "case": "R223"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R224_seed0.json",
+      "seed": 17015000,
+      "n": 500000,
+      "case": "R224"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R224_seed1.json",
+      "seed": 17015001,
+      "n": 500000,
+      "case": "R224"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R224_seed2.json",
+      "seed": 17015002,
+      "n": 500000,
+      "case": "R224"
+    },
+    {
+      "group": "direct",
+      "file": "results/direct/R224_seed3.json",
+      "seed": 17015003,
+      "n": 500000,
+      "case": "R224"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L10_seed0.json",
+      "seed": 17420000,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L10_seed1.json",
+      "seed": 17420001,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L10_seed2.json",
+      "seed": 17420002,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L10_seed3.json",
+      "seed": 17420003,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L10_seed4.json",
+      "seed": 17420004,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L10_seed5.json",
+      "seed": 17420005,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L10_seed6.json",
+      "seed": 17420006,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L10_seed7.json",
+      "seed": 17420007,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L1280_seed0.json",
+      "seed": 17420700,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L1280_seed1.json",
+      "seed": 17420701,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L1280_seed2.json",
+      "seed": 17420702,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L1280_seed3.json",
+      "seed": 17420703,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L1280_seed4.json",
+      "seed": 17420704,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L1280_seed5.json",
+      "seed": 17420705,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L1280_seed6.json",
+      "seed": 17420706,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L1280_seed7.json",
+      "seed": 17420707,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L160_seed0.json",
+      "seed": 17420400,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L160_seed1.json",
+      "seed": 17420401,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L160_seed2.json",
+      "seed": 17420402,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L160_seed3.json",
+      "seed": 17420403,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L160_seed4.json",
+      "seed": 17420404,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L160_seed5.json",
+      "seed": 17420405,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L160_seed6.json",
+      "seed": 17420406,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L160_seed7.json",
+      "seed": 17420407,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L20_seed0.json",
+      "seed": 17420100,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L20_seed1.json",
+      "seed": 17420101,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L20_seed2.json",
+      "seed": 17420102,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L20_seed3.json",
+      "seed": 17420103,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L20_seed4.json",
+      "seed": 17420104,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L20_seed5.json",
+      "seed": 17420105,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L20_seed6.json",
+      "seed": 17420106,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L20_seed7.json",
+      "seed": 17420107,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L320_seed0.json",
+      "seed": 17420500,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L320_seed1.json",
+      "seed": 17420501,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L320_seed2.json",
+      "seed": 17420502,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L320_seed3.json",
+      "seed": 17420503,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L320_seed4.json",
+      "seed": 17420504,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L320_seed5.json",
+      "seed": 17420505,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L320_seed6.json",
+      "seed": 17420506,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L320_seed7.json",
+      "seed": 17420507,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L40_seed0.json",
+      "seed": 17420200,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L40_seed1.json",
+      "seed": 17420201,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L40_seed2.json",
+      "seed": 17420202,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L40_seed3.json",
+      "seed": 17420203,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L40_seed4.json",
+      "seed": 17420204,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L40_seed5.json",
+      "seed": 17420205,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L40_seed6.json",
+      "seed": 17420206,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L40_seed7.json",
+      "seed": 17420207,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L640_seed0.json",
+      "seed": 17420600,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L640_seed1.json",
+      "seed": 17420601,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L640_seed2.json",
+      "seed": 17420602,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L640_seed3.json",
+      "seed": 17420603,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L640_seed4.json",
+      "seed": 17420604,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L640_seed5.json",
+      "seed": 17420605,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L640_seed6.json",
+      "seed": 17420606,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L640_seed7.json",
+      "seed": 17420607,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L80_seed0.json",
+      "seed": 17420300,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L80_seed1.json",
+      "seed": 17420301,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L80_seed2.json",
+      "seed": 17420302,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L80_seed3.json",
+      "seed": 17420303,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L80_seed4.json",
+      "seed": 17420304,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L80_seed5.json",
+      "seed": 17420305,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L80_seed6.json",
+      "seed": 17420306,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/C22222_shifted_window_mixture_L80_seed7.json",
+      "seed": 17420307,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L10_seed0.json",
+      "seed": 17320000,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L10_seed1.json",
+      "seed": 17320001,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L10_seed2.json",
+      "seed": 17320002,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L10_seed3.json",
+      "seed": 17320003,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L10_seed4.json",
+      "seed": 17320004,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L10_seed5.json",
+      "seed": 17320005,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L10_seed6.json",
+      "seed": 17320006,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L10_seed7.json",
+      "seed": 17320007,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L1280_seed0.json",
+      "seed": 17320700,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L1280_seed1.json",
+      "seed": 17320701,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L1280_seed2.json",
+      "seed": 17320702,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L1280_seed3.json",
+      "seed": 17320703,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L1280_seed4.json",
+      "seed": 17320704,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L1280_seed5.json",
+      "seed": 17320705,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L1280_seed6.json",
+      "seed": 17320706,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L1280_seed7.json",
+      "seed": 17320707,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L160_seed0.json",
+      "seed": 17320400,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L160_seed1.json",
+      "seed": 17320401,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L160_seed2.json",
+      "seed": 17320402,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L160_seed3.json",
+      "seed": 17320403,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L160_seed4.json",
+      "seed": 17320404,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L160_seed5.json",
+      "seed": 17320405,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L160_seed6.json",
+      "seed": 17320406,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L160_seed7.json",
+      "seed": 17320407,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L20_seed0.json",
+      "seed": 17320100,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L20_seed1.json",
+      "seed": 17320101,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L20_seed2.json",
+      "seed": 17320102,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L20_seed3.json",
+      "seed": 17320103,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L20_seed4.json",
+      "seed": 17320104,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L20_seed5.json",
+      "seed": 17320105,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L20_seed6.json",
+      "seed": 17320106,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L20_seed7.json",
+      "seed": 17320107,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L320_seed0.json",
+      "seed": 17320500,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L320_seed1.json",
+      "seed": 17320501,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L320_seed2.json",
+      "seed": 17320502,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L320_seed3.json",
+      "seed": 17320503,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L320_seed4.json",
+      "seed": 17320504,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L320_seed5.json",
+      "seed": 17320505,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L320_seed6.json",
+      "seed": 17320506,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L320_seed7.json",
+      "seed": 17320507,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L40_seed0.json",
+      "seed": 17320200,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L40_seed1.json",
+      "seed": 17320201,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L40_seed2.json",
+      "seed": 17320202,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L40_seed3.json",
+      "seed": 17320203,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L40_seed4.json",
+      "seed": 17320204,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L40_seed5.json",
+      "seed": 17320205,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L40_seed6.json",
+      "seed": 17320206,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L40_seed7.json",
+      "seed": 17320207,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L640_seed0.json",
+      "seed": 17320600,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L640_seed1.json",
+      "seed": 17320601,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L640_seed2.json",
+      "seed": 17320602,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L640_seed3.json",
+      "seed": 17320603,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L640_seed4.json",
+      "seed": 17320604,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L640_seed5.json",
+      "seed": 17320605,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L640_seed6.json",
+      "seed": 17320606,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L640_seed7.json",
+      "seed": 17320607,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L80_seed0.json",
+      "seed": 17320300,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L80_seed1.json",
+      "seed": 17320301,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L80_seed2.json",
+      "seed": 17320302,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L80_seed3.json",
+      "seed": 17320303,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L80_seed4.json",
+      "seed": 17320304,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L80_seed5.json",
+      "seed": 17320305,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L80_seed6.json",
+      "seed": 17320306,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R22222_shifted_window_mixture_L80_seed7.json",
+      "seed": 17320307,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L10_seed0.json",
+      "seed": 17220000,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L10_seed1.json",
+      "seed": 17220001,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L10_seed2.json",
+      "seed": 17220002,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L10_seed3.json",
+      "seed": 17220003,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L10_seed4.json",
+      "seed": 17220004,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L10_seed5.json",
+      "seed": 17220005,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L10_seed6.json",
+      "seed": 17220006,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L10_seed7.json",
+      "seed": 17220007,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L1280_seed0.json",
+      "seed": 17220700,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L1280_seed1.json",
+      "seed": 17220701,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L1280_seed2.json",
+      "seed": 17220702,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L1280_seed3.json",
+      "seed": 17220703,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L1280_seed4.json",
+      "seed": 17220704,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L1280_seed5.json",
+      "seed": 17220705,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L1280_seed6.json",
+      "seed": 17220706,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L1280_seed7.json",
+      "seed": 17220707,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L160_seed0.json",
+      "seed": 17220400,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L160_seed1.json",
+      "seed": 17220401,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L160_seed2.json",
+      "seed": 17220402,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L160_seed3.json",
+      "seed": 17220403,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L160_seed4.json",
+      "seed": 17220404,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L160_seed5.json",
+      "seed": 17220405,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L160_seed6.json",
+      "seed": 17220406,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L160_seed7.json",
+      "seed": 17220407,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L20_seed0.json",
+      "seed": 17220100,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L20_seed1.json",
+      "seed": 17220101,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L20_seed2.json",
+      "seed": 17220102,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L20_seed3.json",
+      "seed": 17220103,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L20_seed4.json",
+      "seed": 17220104,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L20_seed5.json",
+      "seed": 17220105,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L20_seed6.json",
+      "seed": 17220106,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L20_seed7.json",
+      "seed": 17220107,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L320_seed0.json",
+      "seed": 17220500,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L320_seed1.json",
+      "seed": 17220501,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L320_seed2.json",
+      "seed": 17220502,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L320_seed3.json",
+      "seed": 17220503,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L320_seed4.json",
+      "seed": 17220504,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L320_seed5.json",
+      "seed": 17220505,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L320_seed6.json",
+      "seed": 17220506,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L320_seed7.json",
+      "seed": 17220507,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L40_seed0.json",
+      "seed": 17220200,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L40_seed1.json",
+      "seed": 17220201,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L40_seed2.json",
+      "seed": 17220202,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L40_seed3.json",
+      "seed": 17220203,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L40_seed4.json",
+      "seed": 17220204,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L40_seed5.json",
+      "seed": 17220205,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L40_seed6.json",
+      "seed": 17220206,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L40_seed7.json",
+      "seed": 17220207,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L640_seed0.json",
+      "seed": 17220600,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L640_seed1.json",
+      "seed": 17220601,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L640_seed2.json",
+      "seed": 17220602,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L640_seed3.json",
+      "seed": 17220603,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L640_seed4.json",
+      "seed": 17220604,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L640_seed5.json",
+      "seed": 17220605,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L640_seed6.json",
+      "seed": 17220606,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L640_seed7.json",
+      "seed": 17220607,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L80_seed0.json",
+      "seed": 17220300,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L80_seed1.json",
+      "seed": 17220301,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L80_seed2.json",
+      "seed": 17220302,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L80_seed3.json",
+      "seed": 17220303,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L80_seed4.json",
+      "seed": 17220304,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L80_seed5.json",
+      "seed": 17220305,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L80_seed6.json",
+      "seed": 17220306,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R2222_shifted_window_mixture_L80_seed7.json",
+      "seed": 17220307,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L10_seed0.json",
+      "seed": 17020000,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L10_seed1.json",
+      "seed": 17020001,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L10_seed2.json",
+      "seed": 17020002,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L10_seed3.json",
+      "seed": 17020003,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L10_seed4.json",
+      "seed": 17020004,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L10_seed5.json",
+      "seed": 17020005,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L10_seed6.json",
+      "seed": 17020006,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L10_seed7.json",
+      "seed": 17020007,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L1280_seed0.json",
+      "seed": 17020700,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L1280_seed1.json",
+      "seed": 17020701,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L1280_seed2.json",
+      "seed": 17020702,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L1280_seed3.json",
+      "seed": 17020703,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L1280_seed4.json",
+      "seed": 17020704,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L1280_seed5.json",
+      "seed": 17020705,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L1280_seed6.json",
+      "seed": 17020706,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L1280_seed7.json",
+      "seed": 17020707,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L160_seed0.json",
+      "seed": 17020400,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L160_seed1.json",
+      "seed": 17020401,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L160_seed2.json",
+      "seed": 17020402,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L160_seed3.json",
+      "seed": 17020403,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L160_seed4.json",
+      "seed": 17020404,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L160_seed5.json",
+      "seed": 17020405,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L160_seed6.json",
+      "seed": 17020406,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L160_seed7.json",
+      "seed": 17020407,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L20_seed0.json",
+      "seed": 17020100,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L20_seed1.json",
+      "seed": 17020101,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L20_seed2.json",
+      "seed": 17020102,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L20_seed3.json",
+      "seed": 17020103,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L20_seed4.json",
+      "seed": 17020104,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L20_seed5.json",
+      "seed": 17020105,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L20_seed6.json",
+      "seed": 17020106,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L20_seed7.json",
+      "seed": 17020107,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L320_seed0.json",
+      "seed": 17020500,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L320_seed1.json",
+      "seed": 17020501,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L320_seed2.json",
+      "seed": 17020502,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L320_seed3.json",
+      "seed": 17020503,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L320_seed4.json",
+      "seed": 17020504,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L320_seed5.json",
+      "seed": 17020505,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L320_seed6.json",
+      "seed": 17020506,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L320_seed7.json",
+      "seed": 17020507,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L40_seed0.json",
+      "seed": 17020200,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L40_seed1.json",
+      "seed": 17020201,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L40_seed2.json",
+      "seed": 17020202,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L40_seed3.json",
+      "seed": 17020203,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L40_seed4.json",
+      "seed": 17020204,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L40_seed5.json",
+      "seed": 17020205,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L40_seed6.json",
+      "seed": 17020206,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L40_seed7.json",
+      "seed": 17020207,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L640_seed0.json",
+      "seed": 17020600,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L640_seed1.json",
+      "seed": 17020601,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L640_seed2.json",
+      "seed": 17020602,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L640_seed3.json",
+      "seed": 17020603,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L640_seed4.json",
+      "seed": 17020604,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L640_seed5.json",
+      "seed": 17020605,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L640_seed6.json",
+      "seed": 17020606,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L640_seed7.json",
+      "seed": 17020607,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L80_seed0.json",
+      "seed": 17020300,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L80_seed1.json",
+      "seed": 17020301,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L80_seed2.json",
+      "seed": 17020302,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L80_seed3.json",
+      "seed": 17020303,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L80_seed4.json",
+      "seed": 17020304,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L80_seed5.json",
+      "seed": 17020305,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L80_seed6.json",
+      "seed": 17020306,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R222_shifted_window_mixture_L80_seed7.json",
+      "seed": 17020307,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L10_seed0.json",
+      "seed": 18120000,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L10_seed1.json",
+      "seed": 18120001,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L10_seed2.json",
+      "seed": 18120002,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L10_seed3.json",
+      "seed": 18120003,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L10_seed4.json",
+      "seed": 18120004,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L10_seed5.json",
+      "seed": 18120005,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L10_seed6.json",
+      "seed": 18120006,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L10_seed7.json",
+      "seed": 18120007,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L1280_seed0.json",
+      "seed": 18120400,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L1280_seed1.json",
+      "seed": 18120401,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L1280_seed2.json",
+      "seed": 18120402,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L1280_seed3.json",
+      "seed": 18120403,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L1280_seed4.json",
+      "seed": 18120404,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L1280_seed5.json",
+      "seed": 18120405,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L1280_seed6.json",
+      "seed": 18120406,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L1280_seed7.json",
+      "seed": 18120407,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L160_seed0.json",
+      "seed": 18120200,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L160_seed1.json",
+      "seed": 18120201,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L160_seed2.json",
+      "seed": 18120202,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L160_seed3.json",
+      "seed": 18120203,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L160_seed4.json",
+      "seed": 18120204,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L160_seed5.json",
+      "seed": 18120205,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L160_seed6.json",
+      "seed": 18120206,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L160_seed7.json",
+      "seed": 18120207,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L40_seed0.json",
+      "seed": 18120100,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L40_seed1.json",
+      "seed": 18120101,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L40_seed2.json",
+      "seed": 18120102,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L40_seed3.json",
+      "seed": 18120103,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L40_seed4.json",
+      "seed": 18120104,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L40_seed5.json",
+      "seed": 18120105,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L40_seed6.json",
+      "seed": 18120106,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L40_seed7.json",
+      "seed": 18120107,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L640_seed0.json",
+      "seed": 18120300,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L640_seed1.json",
+      "seed": 18120301,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L640_seed2.json",
+      "seed": 18120302,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L640_seed3.json",
+      "seed": 18120303,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L640_seed4.json",
+      "seed": 18120304,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L640_seed5.json",
+      "seed": 18120305,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L640_seed6.json",
+      "seed": 18120306,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "vr",
+      "file": "results/vr/R223_ridge_mixture_L640_seed7.json",
+      "seed": 18120307,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L100_seed0.json",
+      "seed": 17440300,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L100_seed1.json",
+      "seed": 17440301,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L100_seed2.json",
+      "seed": 17440302,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L100_seed3.json",
+      "seed": 17440303,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L12_seed0.json",
+      "seed": 17440100,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L12_seed1.json",
+      "seed": 17440101,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L12_seed2.json",
+      "seed": 17440102,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L12_seed3.json",
+      "seed": 17440103,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L30_seed0.json",
+      "seed": 17440200,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L30_seed1.json",
+      "seed": 17440201,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L30_seed2.json",
+      "seed": 17440202,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L30_seed3.json",
+      "seed": 17440203,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L6_seed0.json",
+      "seed": 17440000,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L6_seed1.json",
+      "seed": 17440001,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L6_seed2.json",
+      "seed": 17440002,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_gamma_tilt_L6_seed3.json",
+      "seed": 17440003,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L100_seed0.json",
+      "seed": 17430300,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L100_seed1.json",
+      "seed": 17430301,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L100_seed2.json",
+      "seed": 17430302,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L100_seed3.json",
+      "seed": 17430303,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L12_seed0.json",
+      "seed": 17430100,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L12_seed1.json",
+      "seed": 17430101,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L12_seed2.json",
+      "seed": 17430102,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L12_seed3.json",
+      "seed": 17430103,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L30_seed0.json",
+      "seed": 17430200,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L30_seed1.json",
+      "seed": 17430201,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L30_seed2.json",
+      "seed": 17430202,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L30_seed3.json",
+      "seed": 17430203,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L6_seed0.json",
+      "seed": 17430000,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L6_seed1.json",
+      "seed": 17430001,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L6_seed2.json",
+      "seed": 17430002,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_ordinary_L6_seed3.json",
+      "seed": 17430003,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L100_seed0.json",
+      "seed": 17450300,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L100_seed1.json",
+      "seed": 17450301,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L100_seed2.json",
+      "seed": 17450302,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L100_seed3.json",
+      "seed": 17450303,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L12_seed0.json",
+      "seed": 17450100,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L12_seed1.json",
+      "seed": 17450101,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L12_seed2.json",
+      "seed": 17450102,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L12_seed3.json",
+      "seed": 17450103,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L30_seed0.json",
+      "seed": 17450200,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L30_seed1.json",
+      "seed": 17450201,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L30_seed2.json",
+      "seed": 17450202,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L30_seed3.json",
+      "seed": 17450203,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L6_seed0.json",
+      "seed": 17450000,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L6_seed1.json",
+      "seed": 17450001,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L6_seed2.json",
+      "seed": 17450002,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_schubert_mixture_L6_seed3.json",
+      "seed": 17450003,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L100_seed0.json",
+      "seed": 17460300,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L100_seed1.json",
+      "seed": 17460301,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L100_seed2.json",
+      "seed": 17460302,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L100_seed3.json",
+      "seed": 17460303,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L12_seed0.json",
+      "seed": 17460100,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L12_seed1.json",
+      "seed": 17460101,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L12_seed2.json",
+      "seed": 17460102,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L12_seed3.json",
+      "seed": 17460103,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L30_seed0.json",
+      "seed": 17460200,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L30_seed1.json",
+      "seed": 17460201,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L30_seed2.json",
+      "seed": 17460202,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L30_seed3.json",
+      "seed": 17460203,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L6_seed0.json",
+      "seed": 17460000,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L6_seed1.json",
+      "seed": 17460001,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L6_seed2.json",
+      "seed": 17460002,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/C22222_shifted_window_mixture_L6_seed3.json",
+      "seed": 17460003,
+      "n": 100000,
+      "case": "C22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L100_seed0.json",
+      "seed": 17340300,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L100_seed1.json",
+      "seed": 17340301,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L100_seed2.json",
+      "seed": 17340302,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L100_seed3.json",
+      "seed": 17340303,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L12_seed0.json",
+      "seed": 17340100,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L12_seed1.json",
+      "seed": 17340101,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L12_seed2.json",
+      "seed": 17340102,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L12_seed3.json",
+      "seed": 17340103,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L30_seed0.json",
+      "seed": 17340200,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L30_seed1.json",
+      "seed": 17340201,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L30_seed2.json",
+      "seed": 17340202,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L30_seed3.json",
+      "seed": 17340203,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L6_seed0.json",
+      "seed": 17340000,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L6_seed1.json",
+      "seed": 17340001,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L6_seed2.json",
+      "seed": 17340002,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_gamma_tilt_L6_seed3.json",
+      "seed": 17340003,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L100_seed0.json",
+      "seed": 17330300,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L100_seed1.json",
+      "seed": 17330301,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L100_seed2.json",
+      "seed": 17330302,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L100_seed3.json",
+      "seed": 17330303,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L12_seed0.json",
+      "seed": 17330100,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L12_seed1.json",
+      "seed": 17330101,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L12_seed2.json",
+      "seed": 17330102,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L12_seed3.json",
+      "seed": 17330103,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L30_seed0.json",
+      "seed": 17330200,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L30_seed1.json",
+      "seed": 17330201,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L30_seed2.json",
+      "seed": 17330202,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L30_seed3.json",
+      "seed": 17330203,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L6_seed0.json",
+      "seed": 17330000,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L6_seed1.json",
+      "seed": 17330001,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L6_seed2.json",
+      "seed": 17330002,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_ordinary_L6_seed3.json",
+      "seed": 17330003,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L100_seed0.json",
+      "seed": 17350300,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L100_seed1.json",
+      "seed": 17350301,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L100_seed2.json",
+      "seed": 17350302,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L100_seed3.json",
+      "seed": 17350303,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L12_seed0.json",
+      "seed": 17350100,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L12_seed1.json",
+      "seed": 17350101,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L12_seed2.json",
+      "seed": 17350102,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L12_seed3.json",
+      "seed": 17350103,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L30_seed0.json",
+      "seed": 17350200,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L30_seed1.json",
+      "seed": 17350201,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L30_seed2.json",
+      "seed": 17350202,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L30_seed3.json",
+      "seed": 17350203,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L6_seed0.json",
+      "seed": 17350000,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L6_seed1.json",
+      "seed": 17350001,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L6_seed2.json",
+      "seed": 17350002,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_schubert_mixture_L6_seed3.json",
+      "seed": 17350003,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L100_seed0.json",
+      "seed": 17360300,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L100_seed1.json",
+      "seed": 17360301,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L100_seed2.json",
+      "seed": 17360302,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L100_seed3.json",
+      "seed": 17360303,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L12_seed0.json",
+      "seed": 17360100,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L12_seed1.json",
+      "seed": 17360101,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L12_seed2.json",
+      "seed": 17360102,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L12_seed3.json",
+      "seed": 17360103,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L30_seed0.json",
+      "seed": 17360200,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L30_seed1.json",
+      "seed": 17360201,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L30_seed2.json",
+      "seed": 17360202,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L30_seed3.json",
+      "seed": 17360203,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L6_seed0.json",
+      "seed": 17360000,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L6_seed1.json",
+      "seed": 17360001,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L6_seed2.json",
+      "seed": 17360002,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R22222_shifted_window_mixture_L6_seed3.json",
+      "seed": 17360003,
+      "n": 100000,
+      "case": "R22222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L100_seed0.json",
+      "seed": 17240300,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L100_seed1.json",
+      "seed": 17240301,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L100_seed2.json",
+      "seed": 17240302,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L100_seed3.json",
+      "seed": 17240303,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L12_seed0.json",
+      "seed": 17240100,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L12_seed1.json",
+      "seed": 17240101,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L12_seed2.json",
+      "seed": 17240102,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L12_seed3.json",
+      "seed": 17240103,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L30_seed0.json",
+      "seed": 17240200,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L30_seed1.json",
+      "seed": 17240201,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L30_seed2.json",
+      "seed": 17240202,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L30_seed3.json",
+      "seed": 17240203,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L6_seed0.json",
+      "seed": 17240000,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L6_seed1.json",
+      "seed": 17240001,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L6_seed2.json",
+      "seed": 17240002,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_gamma_tilt_L6_seed3.json",
+      "seed": 17240003,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L100_seed0.json",
+      "seed": 17230300,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L100_seed1.json",
+      "seed": 17230301,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L100_seed2.json",
+      "seed": 17230302,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L100_seed3.json",
+      "seed": 17230303,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L12_seed0.json",
+      "seed": 17230100,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L12_seed1.json",
+      "seed": 17230101,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L12_seed2.json",
+      "seed": 17230102,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L12_seed3.json",
+      "seed": 17230103,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L30_seed0.json",
+      "seed": 17230200,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L30_seed1.json",
+      "seed": 17230201,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L30_seed2.json",
+      "seed": 17230202,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L30_seed3.json",
+      "seed": 17230203,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L6_seed0.json",
+      "seed": 17230000,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L6_seed1.json",
+      "seed": 17230001,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L6_seed2.json",
+      "seed": 17230002,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_ordinary_L6_seed3.json",
+      "seed": 17230003,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L100_seed0.json",
+      "seed": 17250300,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L100_seed1.json",
+      "seed": 17250301,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L100_seed2.json",
+      "seed": 17250302,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L100_seed3.json",
+      "seed": 17250303,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L12_seed0.json",
+      "seed": 17250100,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L12_seed1.json",
+      "seed": 17250101,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L12_seed2.json",
+      "seed": 17250102,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L12_seed3.json",
+      "seed": 17250103,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L30_seed0.json",
+      "seed": 17250200,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L30_seed1.json",
+      "seed": 17250201,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L30_seed2.json",
+      "seed": 17250202,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L30_seed3.json",
+      "seed": 17250203,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L6_seed0.json",
+      "seed": 17250000,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L6_seed1.json",
+      "seed": 17250001,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L6_seed2.json",
+      "seed": 17250002,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_schubert_mixture_L6_seed3.json",
+      "seed": 17250003,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L100_seed0.json",
+      "seed": 17260300,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L100_seed1.json",
+      "seed": 17260301,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L100_seed2.json",
+      "seed": 17260302,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L100_seed3.json",
+      "seed": 17260303,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L12_seed0.json",
+      "seed": 17260100,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L12_seed1.json",
+      "seed": 17260101,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L12_seed2.json",
+      "seed": 17260102,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L12_seed3.json",
+      "seed": 17260103,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L30_seed0.json",
+      "seed": 17260200,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L30_seed1.json",
+      "seed": 17260201,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L30_seed2.json",
+      "seed": 17260202,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L30_seed3.json",
+      "seed": 17260203,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L6_seed0.json",
+      "seed": 17260000,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L6_seed1.json",
+      "seed": 17260001,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L6_seed2.json",
+      "seed": 17260002,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R2222_shifted_window_mixture_L6_seed3.json",
+      "seed": 17260003,
+      "n": 100000,
+      "case": "R2222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L100_seed0.json",
+      "seed": 17040300,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L100_seed1.json",
+      "seed": 17040301,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L100_seed2.json",
+      "seed": 17040302,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L100_seed3.json",
+      "seed": 17040303,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L12_seed0.json",
+      "seed": 17040100,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L12_seed1.json",
+      "seed": 17040101,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L12_seed2.json",
+      "seed": 17040102,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L12_seed3.json",
+      "seed": 17040103,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L30_seed0.json",
+      "seed": 17040200,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L30_seed1.json",
+      "seed": 17040201,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L30_seed2.json",
+      "seed": 17040202,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L30_seed3.json",
+      "seed": 17040203,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L6_seed0.json",
+      "seed": 17040000,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L6_seed1.json",
+      "seed": 17040001,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L6_seed2.json",
+      "seed": 17040002,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_gamma_tilt_L6_seed3.json",
+      "seed": 17040003,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L100_seed0.json",
+      "seed": 17030300,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L100_seed1.json",
+      "seed": 17030301,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L100_seed2.json",
+      "seed": 17030302,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L100_seed3.json",
+      "seed": 17030303,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L12_seed0.json",
+      "seed": 17030100,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L12_seed1.json",
+      "seed": 17030101,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L12_seed2.json",
+      "seed": 17030102,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L12_seed3.json",
+      "seed": 17030103,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L30_seed0.json",
+      "seed": 17030200,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L30_seed1.json",
+      "seed": 17030201,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L30_seed2.json",
+      "seed": 17030202,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L30_seed3.json",
+      "seed": 17030203,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L6_seed0.json",
+      "seed": 17030000,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L6_seed1.json",
+      "seed": 17030001,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L6_seed2.json",
+      "seed": 17030002,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_ordinary_L6_seed3.json",
+      "seed": 17030003,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L100_seed0.json",
+      "seed": 17050300,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L100_seed1.json",
+      "seed": 17050301,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L100_seed2.json",
+      "seed": 17050302,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L100_seed3.json",
+      "seed": 17050303,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L12_seed0.json",
+      "seed": 17050100,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L12_seed1.json",
+      "seed": 17050101,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L12_seed2.json",
+      "seed": 17050102,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L12_seed3.json",
+      "seed": 17050103,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L30_seed0.json",
+      "seed": 17050200,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L30_seed1.json",
+      "seed": 17050201,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L30_seed2.json",
+      "seed": 17050202,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L30_seed3.json",
+      "seed": 17050203,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L6_seed0.json",
+      "seed": 17050000,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L6_seed1.json",
+      "seed": 17050001,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L6_seed2.json",
+      "seed": 17050002,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_schubert_mixture_L6_seed3.json",
+      "seed": 17050003,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L100_seed0.json",
+      "seed": 17060300,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L100_seed1.json",
+      "seed": 17060301,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L100_seed2.json",
+      "seed": 17060302,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L100_seed3.json",
+      "seed": 17060303,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L12_seed0.json",
+      "seed": 17060100,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L12_seed1.json",
+      "seed": 17060101,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L12_seed2.json",
+      "seed": 17060102,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L12_seed3.json",
+      "seed": 17060103,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L30_seed0.json",
+      "seed": 17060200,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L30_seed1.json",
+      "seed": 17060201,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L30_seed2.json",
+      "seed": 17060202,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L30_seed3.json",
+      "seed": 17060203,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L6_seed0.json",
+      "seed": 17060000,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L6_seed1.json",
+      "seed": 17060001,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L6_seed2.json",
+      "seed": 17060002,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R222_shifted_window_mixture_L6_seed3.json",
+      "seed": 17060003,
+      "n": 100000,
+      "case": "R222"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L100_seed0.json",
+      "seed": 17140300,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L100_seed1.json",
+      "seed": 17140301,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L100_seed2.json",
+      "seed": 17140302,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L100_seed3.json",
+      "seed": 17140303,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L12_seed0.json",
+      "seed": 17140100,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L12_seed1.json",
+      "seed": 17140101,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L12_seed2.json",
+      "seed": 17140102,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L12_seed3.json",
+      "seed": 17140103,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L30_seed0.json",
+      "seed": 17140200,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L30_seed1.json",
+      "seed": 17140201,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L30_seed2.json",
+      "seed": 17140202,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L30_seed3.json",
+      "seed": 17140203,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L6_seed0.json",
+      "seed": 17140000,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L6_seed1.json",
+      "seed": 17140001,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L6_seed2.json",
+      "seed": 17140002,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_gamma_tilt_L6_seed3.json",
+      "seed": 17140003,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L100_seed0.json",
+      "seed": 17130300,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L100_seed1.json",
+      "seed": 17130301,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L100_seed2.json",
+      "seed": 17130302,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L100_seed3.json",
+      "seed": 17130303,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L12_seed0.json",
+      "seed": 17130100,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L12_seed1.json",
+      "seed": 17130101,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L12_seed2.json",
+      "seed": 17130102,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L12_seed3.json",
+      "seed": 17130103,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L30_seed0.json",
+      "seed": 17130200,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L30_seed1.json",
+      "seed": 17130201,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L30_seed2.json",
+      "seed": 17130202,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L30_seed3.json",
+      "seed": 17130203,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L6_seed0.json",
+      "seed": 17130000,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L6_seed1.json",
+      "seed": 17130001,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L6_seed2.json",
+      "seed": 17130002,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_ordinary_L6_seed3.json",
+      "seed": 17130003,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L100_seed0.json",
+      "seed": 17150300,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L100_seed1.json",
+      "seed": 17150301,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L100_seed2.json",
+      "seed": 17150302,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L100_seed3.json",
+      "seed": 17150303,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L12_seed0.json",
+      "seed": 17150100,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L12_seed1.json",
+      "seed": 17150101,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L12_seed2.json",
+      "seed": 17150102,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L12_seed3.json",
+      "seed": 17150103,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L30_seed0.json",
+      "seed": 17150200,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L30_seed1.json",
+      "seed": 17150201,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L30_seed2.json",
+      "seed": 17150202,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L30_seed3.json",
+      "seed": 17150203,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L6_seed0.json",
+      "seed": 17150000,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L6_seed1.json",
+      "seed": 17150001,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L6_seed2.json",
+      "seed": 17150002,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_schubert_mixture_L6_seed3.json",
+      "seed": 17150003,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L100_seed0.json",
+      "seed": 17160300,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L100_seed1.json",
+      "seed": 17160301,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L100_seed2.json",
+      "seed": 17160302,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L100_seed3.json",
+      "seed": 17160303,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L12_seed0.json",
+      "seed": 17160100,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L12_seed1.json",
+      "seed": 17160101,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L12_seed2.json",
+      "seed": 17160102,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L12_seed3.json",
+      "seed": 17160103,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L30_seed0.json",
+      "seed": 17160200,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L30_seed1.json",
+      "seed": 17160201,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L30_seed2.json",
+      "seed": 17160202,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L30_seed3.json",
+      "seed": 17160203,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L6_seed0.json",
+      "seed": 17160000,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L6_seed1.json",
+      "seed": 17160001,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L6_seed2.json",
+      "seed": 17160002,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R223_shifted_window_mixture_L6_seed3.json",
+      "seed": 17160003,
+      "n": 100000,
+      "case": "R223"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L100_seed0.json",
+      "seed": 17540300,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L100_seed1.json",
+      "seed": 17540301,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L100_seed2.json",
+      "seed": 17540302,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L100_seed3.json",
+      "seed": 17540303,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L12_seed0.json",
+      "seed": 17540100,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L12_seed1.json",
+      "seed": 17540101,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L12_seed2.json",
+      "seed": 17540102,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L12_seed3.json",
+      "seed": 17540103,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L30_seed0.json",
+      "seed": 17540200,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L30_seed1.json",
+      "seed": 17540201,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L30_seed2.json",
+      "seed": 17540202,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L30_seed3.json",
+      "seed": 17540203,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L6_seed0.json",
+      "seed": 17540000,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L6_seed1.json",
+      "seed": 17540001,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L6_seed2.json",
+      "seed": 17540002,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_gamma_tilt_L6_seed3.json",
+      "seed": 17540003,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L100_seed0.json",
+      "seed": 17530300,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L100_seed1.json",
+      "seed": 17530301,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L100_seed2.json",
+      "seed": 17530302,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L100_seed3.json",
+      "seed": 17530303,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L12_seed0.json",
+      "seed": 17530100,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L12_seed1.json",
+      "seed": 17530101,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L12_seed2.json",
+      "seed": 17530102,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L12_seed3.json",
+      "seed": 17530103,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L30_seed0.json",
+      "seed": 17530200,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L30_seed1.json",
+      "seed": 17530201,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L30_seed2.json",
+      "seed": 17530202,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L30_seed3.json",
+      "seed": 17530203,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L6_seed0.json",
+      "seed": 17530000,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L6_seed1.json",
+      "seed": 17530001,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L6_seed2.json",
+      "seed": 17530002,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_ordinary_L6_seed3.json",
+      "seed": 17530003,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L100_seed0.json",
+      "seed": 17550300,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L100_seed1.json",
+      "seed": 17550301,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L100_seed2.json",
+      "seed": 17550302,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L100_seed3.json",
+      "seed": 17550303,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L12_seed0.json",
+      "seed": 17550100,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L12_seed1.json",
+      "seed": 17550101,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L12_seed2.json",
+      "seed": 17550102,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L12_seed3.json",
+      "seed": 17550103,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L30_seed0.json",
+      "seed": 17550200,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L30_seed1.json",
+      "seed": 17550201,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L30_seed2.json",
+      "seed": 17550202,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L30_seed3.json",
+      "seed": 17550203,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L6_seed0.json",
+      "seed": 17550000,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L6_seed1.json",
+      "seed": 17550001,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L6_seed2.json",
+      "seed": 17550002,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_schubert_mixture_L6_seed3.json",
+      "seed": 17550003,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L100_seed0.json",
+      "seed": 17560300,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L100_seed1.json",
+      "seed": 17560301,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L100_seed2.json",
+      "seed": 17560302,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L100_seed3.json",
+      "seed": 17560303,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L12_seed0.json",
+      "seed": 17560100,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L12_seed1.json",
+      "seed": 17560101,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L12_seed2.json",
+      "seed": 17560102,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L12_seed3.json",
+      "seed": 17560103,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L30_seed0.json",
+      "seed": 17560200,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L30_seed1.json",
+      "seed": 17560201,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L30_seed2.json",
+      "seed": 17560202,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L30_seed3.json",
+      "seed": 17560203,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L6_seed0.json",
+      "seed": 17560000,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L6_seed1.json",
+      "seed": 17560001,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L6_seed2.json",
+      "seed": 17560002,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "efficiency",
+      "file": "results/efficiency/R224_shifted_window_mixture_L6_seed3.json",
+      "seed": 17560003,
+      "n": 100000,
+      "case": "R224"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 1738219,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 11738219,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 1738229,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 11738229,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 1738239,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 11738239,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 1738251,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 11738251,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 1745219,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 11745219,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 1745229,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 11745229,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 1745239,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 11745239,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 1745251,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 11745251,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 1767219,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 11767219,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 1767229,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 11767229,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 1767239,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 11767239,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 1767251,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 11767251,
+      "n": 200000,
+      "case": "beta1"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 2738219,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 12738219,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 2738229,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 12738229,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 2738239,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 12738239,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 2738251,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 12738251,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 2745219,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 12745219,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 2745229,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 12745229,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 2745239,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 12745239,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 2745251,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 12745251,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 2767219,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 12767219,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 2767229,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 12767229,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 2767239,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 12767239,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 2767251,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "stratified",
+      "file": "results/stratified_replicates.json",
+      "seed": 12767251,
+      "n": 200000,
+      "case": "beta2"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000000,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000001,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000002,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000003,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000100,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000101,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000102,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000103,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000200,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000201,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000202,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000203,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000300,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000301,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000302,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27000303,
+      "n": 250000,
+      "case": "R222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100000,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100001,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100002,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100003,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100100,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100101,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100102,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100103,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100200,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100201,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100202,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100203,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100300,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100301,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100302,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27100303,
+      "n": 250000,
+      "case": "R223"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200000,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200001,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200002,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200003,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200100,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200101,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200102,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200103,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200200,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200201,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200202,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200203,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200300,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200301,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200302,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27200303,
+      "n": 250000,
+      "case": "R2222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300000,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300001,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300002,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300003,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300100,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300101,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300102,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300103,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300200,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300201,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300202,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300203,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300300,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300301,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300302,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27300303,
+      "n": 250000,
+      "case": "R22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400000,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400001,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400002,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400003,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400100,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400101,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400102,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400103,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400200,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400201,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400202,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400203,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400300,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400301,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400302,
+      "n": 250000,
+      "case": "C22222"
+    },
+    {
+      "group": "actual_cdf",
+      "file": "results/cdf_replicates.json",
+      "seed": 27400303,
+      "n": 250000,
+      "case": "C22222"
+    }
+  ]
+}

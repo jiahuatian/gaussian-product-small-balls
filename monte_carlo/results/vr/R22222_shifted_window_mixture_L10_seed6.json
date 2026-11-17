@@ -1,0 +1,85 @@
+{
+  "case_id": "R22222",
+  "widths": [
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "beta": 1,
+  "method": "shifted_window_mixture",
+  "n": 250000,
+  "seed": 17320006,
+  "log_t": 10,
+  "scaled_estimate": 0.004706154050004129,
+  "scaled_standard_error": 6.222215756980161e-05,
+  "scaled_sample_variance": 0.0009678992231603048,
+  "scaled_sum": 1176.5385125010323,
+  "scaled_sum_squares": 247.51080937644562,
+  "rescaling_log_factor": 5.789659628023816,
+  "log_Z_estimate": -11.148543882429047,
+  "contribution_ess": 5592.656235440654,
+  "importance_weight_ess": 13582.669353525835,
+  "importance_weight_mean": 0.9956320402331387,
+  "maximum_contribution_fraction": 0.0013882588899103647,
+  "nonzero_contributions": 250000,
+  "first_batch_proposal_metadata": {
+    "method": "shifted_window_mixture",
+    "face_count": 15029,
+    "draws": 25000,
+    "ordinary_count": 1255,
+    "ordinary_probability": 0.05,
+    "shifted_count": 7481,
+    "shifted_probability": 0.3,
+    "log_coordinate_shift": 4.0,
+    "ridge_count": 0,
+    "ridge_probability": 0.0,
+    "window_proposal_attempts": 51850,
+    "simplex_dimension_each": 2,
+    "window_acceptance_probability": 0.3333333333333333,
+    "face_probability": 0.6,
+    "design_log_t": 10.0,
+    "total_log_scale_center": 12.772588722239782,
+    "logistic_width": 3.0,
+    "tilted_shapes_a": [
+      0.07829266421604794,
+      0.07829266421604794,
+      0.07829266421604794
+    ],
+    "tilted_shapes_b": [
+      0.07829266421604794,
+      0.07829266421604794,
+      0.07829266421604794
+    ]
+  },
+  "face_samples": 150200,
+  "ordinary_samples": 12472,
+  "runtime_seconds": 0.865322143999947,
+  "job": {
+    "mode": "vr",
+    "name": "R22222_shifted_window_mixture_L10_seed6",
+    "benchmark": {
+      "id": "R22222",
+      "widths": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "beta": 1,
+      "lambda": 1.5,
+      "q": 4,
+      "kappa": "1/576",
+      "coefficient_status": "Conjecture E"
+    },
+    "n": 250000,
+    "seed": 17320006,
+    "batch_size": 25000,
+    "method": "shifted_window_mixture",
+    "log_t": 10
+  },
+  "estimator": "ordinary arithmetic mean of p/q times exact conditional kernel; NOT self-normalized",
+  "rescaling_note": "lambda,q rescale output only, and do not enter proposal density or conditional kernel."
+}
